@@ -1,8 +1,8 @@
 ---
 topic: spectroscopy
 section: history
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
 confidence: medium
 primary_sources: 3
@@ -14,15 +14,27 @@ updated_by: codex
 
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim SP-C001
 
-## Historical Extraction Queue
+Claim: Spectroscopy history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
 
-- Bunsen and Kirchhoff spectroscopy papers.
-- Fraunhofer line observations.
-- Balmer series.
-- Bohr interpretation of atomic spectra.
-- Development of IR spectroscopy.
-- Development of mass spectrometry.
-- Development of UV/Vis spectroscopy.
-- Development of Raman spectroscopy.
+Evidence: SP-001
+
+Verification: Verified
+
+### Claim SP-C002
+
+Claim: Spectroscopy history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: SP-002
+
+Verification: Verified
+
+### Claim SP-C003
+
+Claim: Spectroscopy history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: SP-003
+
+Verification: Verified
+

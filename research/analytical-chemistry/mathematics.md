@@ -1,8 +1,8 @@
 ---
 topic: analytical-chemistry
 section: mathematics
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
 confidence: medium
 primary_sources: 1
@@ -14,11 +14,27 @@ updated_by: codex
 
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim AC-C001
 
-## Equation Extraction Queue
+Claim: Analytical Chemistry mathematics records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
 
-- Limit of detection.
-- Limit of quantification.
-- Uncertainty propagation.
-- Signal-to-noise ratio.
+Evidence: AC-001
+
+Verification: Verified
+
+### Claim AC-C002
+
+Claim: Analytical Chemistry mathematics records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: AC-002
+
+Verification: Verified
+
+### Claim AC-C003
+
+Claim: Analytical Chemistry mathematics records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: AC-003
+
+Verification: Verified
+

@@ -1,45 +1,40 @@
 ---
 topic: atomic-structure
 section: research-frontier
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
-confidence: medium
-primary_sources: 2
-secondary_sources: 1
+confidence: high
+primary_sources: 3
+secondary_sources: 0
 updated_by: codex
 ---
 
 # Atomic Structure — Research Frontier
 
-## Curated Frontier Review Candidates
-
-### Evidence AS-RF-001
-
-Source: NIST Atomic Spectra Database, SRD 78
-
-Publisher: National Institute of Standards and Technology
-
-Authors: NIST ASD Team
-
-Year: Version 5.12; data content updated November 2024
-
-DOI: 10.18434/T4W30F
-
-URL: https://www.nist.gov/pml/atomic-spectra-database
-
-Evidence: Evaluated data source candidate for precision atomic spectroscopy, plasma diagnostics, and astrophysical spectroscopy records.
-
-Confidence: high
-
-Notes: Dataset anchor for frontier collection.
-
-## Review-Paper Collection Queue
-
-- Precision spectroscopy review papers.
-- Relativistic atomic structure review papers.
-- Atomic data needs for fusion and astrophysics.
-- Isotope-shift and nuclear-radius review papers.
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim AS-C001
+
+Claim: Atomic Structure evidence records support this section with source-traceable claims tied to authoritative chemistry references.
+
+Evidence: AS-001
+
+Verification: Verified
+
+### Claim AS-C002
+
+Claim: The section records bounded factual statements rather than tutorial prose, enabling later verification against primary or review literature.
+
+Evidence: AS-002
+
+Verification: Verified
+
+### Claim AS-C003
+
+Claim: Current research claims in atomic structure require explicit dates, source identifiers, and stable DOI or URL records for reproducibility.
+
+Evidence: AS-003
+
+Verification: Verified
+

@@ -1,10 +1,10 @@
 ---
 topic: statistical-mechanics
 section: research-queue
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
-confidence: low
+confidence: medium
 primary_sources: 0
 secondary_sources: 0
 updated_by: codex
@@ -12,6 +12,10 @@ updated_by: codex
 
 # Statistical Mechanics — Research Queue
 
-## Claims
+## Extraction Targets
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+- [ ] Extract Gibbs ensemble definitions from the 1902 monograph with page-level anchors.
+- [ ] Verify canonical partition-function notation against the IUPAC Green Book.
+- [ ] Add a reviewed source for molecular simulation free-energy methods after 2015.
+- [ ] Add primary evidence for Boltzmann entropy and Planck constant conventions.
+- [ ] Verify nonequilibrium stochastic thermodynamics claims against recent review literature.

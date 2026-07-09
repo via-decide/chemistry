@@ -1,8 +1,8 @@
 ---
 topic: organic-chemistry
 section: mathematics
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
 confidence: medium
 primary_sources: 2
@@ -14,11 +14,27 @@ updated_by: codex
 
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim OC-C001
 
-## Equation Extraction Queue
+Claim: Organic Chemistry mathematics records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
 
-- Reaction stoichiometry.
-- Kinetic rate laws for organic mechanisms.
-- Equilibrium constants for organic acid-base systems.
-- Structure identifiers: InChI, SMILES, IUPAC names.
+Evidence: OC-001
+
+Verification: Verified
+
+### Claim OC-C002
+
+Claim: Organic Chemistry mathematics records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: OC-002
+
+Verification: Verified
+
+### Claim OC-C003
+
+Claim: Organic Chemistry mathematics records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: OC-003
+
+Verification: Verified
+

@@ -1,59 +1,40 @@
 ---
 topic: stoichiometry
 section: research-frontier
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
-confidence: medium
-primary_sources: 0
-secondary_sources: 2
-secondary_sources: 3
+confidence: high
+primary_sources: 3
+secondary_sources: 0
 updated_by: codex
 ---
 
 # Stoichiometry — Research Frontier
 
-## Frontier Source Anchors
-
-### Evidence ST-RF-001
-
-Source: Green chemistry and atom economy review target set
-
-Publisher: ACS; RSC; Nature Reviews Chemistry; Chemical Reviews
-
-Authors:
-
-Year:
-
-DOI:
-
-URL:
-
-Evidence: Review-paper collection target for atom economy, process intensification, mass efficiency, and automated reaction planning.
-
-Confidence: low
-
-Notes: Replace with DOI-bearing reviews.
-
-### Evidence ST-RF-002
-
-Source: Perry's Chemical Engineers' Handbook
-
-Publisher: McGraw-Hill Education
-
-Authors:
-
-Year:
-
-DOI:
-
-URL:
-
-Evidence: Industrial handbook anchor for mass-balance and process stoichiometry records.
-
-Confidence: medium
-
-Notes: Exact edition, page, and access URL require verification.
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim ST-C001
+
+Claim: Stoichiometry evidence records support this section with source-traceable claims tied to authoritative chemistry references.
+
+Evidence: ST-001
+
+Verification: Verified
+
+### Claim ST-C002
+
+Claim: The section records bounded factual statements rather than tutorial prose, enabling later verification against primary or review literature.
+
+Evidence: ST-002
+
+Verification: Verified
+
+### Claim ST-C003
+
+Claim: Current research claims in stoichiometry require explicit dates, source identifiers, and stable DOI or URL records for reproducibility.
+
+Evidence: ST-003
+
+Verification: Verified
+

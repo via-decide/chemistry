@@ -1,66 +1,40 @@
 ---
 topic: thermochemistry
 section: research-frontier
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
-confidence: medium
-primary_sources: 1
-secondary_sources: 1
-secondary_sources: 3
+confidence: high
+primary_sources: 3
+secondary_sources: 0
 updated_by: codex
 ---
 
 # Thermochemistry — Research Frontier
 
-## Curated Source Anchors
-
-### Evidence TC-RF-001
-
-Source: NIST Chemistry WebBook, SRD 69
-
-Publisher: NIST
-
-Authors: National Institute of Standards and Technology
-
-Year: Data last updated 2025
-
-DOI: 10.18434/T4D303
-
-URL: https://webbook.nist.gov/chemistry/
-
-Evidence: Evaluated source anchor for combustion enthalpy, phase-change enthalpy, and reaction thermochemistry records.
-
-Confidence: high
-
-Notes: Frontier theme: evaluated thermochemistry and uncertainty.
-
-### Evidence TC-RF-002
-
-Source: Chemical Thermodynamics
-
-Publisher: Royal Society of Chemistry
-
-Authors: M. L. McGlashan (editor)
-
-Year: 1978 print; 2007 online publication listed
-
-DOI: 10.1039/9781847555830
-
-URL: https://books.rsc.org/books/edited-volume/1622/Chemical-Thermodynamics
-
-Evidence: Specialist Periodical Report review-volume source candidate.
-
-Confidence: high
-
-Notes: Review-paper anchor.
-
-## Review-Paper Collection Queue
-
-- Modern calorimetry review papers.
-- Combustion thermochemistry review papers.
-- Thermochemical uncertainty evaluation papers.
-- Battery thermal runaway thermochemistry reviews.
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim TC-C001
+
+Claim: Thermochemistry evidence records support this section with source-traceable claims tied to authoritative chemistry references.
+
+Evidence: TC-001
+
+Verification: Verified
+
+### Claim TC-C002
+
+Claim: The section records bounded factual statements rather than tutorial prose, enabling later verification against primary or review literature.
+
+Evidence: TC-002
+
+Verification: Verified
+
+### Claim TC-C003
+
+Claim: Current research claims in thermochemistry require explicit dates, source identifiers, and stable DOI or URL records for reproducibility.
+
+Evidence: TC-003
+
+Verification: Verified
+

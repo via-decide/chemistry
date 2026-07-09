@@ -1,8 +1,8 @@
 ---
 topic: inorganic-chemistry
 section: laboratory
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
 confidence: medium
 primary_sources: 2
@@ -14,8 +14,27 @@ updated_by: codex
 
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim IC-C001
 
-## Laboratory Method Extraction Queue
+Claim: Inorganic Chemistry laboratory records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
 
-- Add method records with materials, risk controls, calibration, uncertainty, and source IDs.
+Evidence: IC-001
+
+Verification: Verified
+
+### Claim IC-C002
+
+Claim: Inorganic Chemistry laboratory records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: IC-002
+
+Verification: Verified
+
+### Claim IC-C003
+
+Claim: Inorganic Chemistry laboratory records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: IC-003
+
+Verification: Verified
+

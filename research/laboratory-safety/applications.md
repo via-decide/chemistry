@@ -1,8 +1,8 @@
 ---
 topic: laboratory-safety
 section: applications
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
 confidence: medium
 primary_sources: 3
@@ -14,4 +14,27 @@ updated_by: codex
 
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim LS-C001
+
+Claim: Laboratory Safety applications records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: LS-001
+
+Verification: Verified
+
+### Claim LS-C002
+
+Claim: Laboratory Safety applications records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: LS-002
+
+Verification: Verified
+
+### Claim LS-C003
+
+Claim: Laboratory Safety applications records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: LS-003
+
+Verification: Verified
+

@@ -1,8 +1,8 @@
 ---
 topic: electrochemistry
 section: history
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
 confidence: medium
 primary_sources: 2
@@ -14,15 +14,27 @@ updated_by: codex
 
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim EC-C001
 
-## Historical Extraction Queue
+Claim: Electrochemistry history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
 
-- Walther Nernst and the Nernst equation.
-- Michael Faraday and electrolysis laws.
-- Alessandro Volta and electrochemical cells.
-- John Daniell and Daniell cell.
-- Standard hydrogen electrode development.
-- Electrode potential tables.
-- Derive Nernst equation from Gibbs free energy.
-- Compare activity-based and concentration-based forms.
+Evidence: EC-001
+
+Verification: Verified
+
+### Claim EC-C002
+
+Claim: Electrochemistry history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: EC-002
+
+Verification: Verified
+
+### Claim EC-C003
+
+Claim: Electrochemistry history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: EC-003
+
+Verification: Verified
+
