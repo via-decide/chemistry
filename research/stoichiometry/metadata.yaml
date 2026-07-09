@@ -1,3 +1,48 @@
+id: stoichiometry
+canonical_name: Stoichiometry
+aliases:
+  - reaction stoichiometry
+  - chemical arithmetic
+  - quantitative chemical reactions
+difficulty: foundational
+prerequisites:
+  - atomic-structure
+  - mole-concept
+  - chemical-equations
+depends_on:
+  - conservation-of-mass
+  - atomic-weights
+  - balanced-equations
+used_by:
+  - analytical-chemistry
+  - chemical-kinetics
+  - chemical-equilibrium
+  - chemical-engineering
+industry_tags:
+  - process yield
+  - reactor feed ratios
+  - mass balance
+  - quality control
+history_people:
+  - Antoine Lavoisier
+  - Joseph Proust
+  - John Dalton
+equations:
+  - mass balance
+  - mole ratio from balanced equation
+  - percent yield
+datasets:
+  - CIAAW Standard Atomic Weights
+  - CRC Handbook of Chemistry and Physics
+related_topics:
+  - atomic-weights
+  - chemical-equilibrium
+  - chemical-kinetics
+  - thermochemistry
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_primary_history_fraction: 0.20
+  min_evaluated_data_fraction: 0.25
 topic: stoichiometry
 title: Stoichiometry
 identifier_prefix: ST

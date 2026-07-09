@@ -1,0 +1,61 @@
+id: chemical-equilibrium
+canonical_name: Chemical Equilibrium
+aliases:
+  - equilibrium chemistry
+  - reaction equilibrium
+  - dynamic equilibrium
+difficulty: intermediate
+prerequisites:
+  - stoichiometry
+  - chemical-kinetics
+  - chemical-thermodynamics
+depends_on:
+  - reversible-reactions
+  - law-of-mass-action
+  - equilibrium-constant
+used_by:
+  - acids-and-bases
+  - electrochemistry
+  - solubility-equilibria
+  - reaction-engineering
+industry_tags:
+  - ammonia synthesis
+  - gas-phase reactions
+  - separations
+  - process optimization
+history_people:
+  - Cato Guldberg
+  - Peter Waage
+  - Jacobus Henricus van 't Hoff
+  - Claude Louis Berthollet
+equations:
+  - Kc expression
+  - Kp expression
+  - Q expression
+  - Delta G standard = -RT ln K
+datasets:
+  - Perry's Chemical Engineers' Handbook
+  - NIST Chemistry WebBook
+related_topics:
+  - chemical-thermodynamics
+  - chemical-kinetics
+  - acids-and-bases
+  - electrochemistry
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_primary_literature_fraction: 0.20
+  min_industrial_handbook_fraction: 0.15
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

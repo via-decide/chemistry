@@ -1,0 +1,63 @@
+id: chemical-thermodynamics
+canonical_name: Chemical Thermodynamics
+aliases:
+  - thermodynamics in chemistry
+  - chemical free energy
+  - thermodynamic chemistry
+difficulty: intermediate
+prerequisites:
+  - thermochemistry
+  - stoichiometry
+  - mathematical-functions
+depends_on:
+  - entropy
+  - enthalpy
+  - free-energy
+  - chemical-potential
+used_by:
+  - chemical-equilibrium
+  - electrochemistry
+  - phase-equilibria
+  - chemical-engineering
+industry_tags:
+  - process design
+  - energy systems
+  - separations
+  - phase equilibrium
+  - batteries
+history_people:
+  - Josiah Willard Gibbs
+  - Rudolf Clausius
+  - William Thomson
+  - James Prescott Joule
+equations:
+  - G = H - TS
+  - Delta G = Delta H - T Delta S
+  - Delta G standard = -RT ln K
+datasets:
+  - NIST Chemistry WebBook
+  - CRC Handbook of Chemistry and Physics
+  - Perry's Chemical Engineers' Handbook
+related_topics:
+  - thermochemistry
+  - statistical-mechanics
+  - chemical-equilibrium
+  - electrochemistry
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_handbook_fraction: 0.15
+  min_evaluated_data_fraction: 0.25
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

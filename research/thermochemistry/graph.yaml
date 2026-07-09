@@ -1,0 +1,34 @@
+nodes:
+  - id: thermochemistry
+    type: topic
+  - id: stoichiometry
+    type: topic
+  - id: calorimetry
+    type: concept
+  - id: chemical-thermodynamics
+    type: topic
+  - id: combustion
+    type: application
+  - id: process-safety
+    type: application
+edges:
+  - from: stoichiometry
+    to: thermochemistry
+    relation: scales_reaction_heat_by_amount
+    confidence: high
+  - from: calorimetry
+    to: thermochemistry
+    relation: measures_heat_effects
+    confidence: high
+  - from: thermochemistry
+    to: chemical-thermodynamics
+    relation: contributes_enthalpy_data
+    confidence: high
+  - from: thermochemistry
+    to: combustion
+    relation: provides_heat_of_reaction_data
+    confidence: high
+  - from: thermochemistry
+    to: process-safety
+    relation: informs_exotherm_and_heat_release
+    confidence: medium

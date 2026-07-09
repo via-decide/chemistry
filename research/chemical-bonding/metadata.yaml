@@ -1,3 +1,50 @@
+id: chemical-bonding
+canonical_name: Chemical Bonding
+aliases:
+  - chemical bond
+  - molecular bonding
+  - valence bonding
+difficulty: foundational_to_intermediate
+prerequisites:
+  - atomic-structure
+  - periodic-table
+  - electron-configuration
+depends_on:
+  - electrostatics
+  - quantum-mechanics
+  - molecular-orbitals
+used_by:
+  - organic-chemistry
+  - inorganic-chemistry
+  - materials-chemistry
+  - coordination-chemistry
+industry_tags:
+  - materials design
+  - catalysis
+  - polymers
+  - semiconductors
+history_people:
+  - Gilbert N. Lewis
+  - Linus Pauling
+  - Robert S. Mulliken
+  - Walter Heitler
+  - Fritz London
+equations:
+  - Coulomb interaction energy
+  - bond dissociation enthalpy
+  - dipole moment
+datasets:
+  - CRC Handbook of Chemistry and Physics
+  - NIST Chemistry WebBook
+related_topics:
+  - atomic-structure
+  - molecular-geometry
+  - spectroscopy
+  - thermochemistry
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_review_fraction: 0.25
+  min_primary_literature_fraction: 0.20
 topic: chemical-bonding
 title: Chemical Bonding
 identifier_prefix: CB

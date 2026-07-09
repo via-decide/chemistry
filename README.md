@@ -30,3 +30,12 @@ Each topic directory contains:
 - `research-queue.md`
 - `references.md`
 - `metadata.yaml`
+
+
+## Upgrade Pass A Additions
+
+- Repository-level source ranking lives in `research/source-policy.md`.
+- Graph-ready topic nodes and relationships live in `research/graph/`.
+- Topic maturity scoring lives in each `quality-score.yaml`.
+- Optional addenda such as `primary-literature.md`, `datasets.md`, and `standards.md` extend topic packages while preserving the required core schema.
+- Topic-local graph addenda may live in `research/<topic-slug>/graph.yaml` and are mirrored into the repository graph when promoted.

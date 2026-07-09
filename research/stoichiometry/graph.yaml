@@ -1,0 +1,34 @@
+nodes:
+  - id: stoichiometry
+    type: topic
+  - id: conservation-of-mass
+    type: concept
+  - id: atomic-weights
+    type: concept
+  - id: chemical-equilibrium
+    type: topic
+  - id: chemical-kinetics
+    type: topic
+  - id: thermochemistry
+    type: topic
+edges:
+  - from: conservation-of-mass
+    to: stoichiometry
+    relation: foundational_principle
+    confidence: high
+  - from: atomic-weights
+    to: stoichiometry
+    relation: provides_quantitative_basis
+    confidence: high
+  - from: stoichiometry
+    to: chemical-equilibrium
+    relation: required_for_equilibrium_calculations
+    confidence: high
+  - from: stoichiometry
+    to: chemical-kinetics
+    relation: supports_rate_and_reaction_interpretation
+    confidence: medium
+  - from: stoichiometry
+    to: thermochemistry
+    relation: scales_reaction_enthalpies
+    confidence: high

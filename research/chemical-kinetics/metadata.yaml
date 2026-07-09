@@ -1,0 +1,64 @@
+id: chemical-kinetics
+canonical_name: Chemical Kinetics
+aliases:
+  - reaction kinetics
+  - rate processes
+difficulty: intermediate
+prerequisites:
+  - stoichiometry
+  - chemical-bonding
+  - chemical-thermodynamics
+depends_on:
+  - rate-laws
+  - activation-energy
+  - molecular-collisions
+  - reaction-mechanisms
+used_by:
+  - reactor-design
+  - catalysis
+  - atmospheric-chemistry
+  - pharmaceutical-stability
+industry_tags:
+  - chemical manufacturing
+  - catalysis
+  - combustion
+  - process safety
+  - pharmaceuticals
+history_people:
+  - Svante Arrhenius
+  - Max Bodenstein
+  - Cyril Hinshelwood
+  - Henry Eyring
+  - Michaelis
+  - Menten
+equations:
+  - rate = k[A]^m[B]^n
+  - k = A exp(-Ea/RT)
+  - integrated first-order law
+  - integrated second-order law
+datasets:
+  - NIST Chemistry WebBook
+  - JACS kinetics reviews
+related_topics:
+  - chemical-equilibrium
+  - catalysis
+  - reaction-engineering
+  - thermodynamics
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_peer_reviewed_review_fraction: 0.30
+  min_primary_literature_fraction: 0.20
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md
