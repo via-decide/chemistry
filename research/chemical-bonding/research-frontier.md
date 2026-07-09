@@ -41,3 +41,6 @@ Notes: Historical/conceptual review candidate.
 - RSC reviews on chemical bonding descriptors.
 - Reviews on valence bond theory and molecular orbital theory.
 - Reviews on bonding in materials, catalysis, and main-group chemistry.
+## Claims
+
+No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
