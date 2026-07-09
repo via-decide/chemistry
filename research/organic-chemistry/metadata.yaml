@@ -1,0 +1,62 @@
+id: organic-chemistry
+canonical_name: Organic Chemistry
+aliases:
+  - carbon chemistry
+  - organic synthesis
+difficulty: foundational_to_advanced
+prerequisites:
+  - chemical-bonding
+  - acids-and-bases
+  - spectroscopy
+depends_on:
+  - functional-groups
+  - stereochemistry
+  - reaction-mechanisms
+  - nomenclature
+used_by:
+  - medicinal-chemistry
+  - polymer-chemistry
+  - chemical-biology
+  - materials-chemistry
+industry_tags:
+  - pharmaceuticals
+  - agrochemicals
+  - polymers
+  - petrochemicals
+  - fine chemicals
+history_people:
+  - Friedrich Wohler
+  - August Kekule
+  - Archibald Scott Couper
+  - Alexander Butlerov
+  - Robert Burns Woodward
+equations:
+  - kinetic rate laws for mechanisms
+  - equilibrium constants for organic acid-base systems
+datasets:
+  - IUPAC Blue Book
+  - PubChem
+  - NIST Chemistry WebBook
+related_topics:
+  - chemical-bonding
+  - spectroscopy
+  - analytical-chemistry
+  - biochemistry
+source_balance_target:
+  max_openstax_fraction: 0.10
+  min_iupac_fraction: 0.20
+  min_review_fraction: 0.30
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

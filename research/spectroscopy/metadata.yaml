@@ -1,0 +1,61 @@
+id: spectroscopy
+canonical_name: Spectroscopy
+aliases:
+  - spectrometry
+  - spectral analysis
+difficulty: foundational_to_advanced
+prerequisites:
+  - atomic-structure
+  - electromagnetic-radiation
+  - quantum-mechanics
+depends_on:
+  - energy-levels
+  - transitions
+  - wavelength
+  - frequency
+used_by:
+  - analytical-chemistry
+  - organic-chemistry
+  - materials-characterization
+  - astrophysics
+industry_tags:
+  - pharmaceutical quality control
+  - materials characterization
+  - environmental monitoring
+  - forensics
+  - semiconductor process monitoring
+history_people:
+  - Robert Bunsen
+  - Gustav Kirchhoff
+  - Joseph von Fraunhofer
+  - Johann Balmer
+equations:
+  - E = h nu
+  - c = lambda nu
+  - Beer-Lambert law
+datasets:
+  - NIST Chemistry WebBook
+  - NIST Atomic Spectra Database
+related_topics:
+  - atomic-structure
+  - analytical-chemistry
+  - organic-chemistry
+  - quantum-mechanics
+source_balance_target:
+  max_openstax_fraction: 0.10
+  min_nist_fraction: 0.35
+  min_review_fraction: 0.25
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

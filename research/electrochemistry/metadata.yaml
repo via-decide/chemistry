@@ -1,0 +1,60 @@
+id: electrochemistry
+canonical_name: Electrochemistry
+aliases:
+  - electrochemical chemistry
+  - redox electrochemistry
+difficulty: intermediate
+prerequisites:
+  - chemical-thermodynamics
+  - chemical-equilibrium
+  - redox-reactions
+depends_on:
+  - electrode-potential
+  - activities
+  - charge-transfer
+used_by:
+  - analytical-chemistry
+  - batteries
+  - corrosion-science
+  - electrocatalysis
+industry_tags:
+  - batteries
+  - fuel cells
+  - corrosion prevention
+  - electrolysis
+  - electroplating
+history_people:
+  - Walther Nernst
+  - Michael Faraday
+  - Alessandro Volta
+  - John Daniell
+equations:
+  - Nernst equation
+  - Delta G = -nFE
+  - E standard cell = RT/(nF) ln K
+datasets:
+  - IUPAC Gold Book
+  - Standard Electrode Potentials and Temperature Coefficients in Water at 298.15 K
+related_topics:
+  - chemical-thermodynamics
+  - chemical-equilibrium
+  - analytical-chemistry
+  - electrocatalysis
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_iupac_fraction: 0.25
+  min_review_fraction: 0.25
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

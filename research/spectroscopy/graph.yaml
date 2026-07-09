@@ -1,0 +1,28 @@
+nodes:
+  - id: spectroscopy
+    type: topic
+  - id: atomic-structure
+    type: topic
+  - id: analytical-chemistry
+    type: topic
+  - id: organic-chemistry
+    type: topic
+  - id: physical-chemistry
+    type: topic
+edges:
+  - from: spectroscopy
+    to: atomic-structure
+    relation: related_to
+    confidence: medium
+  - from: spectroscopy
+    to: analytical-chemistry
+    relation: related_to
+    confidence: medium
+  - from: spectroscopy
+    to: organic-chemistry
+    relation: related_to
+    confidence: medium
+  - from: spectroscopy
+    to: physical-chemistry
+    relation: related_to
+    confidence: medium

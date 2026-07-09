@@ -1,0 +1,28 @@
+nodes:
+  - id: solutions-and-colloids
+    type: topic
+  - id: physical-chemistry
+    type: topic
+  - id: analytical-chemistry
+    type: topic
+  - id: materials-chemistry
+    type: topic
+  - id: soft-matter
+    type: topic
+edges:
+  - from: solutions-and-colloids
+    to: physical-chemistry
+    relation: related_to
+    confidence: medium
+  - from: solutions-and-colloids
+    to: analytical-chemistry
+    relation: related_to
+    confidence: medium
+  - from: solutions-and-colloids
+    to: materials-chemistry
+    relation: related_to
+    confidence: medium
+  - from: solutions-and-colloids
+    to: soft-matter
+    relation: related_to
+    confidence: medium

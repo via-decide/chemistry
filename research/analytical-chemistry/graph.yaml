@@ -1,0 +1,28 @@
+nodes:
+  - id: analytical-chemistry
+    type: topic
+  - id: spectroscopy
+    type: topic
+  - id: electrochemistry
+    type: topic
+  - id: statistics
+    type: topic
+  - id: metrology
+    type: topic
+edges:
+  - from: analytical-chemistry
+    to: spectroscopy
+    relation: related_to
+    confidence: medium
+  - from: analytical-chemistry
+    to: electrochemistry
+    relation: related_to
+    confidence: medium
+  - from: analytical-chemistry
+    to: statistics
+    relation: related_to
+    confidence: medium
+  - from: analytical-chemistry
+    to: metrology
+    relation: related_to
+    confidence: medium

@@ -1,0 +1,108 @@
+nodes:
+  - id: atomic-structure
+    label: Atomic Structure
+    type: topic
+    domain:
+      - general chemistry
+      - physical chemistry
+      - spectroscopy
+  - id: periodic-table
+    label: Periodic Table
+    type: topic
+    domain:
+      - general chemistry
+      - inorganic chemistry
+  - id: chemical-bonding
+    label: Chemical Bonding
+    type: topic
+    domain:
+      - quantum chemistry
+      - molecular structure
+  - id: stoichiometry
+    label: Stoichiometry
+    type: topic
+    domain:
+      - general chemistry
+      - analytical chemistry
+      - chemical engineering
+  - id: thermochemistry
+    label: Thermochemistry
+    type: topic
+    domain:
+      - physical chemistry
+      - chemical thermodynamics
+  - id: chemical-thermodynamics
+    label: Chemical Thermodynamics
+    type: topic
+    domain:
+      - physical chemistry
+      - chemical engineering
+  - id: statistical-mechanics
+    label: Statistical Mechanics
+    type: topic
+    domain:
+      - physical chemistry
+      - molecular theory
+  - id: chemical-kinetics
+    label: Chemical Kinetics
+    type: topic
+    domain:
+      - physical chemistry
+      - reaction engineering
+      - catalysis
+  - id: chemical-equilibrium
+    label: Chemical Equilibrium
+    type: topic
+    domain:
+      - physical chemistry
+      - general chemistry
+  - id: acids-and-bases
+    label: Acids and Bases
+    type: topic
+    domain:
+      - general chemistry
+      - analytical chemistry
+      - environmental chemistry
+  - id: conservation-of-mass
+    label: Conservation of Mass
+    type: concept
+  - id: atomic-weights
+    label: Atomic Weights
+    type: concept
+  - id: calorimetry
+    label: Calorimetry
+    type: method
+  - id: pH
+    label: pH
+    type: concept
+  - id: partition-function
+    label: Partition Function
+    type: concept
+  - id: ciaaw-standard-atomic-weights
+    label: CIAAW Standard Atomic Weights
+    type: dataset
+  - id: electrochemistry
+    label: Electrochemistry
+    type: topic
+    domain:
+      - chemistry
+  - id: solutions-and-colloids
+    label: Solutions and Colloids
+    type: topic
+    domain:
+      - chemistry
+  - id: spectroscopy
+    label: Spectroscopy
+    type: topic
+    domain:
+      - chemistry
+  - id: analytical-chemistry
+    label: Analytical Chemistry
+    type: topic
+    domain:
+      - chemistry
+  - id: organic-chemistry
+    label: Organic Chemistry
+    type: topic
+    domain:
+      - chemistry

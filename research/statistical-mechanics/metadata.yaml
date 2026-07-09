@@ -1,0 +1,62 @@
+id: statistical-mechanics
+canonical_name: Statistical Mechanics
+aliases:
+  - statistical thermodynamics
+  - molecular statistical mechanics
+difficulty: advanced
+prerequisites:
+  - chemical-thermodynamics
+  - probability
+  - calculus
+  - classical-mechanics
+depends_on:
+  - microstates
+  - ensembles
+  - probability-distributions
+  - partition-functions
+used_by:
+  - chemical-thermodynamics
+  - molecular-simulation
+  - chemical-kinetics
+  - materials-chemistry
+industry_tags:
+  - molecular simulation
+  - materials modeling
+  - polymer science
+  - soft matter
+  - thermodynamic property prediction
+history_people:
+  - J. Willard Gibbs
+  - Ludwig Boltzmann
+  - James Clerk Maxwell
+  - Rudolf Clausius
+equations:
+  - S = k ln W
+  - canonical partition function
+  - F = -kT ln Z
+datasets:
+  - MIT OCW statistical mechanics notes
+  - Project Gutenberg Gibbs text
+related_topics:
+  - chemical-thermodynamics
+  - chemical-kinetics
+  - molecular-simulation
+  - quantum-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.10
+  min_primary_literature_fraction: 0.30
+  min_review_fraction: 0.25
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

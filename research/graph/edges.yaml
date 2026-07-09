@@ -1,0 +1,93 @@
+edges:
+  - from: atomic-structure
+    to: periodic-table
+    relation: explains
+    confidence: high
+  - from: atomic-structure
+    to: chemical-bonding
+    relation: prerequisite_for
+    confidence: high
+  - from: periodic-table
+    to: chemical-bonding
+    relation: informs
+    confidence: high
+  - from: chemical-bonding
+    to: thermochemistry
+    relation: contributes_to
+    confidence: medium
+  - from: thermochemistry
+    to: chemical-thermodynamics
+    relation: subset_of
+    confidence: high
+  - from: statistical-mechanics
+    to: chemical-thermodynamics
+    relation: molecular_basis_for
+    confidence: high
+  - from: chemical-thermodynamics
+    to: chemical-equilibrium
+    relation: determines
+    confidence: high
+  - from: chemical-equilibrium
+    to: acids-and-bases
+    relation: governs
+    confidence: high
+  - from: chemical-kinetics
+    to: chemical-equilibrium
+    relation: complements
+    confidence: high
+  - from: stoichiometry
+    to: chemical-equilibrium
+    relation: required_for_calculation
+    confidence: high
+  - from: stoichiometry
+    to: chemical-kinetics
+    relation: supports_rate_law_interpretation
+    confidence: medium
+  - from: conservation-of-mass
+    to: stoichiometry
+    relation: foundational_principle
+    confidence: high
+  - from: atomic-weights
+    to: stoichiometry
+    relation: quantitative_basis
+    confidence: high
+  - from: ciaaw-standard-atomic-weights
+    to: periodic-table
+    relation: supplies_atomic_weight_values
+    confidence: high
+  - from: calorimetry
+    to: thermochemistry
+    relation: measures_heat_effects
+    confidence: high
+  - from: pH
+    to: acids-and-bases
+    relation: quantitative_descriptor
+    confidence: high
+  - from: electrochemistry
+    to: chemical-thermodynamics
+    relation: applies
+    confidence: high
+  - from: electrochemistry
+    to: analytical-chemistry
+    relation: supports_electroanalysis
+    confidence: high
+  - from: solutions-and-colloids
+    to: analytical-chemistry
+    relation: supports_sample_systems
+    confidence: high
+  - from: spectroscopy
+    to: analytical-chemistry
+    relation: core_method_for
+    confidence: high
+  - from: spectroscopy
+    to: organic-chemistry
+    relation: supports_structure_determination
+    confidence: high
+  - from: analytical-chemistry
+    to: organic-chemistry
+    relation: supports_characterization
+    confidence: high
+  - from: organic-chemistry
+    to: spectroscopy
+    relation: uses_for_structure_determination
+    confidence: high

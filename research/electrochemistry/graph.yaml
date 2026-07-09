@@ -1,0 +1,28 @@
+nodes:
+  - id: electrochemistry
+    type: topic
+  - id: chemical-thermodynamics
+    type: topic
+  - id: chemical-equilibrium
+    type: topic
+  - id: analytical-chemistry
+    type: topic
+  - id: corrosion-science
+    type: topic
+edges:
+  - from: electrochemistry
+    to: chemical-thermodynamics
+    relation: related_to
+    confidence: medium
+  - from: electrochemistry
+    to: chemical-equilibrium
+    relation: related_to
+    confidence: medium
+  - from: electrochemistry
+    to: analytical-chemistry
+    relation: related_to
+    confidence: medium
+  - from: electrochemistry
+    to: corrosion-science
+    relation: related_to
+    confidence: medium

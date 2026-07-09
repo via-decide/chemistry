@@ -1,0 +1,28 @@
+nodes:
+  - id: organic-chemistry
+    type: topic
+  - id: chemical-bonding
+    type: topic
+  - id: spectroscopy
+    type: topic
+  - id: analytical-chemistry
+    type: topic
+  - id: biochemistry
+    type: topic
+edges:
+  - from: organic-chemistry
+    to: chemical-bonding
+    relation: related_to
+    confidence: medium
+  - from: organic-chemistry
+    to: spectroscopy
+    relation: related_to
+    confidence: medium
+  - from: organic-chemistry
+    to: analytical-chemistry
+    relation: related_to
+    confidence: medium
+  - from: organic-chemistry
+    to: biochemistry
+    relation: related_to
+    confidence: medium
