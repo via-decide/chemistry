@@ -1,0 +1,57 @@
+id: laboratory-safety
+canonical_name: Laboratory Safety
+aliases:
+  - chemical safety
+  - laboratory risk management
+  - lab safety
+difficulty: foundational
+prerequisites:
+  - chemical-hazards
+  - laboratory-methods
+depends_on:
+  - hazard-recognition
+  - risk-assessment
+  - ppe
+  - emergency-preparedness
+used_by:
+  - laboratory-methods
+  - analytical-chemistry
+  - organic-chemistry
+  - inorganic-chemistry
+industry_tags:
+  - academic laboratories
+  - chemical hygiene
+  - risk management
+  - safety culture
+  - hazardous waste
+history_people:
+  - David C. Finster
+  - Robert H. Hill Jr.
+equations: []
+datasets:
+  - ACS Center for Lab Safety
+  - Safety in Academic Chemistry Laboratories
+  - ACS Guidelines for Chemical Laboratory Safety in Academic Institutions
+related_topics:
+  - analytical-chemistry
+  - organic-chemistry
+  - inorganic-chemistry
+  - laboratory-methods
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_acs_fraction: 0.50
+  min_guideline_fraction: 0.30
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

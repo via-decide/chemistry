@@ -1,0 +1,22 @@
+score:
+  source_diversity: 2
+  primary_literature: 1
+  evaluated_data: 2
+  industrial_sources: 1
+  graph_links: 2
+  metadata_completeness: 2
+  frontier_reviews: 1
+  references_metadata: 2
+  total: 13
+scale_note: >
+  This is a raw component score, not a normalized 10-point score.
+  Normalize later using repository-wide scoring rules.
+status:
+  current_stage: batch_4_added
+  maturity: early_research_package
+  target_maturity: publication_grade_evidence_library
+next_actions:
+  - replace source queues with actual DOI-bearing review records
+  - add primary historical source scans or bibliographic records
+  - improve source balance to meet topic targets
+  - add industrial handbook references where applicable

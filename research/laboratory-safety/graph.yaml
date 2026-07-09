@@ -1,0 +1,34 @@
+nodes:
+  - id: laboratory-safety
+    type: topic
+  - id: ramp
+    type: framework
+  - id: chemical-hazards
+    type: concept
+  - id: ppe
+    type: concept
+  - id: laboratory-methods
+    type: topic
+  - id: acs-center-for-lab-safety
+    type: source
+edges:
+  - from: ramp
+    to: laboratory-safety
+    relation: risk_management_framework
+    confidence: high
+  - from: chemical-hazards
+    to: laboratory-safety
+    relation: core_concept
+    confidence: high
+  - from: ppe
+    to: laboratory-safety
+    relation: risk_control_component
+    confidence: high
+  - from: laboratory-safety
+    to: laboratory-methods
+    relation: constrains_practice
+    confidence: high
+  - from: acs-center-for-lab-safety
+    to: laboratory-safety
+    relation: authoritative_source
+    confidence: high

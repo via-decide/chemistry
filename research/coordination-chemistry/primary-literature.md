@@ -1,0 +1,68 @@
+---
+topic: coordination-chemistry
+section: primary-literature
+status: draft
+version: 1.0
+last_reviewed: 2026-07-09
+confidence: medium
+primary_sources: 2
+secondary_sources: 2
+updated_by: codex
+---
+
+# Coordination Chemistry — Primary Literature
+
+## Primary-Source Extraction Targets
+
+- Alfred Werner coordination theory papers.
+- Early cobalt ammine complex literature.
+- Crystal field theory papers.
+- Ligand field theory papers.
+- Early stability-constant measurements.
+- Bioinorganic coordination chemistry papers.
+- IUPAC coordination nomenclature rules.
+- Metal-ligand bonding papers.
+
+## Current Source Anchors
+
+## Evidence
+
+### Evidence CC-001
+
+Source: coordination
+
+Publisher: IUPAC Gold Book
+
+Authors: IUPAC
+
+Year: Online version 5.0.0, 2025
+
+DOI: 10.1351/goldbook.C01329
+
+URL: https://goldbook.iupac.org/terms/view/C01329
+
+Evidence: IUPAC defines coordination in Lewis acid/Lewis base adduct context and notes use for number of ligands around a central atom.
+
+Confidence: high
+
+Notes: Terminology source.
+
+### Evidence CC-002
+
+Source: Nomenclature of Inorganic Chemistry: IUPAC Recommendations 2005
+
+Publisher: IUPAC / RSC Publishing
+
+Authors: Neil G. Connelly; Ture Damhus; Richard M. Hartshorn; Alan T. Hutton
+
+Year: 2005
+
+DOI:
+
+URL: https://iupac.org/what-we-do/books/redbook/
+
+Evidence: IUPAC Red Book nomenclature standard for inorganic and coordination compound nomenclature records.
+
+Confidence: high
+
+Notes: Nomenclature standard.
