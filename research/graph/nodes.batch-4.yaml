@@ -1,0 +1,22 @@
+nodes:
+  - id: inorganic-chemistry
+    label: Inorganic Chemistry
+    type: topic
+  - id: coordination-chemistry
+    label: Coordination Chemistry
+    type: topic
+  - id: materials-chemistry
+    label: Materials Chemistry
+    type: topic
+  - id: environmental-chemistry
+    label: Environmental Chemistry
+    type: topic
+  - id: laboratory-safety
+    label: Laboratory Safety
+    type: topic
+  - id: iupac-red-book
+    label: IUPAC Red Book
+    type: standard
+  - id: ramp
+    label: RAMP
+    type: framework

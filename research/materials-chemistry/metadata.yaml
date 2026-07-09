@@ -1,0 +1,60 @@
+id: materials-chemistry
+canonical_name: Materials Chemistry
+aliases:
+  - chemistry of materials
+  - materials science chemistry
+difficulty: intermediate_to_advanced
+prerequisites:
+  - chemical-bonding
+  - inorganic-chemistry
+  - organic-chemistry
+  - spectroscopy
+depends_on:
+  - synthesis
+  - structure-property-relationships
+  - characterization
+  - solid-state-chemistry
+used_by:
+  - energy-materials
+  - biomaterials
+  - electronic-materials
+  - catalysis
+industry_tags:
+  - batteries
+  - semiconductors
+  - polymers
+  - biomaterials
+  - coatings
+  - catalysts
+history_people: []
+equations:
+  - structure-property relationships
+  - band-gap relationships
+  - diffusion equations
+datasets:
+  - CRC Handbook of Chemistry and Physics
+  - NIST Chemistry WebBook
+  - RSC Journal of Materials Chemistry A/B/C
+related_topics:
+  - inorganic-chemistry
+  - organic-chemistry
+  - spectroscopy
+  - analytical-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.05
+  min_review_fraction: 0.35
+  min_handbook_fraction: 0.15
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

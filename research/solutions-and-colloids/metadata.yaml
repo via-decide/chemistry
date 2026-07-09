@@ -1,0 +1,62 @@
+id: solutions-and-colloids
+canonical_name: Solutions and Colloids
+aliases:
+  - solution chemistry
+  - colloidal systems
+  - colloid chemistry
+difficulty: foundational_to_intermediate
+prerequisites:
+  - chemical-bonding
+  - intermolecular-forces
+  - chemical-equilibrium
+depends_on:
+  - solute
+  - solvent
+  - concentration
+  - activity
+  - colloidal-system
+used_by:
+  - analytical-chemistry
+  - materials-chemistry
+  - environmental-chemistry
+  - pharmaceuticals
+industry_tags:
+  - formulations
+  - emulsions
+  - water treatment
+  - food chemistry
+  - nanomaterials
+history_people:
+  - Thomas Graham
+equations:
+  - molarity
+  - molality
+  - mole fraction
+  - colligative property equations
+datasets:
+  - IUPAC Gold Book
+  - CRC Handbook of Chemistry and Physics
+  - RSC colloids books
+related_topics:
+  - acids-and-bases
+  - chemical-equilibrium
+  - materials-chemistry
+  - analytical-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_iupac_fraction: 0.25
+  min_review_fraction: 0.20
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

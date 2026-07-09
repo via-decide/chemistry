@@ -1,0 +1,34 @@
+nodes:
+  - id: electrochemistry
+    type: topic
+  - id: chemical-thermodynamics
+    type: topic
+  - id: chemical-equilibrium
+    type: topic
+  - id: nernst-equation
+    type: equation
+  - id: analytical-chemistry
+    type: topic
+  - id: batteries
+    type: application
+edges:
+  - from: chemical-thermodynamics
+    to: electrochemistry
+    relation: relates_free_energy_to_cell_potential
+    confidence: high
+  - from: chemical-equilibrium
+    to: electrochemistry
+    relation: supports_electrode_equilibria
+    confidence: high
+  - from: nernst-equation
+    to: electrochemistry
+    relation: central_equation
+    confidence: high
+  - from: electrochemistry
+    to: analytical-chemistry
+    relation: supports_electroanalytical_methods
+    confidence: high
+  - from: electrochemistry
+    to: batteries
+    relation: application_domain
+    confidence: high

@@ -39,3 +39,5 @@ Each topic directory contains:
 - Topic maturity scoring lives in each `quality-score.yaml`.
 - Optional addenda such as `primary-literature.md`, `datasets.md`, and `standards.md` extend topic packages while preserving the required core schema.
 - Topic-local graph addenda may live in `research/<topic-slug>/graph.yaml` and are mirrored into the repository graph when promoted.
+- Batch 3 topic packages add electrochemistry, solutions and colloids, spectroscopy, analytical chemistry, and organic chemistry as evidence-first research records.
+- Batch 4 topic packages add inorganic chemistry, coordination chemistry, materials chemistry, environmental chemistry, and laboratory safety in the upgraded corpus format.

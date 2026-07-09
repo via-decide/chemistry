@@ -1,0 +1,67 @@
+id: electrochemistry
+canonical_name: Electrochemistry
+aliases:
+  - redox electrochemistry
+  - electrochemical systems
+  - electrode processes
+difficulty: intermediate
+prerequisites:
+  - chemical-thermodynamics
+  - chemical-equilibrium
+  - acids-and-bases
+  - oxidation-reduction
+depends_on:
+  - electrode-potential
+  - standard-electrode-potential
+  - nernst-equation
+  - faraday-constant
+used_by:
+  - batteries
+  - fuel-cells
+  - corrosion
+  - electrolysis
+  - electroanalytical-chemistry
+industry_tags:
+  - batteries
+  - fuel cells
+  - corrosion
+  - electroplating
+  - sensors
+  - hydrogen production
+history_people:
+  - Walther Nernst
+  - Michael Faraday
+  - Alessandro Volta
+  - John Daniell
+equations:
+  - Nernst equation
+  - Delta G = -nFE
+  - Delta G standard = -RT ln K
+datasets:
+  - IUPAC Gold Book
+  - NIST / JPCRD standard electrode potentials
+  - CRC Handbook of Chemistry and Physics
+related_topics:
+  - chemical-thermodynamics
+  - chemical-equilibrium
+  - chemical-kinetics
+  - analytical-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_iupac_fraction: 0.25
+  min_evaluated_data_fraction: 0.25
+  min_primary_literature_fraction: 0.15
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

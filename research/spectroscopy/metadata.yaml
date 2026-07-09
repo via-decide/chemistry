@@ -1,0 +1,61 @@
+id: spectroscopy
+canonical_name: Spectroscopy
+aliases:
+  - molecular spectroscopy
+  - atomic spectroscopy
+  - spectrometric analysis
+difficulty: intermediate
+prerequisites:
+  - atomic-structure
+  - chemical-bonding
+  - quantum-mechanics
+depends_on:
+  - energy-levels
+  - electromagnetic-radiation
+  - transitions
+  - spectra
+used_by:
+  - analytical-chemistry
+  - organic-chemistry
+  - inorganic-chemistry
+  - materials-characterization
+industry_tags:
+  - quality control
+  - pharmaceutical analysis
+  - environmental monitoring
+  - materials characterization
+  - forensic chemistry
+history_people:
+  - Robert Bunsen
+  - Gustav Kirchhoff
+  - Niels Bohr
+equations:
+  - E = h nu
+  - Beer-Lambert law
+datasets:
+  - NIST Chemistry WebBook
+  - NIST Atomic Spectra Database
+  - SpectraBase
+related_topics:
+  - atomic-structure
+  - chemical-bonding
+  - analytical-chemistry
+  - organic-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.15
+  min_nist_fraction: 0.35
+  min_review_fraction: 0.20
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

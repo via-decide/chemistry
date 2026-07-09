@@ -1,0 +1,63 @@
+id: analytical-chemistry
+canonical_name: Analytical Chemistry
+aliases:
+  - chemical analysis
+  - measurement chemistry
+  - chemical measurement science
+difficulty: intermediate
+prerequisites:
+  - stoichiometry
+  - acids-and-bases
+  - spectroscopy
+  - electrochemistry
+depends_on:
+  - measurement
+  - calibration
+  - uncertainty
+  - sampling
+  - method-validation
+used_by:
+  - environmental-chemistry
+  - pharmaceuticals
+  - forensic-chemistry
+  - materials-characterization
+industry_tags:
+  - quality control
+  - regulatory testing
+  - pharmaceutical analysis
+  - environmental monitoring
+  - food analysis
+history_people:
+  - D. Brynn Hibbert
+equations:
+  - calibration curve
+  - detection limit
+  - uncertainty propagation
+datasets:
+  - IUPAC Orange Book
+  - NIST Chemistry WebBook
+  - PubChem
+related_topics:
+  - spectroscopy
+  - electrochemistry
+  - acids-and-bases
+  - solutions-and-colloids
+source_balance_target:
+  max_openstax_fraction: 0.10
+  min_iupac_fraction: 0.30
+  min_peer_reviewed_fraction: 0.25
+  min_standards_fraction: 0.25
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

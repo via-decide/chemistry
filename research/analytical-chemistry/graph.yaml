@@ -1,0 +1,28 @@
+nodes:
+  - id: analytical-chemistry
+    type: topic
+  - id: spectroscopy
+    type: topic
+  - id: electrochemistry
+    type: topic
+  - id: acids-and-bases
+    type: topic
+  - id: iupac-orange-book
+    type: standard
+edges:
+  - from: spectroscopy
+    to: analytical-chemistry
+    relation: provides_measurement_methods
+    confidence: high
+  - from: electrochemistry
+    to: analytical-chemistry
+    relation: provides_electroanalytical_methods
+    confidence: high
+  - from: acids-and-bases
+    to: analytical-chemistry
+    relation: supports_titrimetry_and_pH_measurement
+    confidence: high
+  - from: iupac-orange-book
+    to: analytical-chemistry
+    relation: provides_official_terminology
+    confidence: high

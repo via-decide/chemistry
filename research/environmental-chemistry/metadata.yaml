@@ -1,0 +1,60 @@
+id: environmental-chemistry
+canonical_name: Environmental Chemistry
+aliases:
+  - environmental chemical science
+  - environmental science chemistry
+difficulty: intermediate
+prerequisites:
+  - analytical-chemistry
+  - acids-and-bases
+  - chemical-equilibrium
+  - organic-chemistry
+depends_on:
+  - environmental-analysis
+  - pollutant-fate
+  - aqueous-chemistry
+  - atmospheric-chemistry
+used_by:
+  - water-treatment
+  - climate-chemistry
+  - pollution-control
+  - environmental-monitoring
+industry_tags:
+  - water
+  - air quality
+  - waste treatment
+  - environmental monitoring
+  - sustainable chemistry
+history_people: []
+equations:
+  - partition coefficients
+  - acid-base equilibrium expressions
+  - reaction kinetics expressions
+  - mass balance
+datasets:
+  - ACS Environmental Science journals
+  - PubChem
+  - NIST Chemistry WebBook
+related_topics:
+  - analytical-chemistry
+  - solutions-and-colloids
+  - acids-and-bases
+  - atmospheric-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.05
+  min_peer_reviewed_fraction: 0.35
+  min_government_or_standards_fraction: 0.20
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md
