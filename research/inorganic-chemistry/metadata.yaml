@@ -1,0 +1,64 @@
+id: inorganic-chemistry
+canonical_name: Inorganic Chemistry
+aliases:
+  - inorganic compounds
+  - non-organic chemistry
+difficulty: foundational_to_advanced
+prerequisites:
+  - periodic-table
+  - atomic-structure
+  - chemical-bonding
+depends_on:
+  - element-chemistry
+  - oxidation-states
+  - inorganic-nomenclature
+  - periodic-trends
+used_by:
+  - coordination-chemistry
+  - materials-chemistry
+  - environmental-chemistry
+  - catalysis
+industry_tags:
+  - mining
+  - metallurgy
+  - catalysts
+  - ceramics
+  - semiconductors
+  - industrial chemicals
+history_people:
+  - Alfred Werner
+  - Humphry Davy
+  - Dmitri Mendeleev
+equations:
+  - oxidation-state balance
+  - lattice-energy relationships
+  - redox balancing
+datasets:
+  - IUPAC Red Book
+  - IUPAC Periodic Table
+  - CRC Handbook of Chemistry and Physics
+  - NIST Chemistry WebBook
+related_topics:
+  - periodic-table
+  - coordination-chemistry
+  - materials-chemistry
+  - electrochemistry
+source_balance_target:
+  max_openstax_fraction: 0.10
+  min_iupac_fraction: 0.30
+  min_handbook_fraction: 0.20
+  min_primary_literature_fraction: 0.15
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

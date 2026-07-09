@@ -1,0 +1,174 @@
+nodes:
+  - id: atomic-structure
+    label: Atomic Structure
+    type: topic
+    domain:
+      - general chemistry
+      - physical chemistry
+      - spectroscopy
+  - id: periodic-table
+    label: Periodic Table
+    type: topic
+    domain:
+      - general chemistry
+      - inorganic chemistry
+  - id: chemical-bonding
+    label: Chemical Bonding
+    type: topic
+    domain:
+      - quantum chemistry
+      - molecular structure
+  - id: stoichiometry
+    label: Stoichiometry
+    type: topic
+    domain:
+      - general chemistry
+      - analytical chemistry
+      - chemical engineering
+  - id: thermochemistry
+    label: Thermochemistry
+    type: topic
+    domain:
+      - physical chemistry
+      - chemical thermodynamics
+  - id: chemical-thermodynamics
+    label: Chemical Thermodynamics
+    type: topic
+    domain:
+      - physical chemistry
+      - chemical engineering
+  - id: statistical-mechanics
+    label: Statistical Mechanics
+    type: topic
+    domain:
+      - physical chemistry
+      - molecular theory
+  - id: chemical-kinetics
+    label: Chemical Kinetics
+    type: topic
+    domain:
+      - physical chemistry
+      - reaction engineering
+      - catalysis
+  - id: chemical-equilibrium
+    label: Chemical Equilibrium
+    type: topic
+    domain:
+      - physical chemistry
+      - general chemistry
+  - id: acids-and-bases
+    label: Acids and Bases
+    type: topic
+    domain:
+      - general chemistry
+      - analytical chemistry
+      - environmental chemistry
+  - id: conservation-of-mass
+    label: Conservation of Mass
+    type: concept
+  - id: atomic-weights
+    label: Atomic Weights
+    type: concept
+  - id: calorimetry
+    label: Calorimetry
+    type: method
+  - id: pH
+    label: pH
+    type: concept
+  - id: partition-function
+    label: Partition Function
+    type: concept
+  - id: ciaaw-standard-atomic-weights
+    label: CIAAW Standard Atomic Weights
+    type: dataset
+  - id: electrochemistry
+    label: Electrochemistry
+    type: topic
+    domain:
+      - chemistry
+  - id: solutions-and-colloids
+    label: Solutions and Colloids
+    type: topic
+    domain:
+      - chemistry
+  - id: spectroscopy
+    label: Spectroscopy
+    type: topic
+    domain:
+      - chemistry
+  - id: analytical-chemistry
+    label: Analytical Chemistry
+    type: topic
+    domain:
+      - chemistry
+  - id: organic-chemistry
+    label: Organic Chemistry
+    type: topic
+    domain:
+      - chemistry
+  - id: iupac-orange-book
+    label: IUPAC Orange Book
+    type: standard
+  - id: iupac-blue-book
+    label: IUPAC Blue Book
+    type: standard
+  - id: nist-chemistry-webbook
+    label: NIST Chemistry WebBook
+    type: dataset
+  - id: nist-atomic-spectra-database
+    label: NIST Atomic Spectra Database
+    type: dataset
+  - id: pubchem
+    label: PubChem
+    type: dataset
+  - id: nernst-equation
+    label: Nernst Equation
+    type: equation
+  - id: batteries
+    label: Batteries
+    type: application
+  - id: colloid
+    label: Colloid
+    type: concept
+  - id: inorganic-chemistry
+    label: Inorganic Chemistry
+    type: topic
+  - id: coordination-chemistry
+    label: Coordination Chemistry
+    type: topic
+  - id: materials-chemistry
+    label: Materials Chemistry
+    type: topic
+  - id: environmental-chemistry
+    label: Environmental Chemistry
+    type: topic
+  - id: laboratory-safety
+    label: Laboratory Safety
+    type: topic
+  - id: iupac-red-book
+    label: IUPAC Red Book
+    type: standard
+  - id: ramp
+    label: RAMP
+    type: framework
+  - id: chemical-hazards
+    label: Chemical Hazards
+    type: concept
+  - id: ppe
+    label: PPE
+    type: concept
+  - id: laboratory-methods
+    label: Laboratory Methods
+    type: topic
+  - id: acs-center-for-lab-safety
+    label: ACS Center for Lab Safety
+    type: source
+  - id: environmental-monitoring
+    label: Environmental Monitoring
+    type: application
+  - id: water-treatment
+    label: Water Treatment
+    type: application
+  - id: energy-materials
+    label: Energy Materials
+    type: application

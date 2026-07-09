@@ -1,0 +1,62 @@
+id: coordination-chemistry
+canonical_name: Coordination Chemistry
+aliases:
+  - complex chemistry
+  - metal complexes
+  - coordination compounds
+difficulty: intermediate_to_advanced
+prerequisites:
+  - inorganic-chemistry
+  - chemical-bonding
+  - acids-and-bases
+depends_on:
+  - ligands
+  - coordination-number
+  - metal-centers
+  - crystal-field-theory
+  - ligand-field-theory
+used_by:
+  - catalysis
+  - bioinorganic-chemistry
+  - materials-chemistry
+  - medicinal-chemistry
+industry_tags:
+  - catalysts
+  - MRI contrast agents
+  - metal-organic frameworks
+  - hydrometallurgy
+  - sensors
+history_people:
+  - Alfred Werner
+  - Gilbert N. Lewis
+equations:
+  - ligand-field splitting
+  - stability constant
+  - formation constant
+datasets:
+  - IUPAC Gold Book
+  - IUPAC Red Book
+  - NIST Chemistry WebBook
+related_topics:
+  - inorganic-chemistry
+  - materials-chemistry
+  - analytical-chemistry
+  - electrochemistry
+source_balance_target:
+  max_openstax_fraction: 0.10
+  min_iupac_fraction: 0.30
+  min_review_fraction: 0.25
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

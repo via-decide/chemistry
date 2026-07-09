@@ -1,0 +1,60 @@
+id: periodic-table
+canonical_name: Periodic Table
+aliases:
+  - periodic table of the elements
+  - periodic system
+  - table of chemical elements
+difficulty: foundational
+prerequisites:
+  - atomic-structure
+  - atomic-number
+  - isotopes
+depends_on:
+  - atomic-number
+  - electron-configuration
+  - standard-atomic-weights
+used_by:
+  - inorganic-chemistry
+  - chemical-bonding
+  - materials-chemistry
+  - analytical-chemistry
+industry_tags:
+  - element sourcing
+  - critical minerals
+  - metallurgy
+  - semiconductor materials
+  - isotope analysis
+history_people:
+  - Dmitri Mendeleev
+  - Lothar Meyer
+  - Henry Moseley
+  - IUPAC CIAAW contributors
+equations:
+  - average atomic mass from isotopic abundance
+datasets:
+  - IUPAC Periodic Table
+  - CIAAW Standard Atomic Weights
+  - CRC Handbook of Chemistry and Physics
+related_topics:
+  - atomic-structure
+  - chemical-bonding
+  - inorganic-chemistry
+  - spectroscopy
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_iupac_fraction: 0.30
+  min_evaluated_data_fraction: 0.30
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

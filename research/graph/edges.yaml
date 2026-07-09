@@ -1,0 +1,169 @@
+edges:
+  - from: atomic-structure
+    to: periodic-table
+    relation: explains
+    confidence: high
+  - from: atomic-structure
+    to: chemical-bonding
+    relation: prerequisite_for
+    confidence: high
+  - from: periodic-table
+    to: chemical-bonding
+    relation: informs
+    confidence: high
+  - from: chemical-bonding
+    to: thermochemistry
+    relation: contributes_to
+    confidence: medium
+  - from: thermochemistry
+    to: chemical-thermodynamics
+    relation: subset_of
+    confidence: high
+  - from: statistical-mechanics
+    to: chemical-thermodynamics
+    relation: molecular_basis_for
+    confidence: high
+  - from: chemical-thermodynamics
+    to: chemical-equilibrium
+    relation: determines
+    confidence: high
+  - from: chemical-equilibrium
+    to: acids-and-bases
+    relation: governs
+    confidence: high
+  - from: chemical-kinetics
+    to: chemical-equilibrium
+    relation: complements
+    confidence: high
+  - from: stoichiometry
+    to: chemical-equilibrium
+    relation: required_for_calculation
+    confidence: high
+  - from: stoichiometry
+    to: chemical-kinetics
+    relation: supports_rate_law_interpretation
+    confidence: medium
+  - from: conservation-of-mass
+    to: stoichiometry
+    relation: foundational_principle
+    confidence: high
+  - from: atomic-weights
+    to: stoichiometry
+    relation: quantitative_basis
+    confidence: high
+  - from: ciaaw-standard-atomic-weights
+    to: periodic-table
+    relation: supplies_atomic_weight_values
+    confidence: high
+  - from: calorimetry
+    to: thermochemistry
+    relation: measures_heat_effects
+    confidence: high
+  - from: pH
+    to: acids-and-bases
+    relation: quantitative_descriptor
+    confidence: high
+  - from: electrochemistry
+    to: chemical-thermodynamics
+    relation: applies
+    confidence: high
+  - from: electrochemistry
+    to: analytical-chemistry
+    relation: supports_electroanalysis
+    confidence: high
+  - from: solutions-and-colloids
+    to: analytical-chemistry
+    relation: supports_sample_systems
+    confidence: high
+  - from: spectroscopy
+    to: analytical-chemistry
+    relation: core_method_for
+    confidence: high
+  - from: spectroscopy
+    to: organic-chemistry
+    relation: supports_structure_determination
+    confidence: high
+  - from: analytical-chemistry
+    to: organic-chemistry
+    relation: supports_characterization
+    confidence: high
+  - from: organic-chemistry
+    to: spectroscopy
+    relation: uses_for_structure_determination
+    confidence: high
+  - from: chemical-thermodynamics
+    to: electrochemistry
+    relation: relates_free_energy_to_cell_potential
+    confidence: high
+  - from: chemical-equilibrium
+    to: electrochemistry
+    relation: supports_electrode_equilibria
+    confidence: high
+  - from: spectroscopy
+    to: analytical-chemistry
+    relation: provides_measurement_methods
+    confidence: high
+  - from: electrochemistry
+    to: analytical-chemistry
+    relation: provides_electroanalytical_methods
+    confidence: high
+  - from: chemical-bonding
+    to: organic-chemistry
+    relation: foundational_for_structure_and_reactivity
+    confidence: high
+  - from: iupac-orange-book
+    to: analytical-chemistry
+    relation: provides_official_terminology
+    confidence: high
+  - from: iupac-blue-book
+    to: organic-chemistry
+    relation: provides_nomenclature_rules
+    confidence: high
+  - from: pubchem
+    to: organic-chemistry
+    relation: supplies_compound_records
+    confidence: high
+  - from: nist-chemistry-webbook
+    to: spectroscopy
+    relation: supplies_molecular_spectral_data
+    confidence: high
+  - from: nist-atomic-spectra-database
+    to: spectroscopy
+    relation: supplies_atomic_spectral_data
+    confidence: high
+  - from: nernst-equation
+    to: electrochemistry
+    relation: central_equation
+    confidence: high
+  - from: iupac-red-book
+    to: inorganic-chemistry
+    relation: provides_nomenclature_rules
+    confidence: high
+  - from: inorganic-chemistry
+    to: coordination-chemistry
+    relation: includes
+    confidence: high
+  - from: chemical-bonding
+    to: coordination-chemistry
+    relation: explains_metal_ligand_bonding
+    confidence: high
+  - from: inorganic-chemistry
+    to: materials-chemistry
+    relation: supports_inorganic_materials
+    confidence: high
+  - from: analytical-chemistry
+    to: environmental-chemistry
+    relation: provides_measurement_methods
+    confidence: high
+  - from: acids-and-bases
+    to: environmental-chemistry
+    relation: supports_aqueous_environmental_equilibria
+    confidence: high
+  - from: ramp
+    to: laboratory-safety
+    relation: risk_management_framework
+    confidence: high
+  - from: laboratory-safety
+    to: laboratory-methods
+    relation: constrains_practice
+    confidence: high

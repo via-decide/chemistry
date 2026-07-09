@@ -1,0 +1,28 @@
+nodes:
+  - id: solutions-and-colloids
+    type: topic
+  - id: colloid
+    type: concept
+  - id: chemical-equilibrium
+    type: topic
+  - id: analytical-chemistry
+    type: topic
+  - id: materials-chemistry
+    type: topic
+edges:
+  - from: chemical-equilibrium
+    to: solutions-and-colloids
+    relation: governs_solution_equilibria
+    confidence: high
+  - from: colloid
+    to: solutions-and-colloids
+    relation: core_subtopic
+    confidence: high
+  - from: solutions-and-colloids
+    to: analytical-chemistry
+    relation: supports_sample_matrix_interpretation
+    confidence: medium
+  - from: solutions-and-colloids
+    to: materials-chemistry
+    relation: supports_dispersion_and_particle_systems
+    confidence: medium

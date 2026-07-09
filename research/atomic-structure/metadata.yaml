@@ -1,0 +1,60 @@
+id: atomic-structure
+canonical_name: Atomic Structure
+aliases:
+  - atomic theory
+  - structure of the atom
+  - atomic constitution
+difficulty: foundational
+prerequisites:
+  - scientific-measurement
+  - electrostatics
+depends_on:
+  - subatomic-particles
+  - nuclear-charge
+  - electron-structure
+used_by:
+  - periodic-table
+  - chemical-bonding
+  - spectroscopy
+  - nuclear-chemistry
+industry_tags:
+  - analytical spectroscopy
+  - materials characterization
+  - semiconductor analysis
+  - isotope analysis
+history_people:
+  - J. J. Thomson
+  - Ernest Rutherford
+  - Niels Bohr
+  - James Chadwick
+equations:
+  - E = h nu
+  - Delta E = h nu
+  - atomic mass average from isotopic abundances
+datasets:
+  - NIST Atomic Spectra Database
+  - CRC Handbook of Chemistry and Physics
+  - PubChem Periodic Table
+related_topics:
+  - periodic-table
+  - chemical-bonding
+  - spectroscopy
+  - quantum-mechanics
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_evaluated_data_fraction: 0.30
+  min_primary_literature_fraction: 0.20
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

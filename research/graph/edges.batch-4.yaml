@@ -1,0 +1,33 @@
+edges:
+  - from: iupac-red-book
+    to: inorganic-chemistry
+    relation: provides_nomenclature_rules
+    confidence: high
+  - from: inorganic-chemistry
+    to: coordination-chemistry
+    relation: includes
+    confidence: high
+  - from: chemical-bonding
+    to: coordination-chemistry
+    relation: explains_metal_ligand_bonding
+    confidence: high
+  - from: inorganic-chemistry
+    to: materials-chemistry
+    relation: supports_inorganic_materials
+    confidence: high
+  - from: analytical-chemistry
+    to: environmental-chemistry
+    relation: provides_measurement_methods
+    confidence: high
+  - from: acids-and-bases
+    to: environmental-chemistry
+    relation: supports_aqueous_environmental_equilibria
+    confidence: high
+  - from: ramp
+    to: laboratory-safety
+    relation: risk_management_framework
+    confidence: high
+  - from: laboratory-safety
+    to: laboratory-methods
+    relation: constrains_practice
+    confidence: high

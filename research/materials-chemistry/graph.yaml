@@ -1,0 +1,34 @@
+nodes:
+  - id: materials-chemistry
+    type: topic
+  - id: chemical-bonding
+    type: topic
+  - id: inorganic-chemistry
+    type: topic
+  - id: organic-chemistry
+    type: topic
+  - id: spectroscopy
+    type: topic
+  - id: energy-materials
+    type: application
+edges:
+  - from: chemical-bonding
+    to: materials-chemistry
+    relation: explains_structure_property_relationships
+    confidence: high
+  - from: inorganic-chemistry
+    to: materials-chemistry
+    relation: supplies_inorganic_material_classes
+    confidence: high
+  - from: organic-chemistry
+    to: materials-chemistry
+    relation: supplies_polymer_and_molecular_material_classes
+    confidence: medium
+  - from: spectroscopy
+    to: materials-chemistry
+    relation: supports_characterization
+    confidence: high
+  - from: materials-chemistry
+    to: energy-materials
+    relation: application_domain
+    confidence: high
