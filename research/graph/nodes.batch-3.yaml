@@ -1,0 +1,31 @@
+nodes:
+  - id: electrochemistry
+    label: Electrochemistry
+    type: topic
+  - id: solutions-and-colloids
+    label: Solutions and Colloids
+    type: topic
+  - id: spectroscopy
+    label: Spectroscopy
+    type: topic
+  - id: analytical-chemistry
+    label: Analytical Chemistry
+    type: topic
+  - id: organic-chemistry
+    label: Organic Chemistry
+    type: topic
+  - id: iupac-orange-book
+    label: IUPAC Orange Book
+    type: standard
+  - id: iupac-blue-book
+    label: IUPAC Blue Book
+    type: standard
+  - id: nist-chemistry-webbook
+    label: NIST Chemistry WebBook
+    type: dataset
+  - id: nist-atomic-spectra-database
+    label: NIST Atomic Spectra Database
+    type: dataset
+  - id: pubchem
+    label: PubChem
+    type: dataset

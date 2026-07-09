@@ -7,22 +7,28 @@ nodes:
     type: topic
   - id: analytical-chemistry
     type: topic
-  - id: biochemistry
-    type: topic
+  - id: iupac-blue-book
+    type: standard
+  - id: pubchem
+    type: dataset
 edges:
-  - from: organic-chemistry
-    to: chemical-bonding
-    relation: related_to
-    confidence: medium
-  - from: organic-chemistry
-    to: spectroscopy
-    relation: related_to
-    confidence: medium
-  - from: organic-chemistry
-    to: analytical-chemistry
-    relation: related_to
-    confidence: medium
-  - from: organic-chemistry
-    to: biochemistry
-    relation: related_to
-    confidence: medium
+  - from: chemical-bonding
+    to: organic-chemistry
+    relation: foundational_for_structure_and_reactivity
+    confidence: high
+  - from: spectroscopy
+    to: organic-chemistry
+    relation: supports_structure_determination
+    confidence: high
+  - from: analytical-chemistry
+    to: organic-chemistry
+    relation: supports_identification_and_purity_assessment
+    confidence: high
+  - from: iupac-blue-book
+    to: organic-chemistry
+    relation: provides_nomenclature_rules
+    confidence: high
+  - from: pubchem
+    to: organic-chemistry
+    relation: supplies_compound_records
+    confidence: high

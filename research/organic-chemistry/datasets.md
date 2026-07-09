@@ -5,8 +5,8 @@ status: draft
 version: 1.0
 last_reviewed: 2026-07-09
 confidence: medium
-primary_sources: 2
-secondary_sources: 4
+primary_sources: 3
+secondary_sources: 1
 updated_by: codex
 ---
 
@@ -14,27 +14,7 @@ updated_by: codex
 
 ## Evidence
 
-### Evidence OC-001
-
-Source: Nomenclature of Organic Chemistry: IUPAC Recommendations and Preferred Names 2013
-
-Publisher: IUPAC / RSC Publishing
-
-Authors: Henri A. Favre; Warren H. Powell
-
-Year: 2013 recommendations; IUPAC page lists RSC Publishing 2014
-
-DOI: 10.1039/9781849733069
-
-URL: https://iupac.org/what-we-do/books/bluebook/
-
-Evidence: IUPAC Blue Book source for organic nomenclature, preferred names, and unambiguous naming rules.
-
-Confidence: high
-
-Notes: Verified official IUPAC URL.
-
-### Evidence OC-002
+### Evidence OC-DS-001
 
 Source: PubChem
 
@@ -48,13 +28,33 @@ DOI:
 
 URL: https://pubchem.ncbi.nlm.nih.gov/
 
-Evidence: Government chemical database source for chemical identifiers, structures, properties, safety/toxicity data, patents, and literature links.
+Evidence: PubChem source anchor for searching chemicals by name, molecular formula, structure, and identifiers, with chemical/physical properties, biological activities, safety/toxicity information, patents, literature citations, and related records.
 
 Confidence: high
 
-Notes: Compound database source.
+Notes: Government chemical database.
 
-### Evidence OC-003
+### Evidence OC-DS-002
+
+Source: PubChem Compound records
+
+Publisher: National Center for Biotechnology Information
+
+Authors: NCBI / NIH
+
+Year: Current documentation
+
+DOI:
+
+URL: https://pubchem.ncbi.nlm.nih.gov/docs/compounds
+
+Evidence: PubChem states that Compound records are derived summaries built from standardized unique chemical structures extracted from contributed Substance records.
+
+Confidence: high
+
+Notes: Compound-record data model anchor.
+
+### Evidence OC-DS-003
 
 Source: PubChem Substance and Compound databases
 
@@ -68,8 +68,28 @@ DOI: 10.1093/nar/gkv951
 
 URL: https://academic.oup.com/nar/article/44/D1/D1202/2503131
 
-Evidence: Peer-reviewed database article for PubChem Substance and Compound records.
+Evidence: PubChem database paper states that PubChem consists of three interlinked databases: Substance, Compound, and BioAssay.
 
 Confidence: high
 
-Notes: Database article.
+Notes: Peer-reviewed database article.
+
+### Evidence OC-DS-004
+
+Source: NIST Chemistry WebBook
+
+Publisher: NIST Chemistry WebBook, SRD 69
+
+Authors: National Institute of Standards and Technology
+
+Year: Data last updated 2025
+
+DOI: 10.18434/T4D303
+
+URL: https://webbook.nist.gov/
+
+Evidence: NIST Chemistry WebBook source anchor for organic thermochemistry and spectral data, including thermochemical data, reaction thermochemistry, IR spectra, mass spectra, UV/Vis spectra, and gas chromatography data.
+
+Confidence: high
+
+Notes: Evaluated data anchor.

@@ -106,3 +106,27 @@ nodes:
     type: topic
     domain:
       - chemistry
+  - id: iupac-orange-book
+    label: IUPAC Orange Book
+    type: standard
+  - id: iupac-blue-book
+    label: IUPAC Blue Book
+    type: standard
+  - id: nist-chemistry-webbook
+    label: NIST Chemistry WebBook
+    type: dataset
+  - id: nist-atomic-spectra-database
+    label: NIST Atomic Spectra Database
+    type: dataset
+  - id: pubchem
+    label: PubChem
+    type: dataset
+  - id: nernst-equation
+    label: Nernst Equation
+    type: equation
+  - id: batteries
+    label: Batteries
+    type: application
+  - id: colloid
+    label: Colloid
+    type: concept

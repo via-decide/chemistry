@@ -3,26 +3,32 @@ nodes:
     type: topic
   - id: atomic-structure
     type: topic
+  - id: chemical-bonding
+    type: topic
   - id: analytical-chemistry
     type: topic
-  - id: organic-chemistry
-    type: topic
-  - id: physical-chemistry
-    type: topic
+  - id: nist-chemistry-webbook
+    type: dataset
+  - id: nist-atomic-spectra-database
+    type: dataset
 edges:
-  - from: spectroscopy
-    to: atomic-structure
-    relation: related_to
+  - from: atomic-structure
+    to: spectroscopy
+    relation: explains_atomic_transitions
+    confidence: high
+  - from: chemical-bonding
+    to: spectroscopy
+    relation: determines_molecular_vibrations_and_transitions
     confidence: medium
   - from: spectroscopy
     to: analytical-chemistry
-    relation: related_to
-    confidence: medium
-  - from: spectroscopy
-    to: organic-chemistry
-    relation: related_to
-    confidence: medium
-  - from: spectroscopy
-    to: physical-chemistry
-    relation: related_to
-    confidence: medium
+    relation: provides_measurement_methods
+    confidence: high
+  - from: nist-chemistry-webbook
+    to: spectroscopy
+    relation: supplies_molecular_spectral_data
+    confidence: high
+  - from: nist-atomic-spectra-database
+    to: spectroscopy
+    relation: supplies_atomic_spectral_data
+    confidence: high

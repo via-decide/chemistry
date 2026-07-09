@@ -5,49 +5,22 @@ status: draft
 version: 1.0
 last_reviewed: 2026-07-09
 confidence: medium
-primary_sources: 2
-secondary_sources: 3
+primary_sources: 0
+secondary_sources: 1
 updated_by: codex
 ---
 
 # Solutions and Colloids — Primary Literature
 
-## Primary-Source Extraction Targets
+## Historical Extraction Targets
 
-- Thomas Graham 1861 colloid work.
-- Early dialysis and diffusion studies.
-- IUPAC colloid and surface chemistry terminology documents.
-- Classical surface chemistry and colloid stability texts.
-- Molarity.
-- Molality.
-- Mole fraction.
-- Mass fraction.
+- Thomas Graham's work on colloids and dialysis.
+- Early IUPAC colloid and surface chemistry terminology documents.
+- Classical texts on colloid stability, adsorption, and surface chemistry.
 
-## Current Source Anchors
+## Current Anchor
 
-## Evidence
-
-### Evidence SC-001
-
-Source: colloid
-
-Publisher: IUPAC Gold Book
-
-Authors: IUPAC
-
-Year: Online version 5.0.0, 2025
-
-DOI: 10.1351/goldbook.C01171
-
-URL: https://goldbook.iupac.org/terms/view/C01171
-
-Evidence: Terminology source defining colloid as a short synonym for colloidal system.
-
-Confidence: high
-
-Notes: Verified official IUPAC URL.
-
-### Evidence SC-002
+### Evidence SC-PL-001
 
 Source: Introduction to Colloidal Particles
 
@@ -61,8 +34,8 @@ DOI: 10.1039/9781837674589-00001
 
 URL: https://books.rsc.org/books/edited-volume/2254/chapter/8270756/Introduction-to-Colloidal-Particles
 
-Evidence: Book-chapter source for colloidal particles, dispersed particles in a continuous medium, characterization, and applications.
+Evidence: RSC chapter source anchor associating colloid terminology historically with Thomas Graham in 1861.
 
 Confidence: high
 
-Notes: RSC source anchor.
+Notes: Secondary historical anchor; collect Graham primary records before promotion.

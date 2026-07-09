@@ -5,73 +5,82 @@ status: draft
 version: 1.0
 last_reviewed: 2026-07-09
 confidence: medium
-primary_sources: 2
-secondary_sources: 4
+primary_sources: 3
+secondary_sources: 0
 updated_by: codex
 ---
 
 # Organic Chemistry — Research Frontier
 
-## Curated Review / Frontier Records
+## Curated Source Anchors
 
-### Evidence OC-003
+### Evidence OC-RF-001
 
-Source: PubChem Substance and Compound databases
+Source: IUPAC Blue Book
 
-Publisher: Nucleic Acids Research
+Publisher: IUPAC / RSC Publishing
 
-Authors: Sunghwan Kim et al.
+Authors: Henri A. Favre; Warren H. Powell
 
-Year: 2016 issue; published 2015
+Year: 2013 recommendations; IUPAC page lists RSC Publishing 2014
 
-DOI: 10.1093/nar/gkv951
+DOI: 10.1039/9781849733069
 
-URL: https://academic.oup.com/nar/article/44/D1/D1202/2503131
+URL: https://iupac.org/what-we-do/books/bluebook/
 
-Evidence: Peer-reviewed database article for PubChem Substance and Compound records.
-
-Confidence: high
-
-Notes: Database article.
-
-### Evidence OC-004
-
-Source: Photoredox Catalysis in Organic Chemistry
-
-Publisher: Journal of Organic Chemistry
-
-Authors: Megan H. Shaw; Jack Twilton; David W. C. MacMillan
-
-Year: 2016
-
-DOI: 10.1021/acs.joc.6b01449
-
-URL: https://pubs.acs.org/doi/10.1021/acs.joc.6b01449
-
-Evidence: Perspective source for photoredox catalysis in organic chemistry.
+Evidence: Standards anchor for organic nomenclature.
 
 Confidence: high
 
-Notes: Frontier perspective anchor.
+Notes: Nomenclature anchor.
 
-### Evidence OC-005
+### Evidence OC-RF-002
 
-Source: Metal-organic framework, covalent-organic framework, and porous-organic polymers catalyzed selective C-H bond activation and functionalization reactions
+Source: PubChem
 
-Publisher: Chemical Society Reviews
+Publisher: National Center for Biotechnology Information
 
-Authors: Saba Daliran; Ali Reza Oveisi; Yong Peng; Alberto Lopez-Magano; Mostafa Khajeh; Ruben Mas-Balleste; Jose Aleman; Rafael Luque; Hermenegildo Garcia
+Authors: NCBI / NIH
 
-Year: 2022
+Year: Current database
 
-DOI: 10.1039/d1cs00976a
+DOI:
 
-URL: https://pubs.rsc.org/cs/article/51/18/7810/723619/Metal-organic-framework-MOF-covalent-organic
+URL: https://pubchem.ncbi.nlm.nih.gov/
 
-Evidence: Review source for porous materials in C-H bond activation and functionalization.
+Evidence: Compound-data anchor for organic compound identity, properties, biological activity, safety/toxicity, patents, and literature links.
 
 Confidence: high
 
-Notes: Frontier review anchor.
+Notes: Compound data anchor.
+
+### Evidence OC-RF-003
+
+Source: NIST Chemistry WebBook
+
+Publisher: NIST Chemistry WebBook, SRD 69
+
+Authors: National Institute of Standards and Technology
+
+Year: Data last updated 2025
+
+DOI: 10.18434/T4D303
+
+URL: https://webbook.nist.gov/
+
+Evidence: Evaluated-data anchor for organic thermochemistry and spectral data.
+
+Confidence: high
+
+Notes: Evaluated data anchor.
 
 ## Review-Paper Collection Queue
+
+- C-H activation.
+- Photoredox catalysis.
+- Asymmetric catalysis.
+- Retrosynthesis and AI-assisted synthesis planning.
+- Green organic synthesis.
+- Flow chemistry.
+- Organic electrochemistry.
+- Physical organic chemistry and reaction mechanisms.

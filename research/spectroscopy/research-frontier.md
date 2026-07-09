@@ -5,57 +5,60 @@ status: draft
 version: 1.0
 last_reviewed: 2026-07-09
 confidence: medium
-primary_sources: 3
-secondary_sources: 3
+primary_sources: 2
+secondary_sources: 0
 updated_by: codex
 ---
 
 # Spectroscopy — Research Frontier
 
-## Curated Review / Frontier Records
+## Curated Source Anchors
 
-### Evidence SP-003
+### Evidence SP-RF-001
 
-Source: Developments in ultrafast spectroscopy
+Source: NIST Chemistry WebBook
 
-Publisher: Physical Chemistry Chemical Physics
+Publisher: NIST Chemistry WebBook, SRD 69
 
-Authors: Chantal Daniel; Luis Banares; Spiridoula Matsika; Jin Zhao
+Authors: National Institute of Standards and Technology
 
-Year: 2022
+Year: Data last updated 2025
 
-DOI: 10.1039/D2CP90063G
+DOI: 10.18434/T4D303
 
-URL: https://pubs.rsc.org/en/content/articlehtml/2022/cp/d2cp90063g
+URL: https://webbook.nist.gov/
 
-Evidence: Editorial/themed issue introduction source for ultrafast spectroscopy developments.
-
-Confidence: high
-
-Notes: Frontier anchor.
-
-### Evidence SP-004
-
-Source: Ultrafast Spectroscopy of Chemical Transformations
-
-Publisher: ACS Physical Chemistry Au
-
-Authors: Tanja Cuk; Jin Z. Zhang; Gemma Solomon
-
-Year: 2024 / 2025 issue context
-
-DOI: 10.1021/acsphyschemau.4c00100
-
-URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11758264/
-
-Evidence: Virtual special issue source for ultrafast probes of chemical transformations.
+Evidence: Primary dataset anchor for molecular IR, mass, UV/Vis, electronic, vibrational, and diatomic spectroscopic data.
 
 Confidence: high
 
-Notes: Frontier anchor.
+Notes: Molecular spectroscopy source anchor.
+
+### Evidence SP-RF-002
+
+Source: NIST Atomic Spectra Database
+
+Publisher: NIST Atomic Spectra Database, SRD 78
+
+Authors: Alexander Kramida; Yuri Ralchenko; J. Reader; NIST ASD Team
+
+Year: Version 5.12; data content updated November 2024
+
+DOI: 10.18434/T4W30F
+
+URL: https://www.nist.gov/pml/atomic-spectra-database
+
+Evidence: Primary dataset anchor for atomic energy levels, wavelengths, and transition probabilities.
+
+Confidence: high
+
+Notes: Atomic spectroscopy source anchor.
 
 ## Review-Paper Collection Queue
 
-- Ultrafast spectroscopy reviews.
-- Attosecond spectroscopy reviews.
-- X-ray ultrafast pulse sources.
+- Ultrafast spectroscopy.
+- Single-molecule spectroscopy.
+- Spectroscopy with machine learning.
+- Raman and IR imaging.
+- Operando spectroscopy in catalysis and batteries.
+- Spectroscopy databases and uncertainty.

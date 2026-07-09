@@ -1,28 +1,28 @@
 nodes:
   - id: solutions-and-colloids
     type: topic
-  - id: physical-chemistry
+  - id: colloid
+    type: concept
+  - id: chemical-equilibrium
     type: topic
   - id: analytical-chemistry
     type: topic
   - id: materials-chemistry
     type: topic
-  - id: soft-matter
-    type: topic
 edges:
-  - from: solutions-and-colloids
-    to: physical-chemistry
-    relation: related_to
-    confidence: medium
+  - from: chemical-equilibrium
+    to: solutions-and-colloids
+    relation: governs_solution_equilibria
+    confidence: high
+  - from: colloid
+    to: solutions-and-colloids
+    relation: core_subtopic
+    confidence: high
   - from: solutions-and-colloids
     to: analytical-chemistry
-    relation: related_to
+    relation: supports_sample_matrix_interpretation
     confidence: medium
   - from: solutions-and-colloids
     to: materials-chemistry
-    relation: related_to
-    confidence: medium
-  - from: solutions-and-colloids
-    to: soft-matter
-    relation: related_to
+    relation: supports_dispersion_and_particle_systems
     confidence: medium

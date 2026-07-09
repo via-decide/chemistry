@@ -5,8 +5,8 @@ status: draft
 version: 1.0
 last_reviewed: 2026-07-09
 confidence: medium
-primary_sources: 3
-secondary_sources: 3
+primary_sources: 1
+secondary_sources: 0
 updated_by: codex
 ---
 
@@ -14,42 +14,22 @@ updated_by: codex
 
 ## Evidence
 
-### Evidence SP-001
+### Evidence SP-SD-001
 
-Source: NIST Chemistry WebBook, SRD 69
+Source: IUPAC Green Book
 
-Publisher: NIST
+Publisher: IUPAC / RSC Publishing
 
-Authors: National Institute of Standards and Technology
+Authors: IUPAC
 
-Year: Data last updated 2025
+Year: 2023 abridged 4th edition; 2007 3rd edition
 
-DOI: 10.18434/T4D303
+DOI: 10.1039/9781839163180
 
-URL: https://webbook.nist.gov/chemistry/
+URL: https://iupac.org/what-we-do/books/greenbook/
 
-Evidence: Evaluated database source for IR spectra, mass spectra, UV/Vis spectra, electronic and vibrational spectra, constants of diatomic molecules, and related compound data.
-
-Confidence: high
-
-Notes: Tier 0 evaluated database.
-
-### Evidence SP-002
-
-Source: NIST Atomic Spectra Database, SRD 78
-
-Publisher: NIST
-
-Authors: Alexander Kramida; Yuri Ralchenko; J. Reader; NIST ASD Team
-
-Year: Version 5.12; data content updated November 2024
-
-DOI: 10.18434/T4W30F
-
-URL: https://www.nist.gov/pml/atomic-spectra-database
-
-Evidence: Critically evaluated atomic spectroscopy data source for energy levels, wavelengths, transition probabilities, spectral lines, ground states, and ionization energies.
+Evidence: IUPAC Green Book source for quantities, units, symbols, physical constants, conversion tables, terms, and symbols used in physical chemistry and spectroscopy records.
 
 Confidence: high
 
-Notes: Tier 0 evaluated database.
+Notes: Standards anchor.

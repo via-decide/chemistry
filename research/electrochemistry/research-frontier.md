@@ -5,58 +5,40 @@ status: draft
 version: 1.0
 last_reviewed: 2026-07-09
 confidence: medium
-primary_sources: 2
-secondary_sources: 4
+primary_sources: 1
+secondary_sources: 0
 updated_by: codex
 ---
 
 # Electrochemistry — Research Frontier
 
-## Curated Review / Frontier Records
+## Curated Review / Frontier Targets
 
-### Evidence EC-003
+- Battery electrochemistry and sulfur redox kinetics.
+- Electrocatalysis and descriptor-based catalyst design.
+- Electrochemical energy storage.
+- Electrochemical CO2 reduction.
+- Corrosion electrochemistry.
+- Electroanalytical sensor development.
 
-Source: The promise of chiral electrocatalysis for efficient and sustainable energy conversion and storage
+## Current Anchor
 
-Publisher: Chemical Society Reviews
+### Evidence EC-RF-001
 
-Authors: Kyunghee Chae; Nur Aqlili Riana Che Mohamad; Jeonghyeon Kim; Dong-Il Won; Zhiqun Lin; Jeongwon Kim; Dong Ha Kim
+Source: Nernst equation
 
-Year: 2024
+Publisher: IUPAC Gold Book
 
-DOI: 10.1039/d3cs00316g
+Authors: IUPAC
 
-URL: https://pubs.rsc.org/cs/article/53/18/9029/803828/The-promise-of-chiral-electrocatalysis-for
+Year: Online version 5.0.0, 2025
 
-Evidence: Review source for electrocatalysis, chiral materials, energy conversion, and spin selectivity.
+DOI: 10.1351/goldbook.09068
 
-Confidence: high
+URL: https://goldbook.iupac.org/terms/view/09068
 
-Notes: Frontier review anchor.
-
-### Evidence EC-004
-
-Source: Tutorials in Electrochemistry: Electrocatalysis
-
-Publisher: ACS Energy Letters
-
-Authors:
-
-Year: 2024
-
-DOI: 10.1021/acsenergylett.4c00471
-
-URL: https://pubs.acs.org/doi/10.1021/acsenergylett.4c00471
-
-Evidence: Tutorial/perspective source for electrocatalysis best practices and electrochemical applications.
+Evidence: IUPAC provides the Nernst equation terminology source, including activities, formal potentials, and concentration approximations used in analytical chemistry.
 
 Confidence: high
 
-Notes: ACS source anchor.
-
-## Review-Paper Collection Queue
-
-- Hydrogen production.
-- CO2 reduction.
-- Nitrogen reduction.
-- Electrocatalyst durability.
+Notes: Replace frontier targets with DOI-bearing review records in the next pass.

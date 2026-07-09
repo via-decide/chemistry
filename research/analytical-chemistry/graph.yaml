@@ -5,24 +5,24 @@ nodes:
     type: topic
   - id: electrochemistry
     type: topic
-  - id: statistics
+  - id: acids-and-bases
     type: topic
-  - id: metrology
-    type: topic
+  - id: iupac-orange-book
+    type: standard
 edges:
-  - from: analytical-chemistry
-    to: spectroscopy
-    relation: related_to
-    confidence: medium
-  - from: analytical-chemistry
-    to: electrochemistry
-    relation: related_to
-    confidence: medium
-  - from: analytical-chemistry
-    to: statistics
-    relation: related_to
-    confidence: medium
-  - from: analytical-chemistry
-    to: metrology
-    relation: related_to
-    confidence: medium
+  - from: spectroscopy
+    to: analytical-chemistry
+    relation: provides_measurement_methods
+    confidence: high
+  - from: electrochemistry
+    to: analytical-chemistry
+    relation: provides_electroanalytical_methods
+    confidence: high
+  - from: acids-and-bases
+    to: analytical-chemistry
+    relation: supports_titrimetry_and_pH_measurement
+    confidence: high
+  - from: iupac-orange-book
+    to: analytical-chemistry
+    relation: provides_official_terminology
+    confidence: high

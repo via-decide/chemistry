@@ -5,8 +5,8 @@ status: draft
 version: 1.0
 last_reviewed: 2026-07-09
 confidence: medium
-primary_sources: 2
-secondary_sources: 4
+primary_sources: 1
+secondary_sources: 0
 updated_by: codex
 ---
 
@@ -14,7 +14,7 @@ updated_by: codex
 
 ## Evidence
 
-### Evidence EC-001
+### Evidence EC-SD-001
 
 Source: Nernst equation
 
@@ -28,28 +28,48 @@ DOI: 10.1351/goldbook.09068
 
 URL: https://goldbook.iupac.org/terms/view/09068
 
-Evidence: Terminology source defining the Nernst equation as a fundamental electrochemistry equation for equilibrium electrode potential and contacting-phase composition.
+Evidence: IUPAC defines the Nernst equation as a fundamental electrochemistry equation describing how equilibrium electrode potential depends on contacting-phase composition.
 
 Confidence: high
 
-Notes: Verified official IUPAC URL.
+Notes: Standards anchor for the Nernst equation.
 
-### Evidence EC-002
+### Evidence EC-SD-002
 
-Source: Standard Electrode Potentials and Temperature Coefficients in Water at 298.15 K
+Source: Nernst equation variables and assumptions
 
-Publisher: Journal of Physical and Chemical Reference Data / NIST-hosted reprint
+Publisher: IUPAC Gold Book
 
-Authors: Steven G. Bratsch
+Authors: IUPAC
 
-Year: 1989
+Year: Online version 5.0.0, 2025
 
-DOI: 10.1063/1.555839
+DOI: 10.1351/goldbook.09068
 
-URL: https://srd.nist.gov/jpcrdreprint/1.555839.pdf
+URL: https://goldbook.iupac.org/terms/view/09068
 
-Evidence: Evaluated data paper for standard electrode potentials and temperature coefficients in water at 298.15 K.
+Evidence: IUPAC identifies variables including equilibrium electrode potential, standard electrode potential, gas constant, thermodynamic temperature, Faraday constant, electron number, stoichiometric coefficients, and species activities.
 
 Confidence: high
 
-Notes: Evaluated data paper.
+Notes: Variable schema source for equation records.
+
+### Evidence EC-SD-003
+
+Source: Analytical chemistry concentration form
+
+Publisher: IUPAC Gold Book
+
+Authors: IUPAC
+
+Year: Online version 5.0.0, 2025
+
+DOI: 10.1351/goldbook.09068
+
+URL: https://goldbook.iupac.org/terms/view/09068
+
+Evidence: IUPAC notes analytical chemistry use of concentration forms and formal potential for the Nernst equation.
+
+Confidence: high
+
+Notes: Analytical-form caveat for electroanalytical records.

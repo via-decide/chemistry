@@ -5,58 +5,41 @@ status: draft
 version: 1.0
 last_reviewed: 2026-07-09
 confidence: medium
-primary_sources: 2
-secondary_sources: 3
+primary_sources: 0
+secondary_sources: 1
 updated_by: codex
 ---
 
 # Solutions and Colloids — Research Frontier
 
-## Curated Review / Frontier Records
+## Curated Source Anchor
 
-### Evidence SC-003
+### Evidence SC-RF-001
 
-Source: Active colloids with collective mobility status and research opportunities
+Source: Introduction to Colloidal Particles
 
-Publisher: Chemical Society Reviews
+Publisher: Royal Society of Chemistry
 
-Authors: Jie Zhang; Erik Luijten; Bartosz A. Grzybowski; Steve Granick
+Authors: Vandana Sharma; Zuyao Xiao; Juliane Simmchen
 
-Year: 2017
+Year: 2024
 
-DOI: 10.1039/C7CS00461C
+DOI: 10.1039/9781837674589-00001
 
-URL: https://pubs.rsc.org/en/content/articlehtml/2012/zx/c7cs00461c
+URL: https://books.rsc.org/books/edited-volume/2254/chapter/8270756/Introduction-to-Colloidal-Particles
 
-Evidence: Review source for active matter, collective mobility, dynamic assembly, and nonequilibrium colloids.
-
-Confidence: high
-
-Notes: Frontier review anchor.
-
-### Evidence SC-004
-
-Source: Active Colloids as Models, Materials, and Machines
-
-Publisher: Annual Review of Chemical and Biomolecular Engineering
-
-Authors: Kyle J. M. Bishop; Sibani Lisa Biswal; Bhuvnesh Bharti
-
-Year: 2023
-
-DOI: 10.1146/annurev-chembioeng-101121-084939
-
-URL: https://www.osti.gov/pages/biblio/2419552
-
-Evidence: Review source for active colloids, nonequilibrium materials, and colloidal machines.
+Evidence: RSC chapter source anchor for general principles of colloidal science, particle production and characterization, and forces/principles needed for deeper study of colloidal active materials.
 
 Confidence: high
 
-Notes: OSTI record anchor.
+Notes: Curated source anchor.
 
 ## Review-Paper Collection Queue
 
-- DLVO theory equations.
-- Particle-size characterization.
-- Dynamic light scattering.
-- Zeta potential measurement.
+- Active colloids.
+- Colloidal self-assembly.
+- Nanoparticle dispersions.
+- Emulsion stability.
+- Colloid-interface interactions.
+- Pharmaceutical colloids.
+- Environmental colloids and transport.
