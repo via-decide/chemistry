@@ -1,0 +1,34 @@
+nodes:
+  - id: acids-and-bases
+    type: topic
+  - id: chemical-equilibrium
+    type: topic
+  - id: pH
+    type: concept
+  - id: buffers
+    type: concept
+  - id: analytical-chemistry
+    type: topic
+  - id: environmental-chemistry
+    type: topic
+edges:
+  - from: chemical-equilibrium
+    to: acids-and-bases
+    relation: governs
+    confidence: high
+  - from: pH
+    to: acids-and-bases
+    relation: quantitative_measure
+    confidence: high
+  - from: acids-and-bases
+    to: buffers
+    relation: enables
+    confidence: high
+  - from: acids-and-bases
+    to: analytical-chemistry
+    relation: supports_titration_methods
+    confidence: high
+  - from: acids-and-bases
+    to: environmental-chemistry
+    relation: supports_water_and_carbonate_chemistry
+    confidence: medium

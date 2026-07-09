@@ -1,0 +1,28 @@
+nodes:
+  - id: periodic-table
+    type: topic
+  - id: atomic-structure
+    type: topic
+  - id: chemical-bonding
+    type: topic
+  - id: inorganic-chemistry
+    type: topic
+  - id: materials-chemistry
+    type: topic
+edges:
+  - from: atomic-structure
+    to: periodic-table
+    relation: enables_atomic_number_ordering
+    confidence: high
+  - from: periodic-table
+    to: chemical-bonding
+    relation: informs_valence_and_periodic_trends
+    confidence: high
+  - from: periodic-table
+    to: inorganic-chemistry
+    relation: organizes_element_chemistry
+    confidence: high
+  - from: periodic-table
+    to: materials-chemistry
+    relation: supports_element_selection
+    confidence: medium

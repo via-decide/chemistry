@@ -1,0 +1,66 @@
+id: acids-and-bases
+canonical_name: Acids and Bases
+aliases:
+  - acid-base chemistry
+  - acid-base equilibria
+  - proton transfer chemistry
+difficulty: foundational_to_intermediate
+prerequisites:
+  - chemical-equilibrium
+  - aqueous-solutions
+  - logarithms
+depends_on:
+  - hydrogen-ion-activity
+  - equilibrium-constants
+  - water-autoionization
+  - conjugate-pairs
+used_by:
+  - analytical-chemistry
+  - environmental-chemistry
+  - biochemistry
+  - pharmaceuticals
+industry_tags:
+  - pH control
+  - water treatment
+  - corrosion control
+  - pharmaceuticals
+  - acid-base extraction
+history_people:
+  - Robert Boyle
+  - Humphry Davy
+  - Svante Arrhenius
+  - Johannes Bronsted
+  - Thomas Lowry
+  - Gilbert N. Lewis
+equations:
+  - pH definition
+  - pOH definition
+  - Kw expression
+  - Henderson-Hasselbalch equation
+datasets:
+  - IUPAC Gold Book
+  - NIST Chemistry WebBook
+  - PubChem
+related_topics:
+  - chemical-equilibrium
+  - analytical-chemistry
+  - environmental-chemistry
+  - electrochemistry
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_iupac_fraction: 0.25
+  min_primary_history_fraction: 0.20
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

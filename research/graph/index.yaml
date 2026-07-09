@@ -1,0 +1,9 @@
+graph_name: chemistry-knowledge-corpus
+version: upgrade-pass-a
+purpose: graph-ready chemistry evidence library
+batch_coverage:
+  - batch_1
+  - batch_2
+node_file: nodes.yaml
+edge_file: edges.yaml
+quality_target: publication-grade evidence library

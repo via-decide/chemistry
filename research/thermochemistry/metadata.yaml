@@ -1,0 +1,62 @@
+id: thermochemistry
+canonical_name: Thermochemistry
+aliases:
+  - reaction heat
+  - heat of reaction
+  - chemical heat
+difficulty: foundational_to_intermediate
+prerequisites:
+  - stoichiometry
+  - energy
+  - temperature
+depends_on:
+  - calorimetry
+  - enthalpy
+  - heat-capacity
+  - conservation-of-energy
+used_by:
+  - chemical-thermodynamics
+  - combustion
+  - process-safety
+  - materials-processing
+industry_tags:
+  - combustion
+  - rocket propellants
+  - thermal safety
+  - process heat balance
+  - calorimetry
+history_people:
+  - Germain Henri Hess
+  - Antoine Lavoisier
+  - Pierre-Simon Laplace
+equations:
+  - q = m c Delta T
+  - Delta H reaction
+  - Hess law summation
+datasets:
+  - NIST Chemistry WebBook
+  - CRC Handbook of Chemistry and Physics
+  - Perry's Chemical Engineers' Handbook
+related_topics:
+  - stoichiometry
+  - chemical-thermodynamics
+  - chemical-equilibrium
+  - chemical-kinetics
+source_balance_target:
+  max_openstax_fraction: 0.20
+  min_nist_fraction: 0.30
+  min_primary_history_fraction: 0.20
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md

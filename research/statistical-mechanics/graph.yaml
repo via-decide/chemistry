@@ -1,0 +1,28 @@
+nodes:
+  - id: statistical-mechanics
+    type: topic
+  - id: chemical-thermodynamics
+    type: topic
+  - id: molecular-simulation
+    type: topic
+  - id: chemical-kinetics
+    type: topic
+  - id: partition-function
+    type: concept
+edges:
+  - from: statistical-mechanics
+    to: chemical-thermodynamics
+    relation: molecular_basis_for
+    confidence: high
+  - from: partition-function
+    to: statistical-mechanics
+    relation: central_mathematical_object
+    confidence: high
+  - from: statistical-mechanics
+    to: molecular-simulation
+    relation: theoretical_basis_for
+    confidence: high
+  - from: statistical-mechanics
+    to: chemical-kinetics
+    relation: supports_rate_theory
+    confidence: medium
