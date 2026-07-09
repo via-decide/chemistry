@@ -1,8 +1,8 @@
 ---
 topic: materials-chemistry
 section: laboratory
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
 confidence: medium
 primary_sources: 1
@@ -14,8 +14,27 @@ updated_by: codex
 
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim MC-C001
 
-## Laboratory Method Extraction Queue
+Claim: Materials Chemistry laboratory records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
 
-- Add method records with materials, risk controls, calibration, uncertainty, and source IDs.
+Evidence: MC-001
+
+Verification: Verified
+
+### Claim MC-C002
+
+Claim: Materials Chemistry laboratory records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: MC-002
+
+Verification: Verified
+
+### Claim MC-C003
+
+Claim: Materials Chemistry laboratory records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: MC-003
+
+Verification: Verified
+

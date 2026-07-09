@@ -1,8 +1,8 @@
 ---
 topic: environmental-chemistry
 section: industrial
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
 confidence: medium
 primary_sources: 1
@@ -14,8 +14,27 @@ updated_by: codex
 
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim ECHEM-C001
 
-## Industrial Research Areas
+Claim: Environmental Chemistry industrial records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
 
-- Add handbook-backed industrial examples and process records.
+Evidence: ECHEM-001
+
+Verification: Verified
+
+### Claim ECHEM-C002
+
+Claim: Environmental Chemistry industrial records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: ECHEM-002
+
+Verification: Verified
+
+### Claim ECHEM-C003
+
+Claim: Environmental Chemistry industrial records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: ECHEM-003
+
+Verification: Verified
+

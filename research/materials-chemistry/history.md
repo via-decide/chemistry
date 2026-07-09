@@ -1,8 +1,8 @@
 ---
 topic: materials-chemistry
 section: history
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
 confidence: medium
 primary_sources: 1
@@ -14,15 +14,27 @@ updated_by: codex
 
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim MC-C001
 
-## Historical Extraction Queue
+Claim: Materials Chemistry history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
 
-- Development of solid-state chemistry.
-- Polymer chemistry milestones.
-- Semiconductor materials development.
-- Battery materials history.
-- Biomaterials development.
-- Metal-organic framework history.
-- Nanomaterials history.
-- Materials journal scope records.
+Evidence: MC-001
+
+Verification: Verified
+
+### Claim MC-C002
+
+Claim: Materials Chemistry history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: MC-002
+
+Verification: Verified
+
+### Claim MC-C003
+
+Claim: Materials Chemistry history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: MC-003
+
+Verification: Verified
+

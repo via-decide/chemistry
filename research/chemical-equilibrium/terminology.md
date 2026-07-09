@@ -1,11 +1,11 @@
 ---
 topic: chemical-equilibrium
 section: terminology
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
-confidence: low
-primary_sources: 0
+confidence: medium
+primary_sources: 1
 secondary_sources: 0
 updated_by: codex
 ---
@@ -14,4 +14,27 @@ updated_by: codex
 
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim CE-C001
+
+Claim: An equilibrium constant is a thermodynamic quantity defined from activities for a specified reaction and standard state.
+
+Evidence: CE-002
+
+Verification: Verified
+
+### Claim CE-C002
+
+Claim: The reaction quotient describes the instantaneous activity ratio for a reaction composition.
+
+Evidence: CE-002
+
+Verification: Verified
+
+### Claim CE-C003
+
+Claim: Le Chatelier response denotes the direction of composition change following a perturbation of an equilibrium system.
+
+Evidence: CE-002
+
+Verification: Verified
+

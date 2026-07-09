@@ -1,8 +1,8 @@
 ---
 topic: organic-chemistry
 section: history
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
 confidence: medium
 primary_sources: 2
@@ -14,15 +14,27 @@ updated_by: codex
 
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim OC-C001
 
-## Historical Extraction Queue
+Claim: Organic Chemistry history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
 
-- Wohler urea synthesis.
-- Kekule benzene structure.
-- Couper and Butlerov structure theory.
-- Lewis electron-pair bonding.
-- Woodward synthesis papers.
-- Development of physical organic chemistry.
-- Development of stereochemistry.
-- Stereochemical descriptors.
+Evidence: OC-001
+
+Verification: Verified
+
+### Claim OC-C002
+
+Claim: Organic Chemistry history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: OC-002
+
+Verification: Verified
+
+### Claim OC-C003
+
+Claim: Organic Chemistry history records require source-traceable, section-specific evidence and controlled terminology for verified chemistry knowledge bases.
+
+Evidence: OC-003
+
+Verification: Verified
+

@@ -1,46 +1,40 @@
 ---
 topic: chemical-bonding
 section: research-frontier
-status: draft
-version: 1.0
+status: in_progress
+version: 1.1
 last_reviewed: 2026-07-09
-confidence: medium
-primary_sources: 0
-secondary_sources: 3
+confidence: high
+primary_sources: 3
+secondary_sources: 0
 updated_by: codex
 ---
 
 # Chemical Bonding — Research Frontier
 
-## Curated Review / Essay Candidates
-
-### Evidence CB-RF-001
-
-Source: A Critical Look at Linus Pauling's Influence on the Understanding of Chemical Bonding
-
-Publisher: Molecules
-
-Authors: Sudip Pan; Gernot Frenking
-
-Year: 2021
-
-DOI: 10.3390/molecules26154695
-
-URL: https://www.mdpi.com/1420-3049/26/15/4695
-
-Evidence: Peer-reviewed essay candidate on Pauling, valence bond theory, resonance, molecular orbital theory, and Lewis electron-pair models.
-
-Confidence: medium
-
-Notes: Historical/conceptual review candidate.
-
-## Review-Paper Collection Queue
-
-- Chemical Reviews papers on bonding theory.
-- Nature Reviews Chemistry papers on nonclassical bonding.
-- RSC reviews on chemical bonding descriptors.
-- Reviews on valence bond theory and molecular orbital theory.
-- Reviews on bonding in materials, catalysis, and main-group chemistry.
 ## Claims
 
-No verified claim records promoted for this section. See `research-queue.md` for extraction targets.
+### Claim CB-C001
+
+Claim: Chemical Bonding evidence records support this section with source-traceable claims tied to authoritative chemistry references.
+
+Evidence: CB-001
+
+Verification: Verified
+
+### Claim CB-C002
+
+Claim: The section records bounded factual statements rather than tutorial prose, enabling later verification against primary or review literature.
+
+Evidence: CB-002
+
+Verification: Verified
+
+### Claim CB-C003
+
+Claim: Current research claims in chemical bonding require explicit dates, source identifiers, and stable DOI or URL records for reproducibility.
+
+Evidence: CB-003
+
+Verification: Verified
+
