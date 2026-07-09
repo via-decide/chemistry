@@ -1,0 +1,27 @@
+topic: chemical-bonding
+title: Chemical Bonding
+identifier_prefix: CB
+status: draft
+version: 1.0
+last_reviewed: 2026-07-09
+updated_by: codex
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md
+related_topics:
+  - atomic-structure
+  - molecular-orbital-theory
+  - thermochemistry
+  - solid-state-chemistry
+  - spectroscopy
