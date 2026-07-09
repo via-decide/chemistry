@@ -1,0 +1,28 @@
+topic: atomic-structure
+title: Atomic Structure
+identifier_prefix: AS
+status: draft
+version: 1.0
+last_reviewed: 2026-07-09
+updated_by: codex
+required_sections:
+  - overview.md
+  - history.md
+  - fundamentals.md
+  - mathematics.md
+  - equations.md
+  - terminology.md
+  - laboratory.md
+  - industrial.md
+  - applications.md
+  - common-misconceptions.md
+  - research-frontier.md
+  - research-queue.md
+  - references.md
+related_topics:
+  - quantum-chemistry
+  - spectroscopy
+  - nuclear-chemistry
+  - periodic-table
+  - electronic-structure
+  - materials-chemistry
