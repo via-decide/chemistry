@@ -7,6 +7,7 @@ last_reviewed: 2026-07-09
 confidence: medium
 primary_sources: 2
 secondary_sources: 0
+secondary_sources: 1
 updated_by: codex
 ---
 
@@ -60,3 +61,6 @@ Notes: Frontier theme: isotopic abundance variation and standard atomic weights.
 - Reviews on periodicity and relativistic effects.
 - Reviews on isotope-abundance variation.
 - Reviews on Group 3 placement and periodic-table representation.
+## Claims
+
+No verified claim records promoted for this section. See `research-queue.md` for extraction targets.

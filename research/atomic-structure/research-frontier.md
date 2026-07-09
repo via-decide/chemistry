@@ -40,3 +40,6 @@ Notes: Dataset anchor for frontier collection.
 - Relativistic atomic structure review papers.
 - Atomic data needs for fusion and astrophysics.
 - Isotope-shift and nuclear-radius review papers.
+## Claims
+
+No verified claim records promoted for this section. See `research-queue.md` for extraction targets.

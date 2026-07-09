@@ -43,6 +43,13 @@ source_balance_target:
   max_openstax_fraction: 0.20
   min_primary_history_fraction: 0.20
   min_evaluated_data_fraction: 0.25
+topic: stoichiometry
+title: Stoichiometry
+identifier_prefix: ST
+status: draft
+version: 1.0
+last_reviewed: 2026-07-09
+updated_by: codex
 required_sections:
   - overview.md
   - history.md
@@ -57,3 +64,9 @@ required_sections:
   - research-frontier.md
   - research-queue.md
   - references.md
+related_topics:
+  - chemical-reactions
+  - moles
+  - analytical-chemistry
+  - chemical-engineering
+  - thermochemistry

@@ -44,6 +44,13 @@ source_balance_target:
   max_openstax_fraction: 0.20
   min_iupac_fraction: 0.30
   min_evaluated_data_fraction: 0.30
+topic: periodic-table
+title: Periodic Table
+identifier_prefix: PT
+status: draft
+version: 1.0
+last_reviewed: 2026-07-09
+updated_by: codex
 required_sections:
   - overview.md
   - history.md
@@ -58,3 +65,9 @@ required_sections:
   - research-frontier.md
   - research-queue.md
   - references.md
+related_topics:
+  - atomic-structure
+  - chemical-periodicity
+  - inorganic-chemistry
+  - materials-chemistry
+  - nomenclature
