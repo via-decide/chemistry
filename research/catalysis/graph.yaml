@@ -1,0 +1,39 @@
+nodes:
+  - id: catalysis
+    type: topic
+  - id: chemical-kinetics
+    type: topic
+  - id: catalyst
+    type: concept
+  - id: electrochemistry
+    type: topic
+  - id: photochemistry
+    type: topic
+  - id: polymer-chemistry
+    type: topic
+
+edges:
+  - from: chemical-kinetics
+    to: catalysis
+    relation: explains_rate_acceleration
+    confidence: high
+
+  - from: catalyst
+    to: catalysis
+    relation: core_entity
+    confidence: high
+
+  - from: catalysis
+    to: electrochemistry
+    relation: supports_electrocatalysis
+    confidence: high
+
+  - from: catalysis
+    to: photochemistry
+    relation: supports_photocatalysis
+    confidence: high
+
+  - from: catalysis
+    to: polymer-chemistry
+    relation: supports_polymerization_and_depolymerization
+    confidence: medium

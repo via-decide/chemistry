@@ -1,0 +1,39 @@
+nodes:
+  - id: nuclear-chemistry
+    type: topic
+  - id: atomic-structure
+    type: topic
+  - id: isotopes
+    type: concept
+  - id: radioactivity
+    type: concept
+  - id: analytical-chemistry
+    type: topic
+  - id: environmental-chemistry
+    type: topic
+
+edges:
+  - from: atomic-structure
+    to: nuclear-chemistry
+    relation: supplies_nucleus_and_isotope_basis
+    confidence: high
+
+  - from: isotopes
+    to: nuclear-chemistry
+    relation: core_concept
+    confidence: high
+
+  - from: radioactivity
+    to: nuclear-chemistry
+    relation: core_process
+    confidence: high
+
+  - from: nuclear-chemistry
+    to: analytical-chemistry
+    relation: supports_radioanalytical_methods
+    confidence: medium
+
+  - from: nuclear-chemistry
+    to: environmental-chemistry
+    relation: supports_radiotracer_and_contamination_context
+    confidence: medium

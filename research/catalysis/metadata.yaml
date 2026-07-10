@@ -1,0 +1,52 @@
+id: catalysis
+canonical_name: Catalysis
+aliases:
+  - catalytic chemistry
+  - catalytic reactions
+difficulty: intermediate_to_advanced
+prerequisites:
+  - chemical-kinetics
+  - chemical-thermodynamics
+  - chemical-bonding
+depends_on:
+  - catalyst
+  - reaction-mechanism
+  - activation-energy
+  - active-site
+used_by:
+  - organic-chemistry
+  - inorganic-chemistry
+  - polymer-chemistry
+  - environmental-chemistry
+  - electrochemistry
+  - photochemistry
+industry_tags:
+  - chemical manufacturing
+  - petrochemicals
+  - pharmaceuticals
+  - polymers
+  - energy conversion
+  - emissions control
+history_people:
+  - Jons Jacob Berzelius
+  - Fritz Haber
+  - Carl Bosch
+equations:
+  - rate law
+  - Michaelis-Menten kinetics
+  - Arrhenius equation
+datasets:
+  - IUPAC Gold Book
+  - Kirk-Othmer Encyclopedia
+  - Ullmann's Encyclopedia
+related_topics:
+  - chemical-kinetics
+  - electrochemistry
+  - photochemistry
+  - polymer-chemistry
+  - organic-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.05
+  min_iupac_fraction: 0.25
+  min_industrial_handbook_fraction: 0.20
+  min_review_fraction: 0.35

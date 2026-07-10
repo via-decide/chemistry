@@ -1,0 +1,39 @@
+nodes:
+  - id: photochemistry
+    type: topic
+  - id: spectroscopy
+    type: topic
+  - id: quantum-chemistry
+    type: topic
+  - id: organic-chemistry
+    type: topic
+  - id: catalysis
+    type: topic
+  - id: photoredox-catalysis
+    type: concept
+
+edges:
+  - from: spectroscopy
+    to: photochemistry
+    relation: measures_light_matter_interactions
+    confidence: high
+
+  - from: quantum-chemistry
+    to: photochemistry
+    relation: explains_excited_states
+    confidence: high
+
+  - from: photochemistry
+    to: organic-chemistry
+    relation: enables_light_driven_synthesis
+    confidence: high
+
+  - from: photochemistry
+    to: catalysis
+    relation: supports_photocatalysis
+    confidence: high
+
+  - from: photoredox-catalysis
+    to: photochemistry
+    relation: subfield
+    confidence: high

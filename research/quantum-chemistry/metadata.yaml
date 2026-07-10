@@ -1,0 +1,53 @@
+id: quantum-chemistry
+canonical_name: Quantum Chemistry
+aliases:
+  - computational quantum chemistry
+  - electronic structure theory
+  - molecular quantum mechanics
+difficulty: advanced
+prerequisites:
+  - atomic-structure
+  - chemical-bonding
+  - statistical-mechanics
+  - mathematics
+depends_on:
+  - quantum-mechanics
+  - schrodinger-equation
+  - electronic-structure
+  - approximation-methods
+used_by:
+  - chemical-bonding
+  - spectroscopy
+  - materials-chemistry
+  - computational-chemistry
+  - catalysis
+industry_tags:
+  - molecular modeling
+  - materials discovery
+  - drug discovery
+  - catalysis
+  - spectroscopy prediction
+history_people:
+  - Erwin Schrodinger
+  - Max Born
+  - Robert Oppenheimer
+  - Walter Heitler
+  - Fritz London
+equations:
+  - Schrodinger equation
+  - Born-Oppenheimer approximation
+  - Hartree-Fock equations
+  - density functional theory expressions
+datasets:
+  - NIST CCCBDB
+  - MIT OCW Quantum Mechanics I
+related_topics:
+  - chemical-bonding
+  - statistical-mechanics
+  - spectroscopy
+  - materials-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.05
+  min_nist_fraction: 0.25
+  min_peer_reviewed_review_fraction: 0.30
+  min_primary_literature_fraction: 0.20

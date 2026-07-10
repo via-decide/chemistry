@@ -1,0 +1,39 @@
+nodes:
+  - id: polymer-chemistry
+    type: topic
+  - id: organic-chemistry
+    type: topic
+  - id: materials-chemistry
+    type: topic
+  - id: catalysis
+    type: topic
+  - id: environmental-chemistry
+    type: topic
+  - id: iupac-purple-book
+    type: standard
+
+edges:
+  - from: organic-chemistry
+    to: polymer-chemistry
+    relation: supplies_monomer_and_reactivity_basis
+    confidence: high
+
+  - from: polymer-chemistry
+    to: materials-chemistry
+    relation: supplies_polymeric_materials
+    confidence: high
+
+  - from: catalysis
+    to: polymer-chemistry
+    relation: supports_polymerization_and_recycling
+    confidence: medium
+
+  - from: polymer-chemistry
+    to: environmental-chemistry
+    relation: relevant_to_plastic_waste_and_recycling
+    confidence: medium
+
+  - from: iupac-purple-book
+    to: polymer-chemistry
+    relation: provides_terminology_and_nomenclature
+    confidence: high

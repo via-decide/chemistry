@@ -1,0 +1,46 @@
+id: photochemistry
+canonical_name: Photochemistry
+aliases:
+  - light-induced chemistry
+  - photochemical reactions
+  - photochemical science
+difficulty: intermediate_to_advanced
+prerequisites:
+  - spectroscopy
+  - quantum-chemistry
+  - organic-chemistry
+  - chemical-kinetics
+depends_on:
+  - excited-states
+  - photon-absorption
+  - energy-transfer
+  - electron-transfer
+used_by:
+  - organic-chemistry
+  - environmental-chemistry
+  - materials-chemistry
+  - photomedicine
+  - solar-energy
+industry_tags:
+  - photocatalysis
+  - photomedicine
+  - solar fuels
+  - sensors
+  - sustainable synthesis
+history_people: []
+equations:
+  - E = h nu
+  - quantum yield
+  - photochemical rate expressions
+datasets:
+  - IUPAC Gold Book
+  - IUPAC photochemistry glossary
+related_topics:
+  - spectroscopy
+  - quantum-chemistry
+  - organic-chemistry
+  - catalysis
+source_balance_target:
+  max_openstax_fraction: 0.05
+  min_iupac_fraction: 0.25
+  min_peer_reviewed_review_fraction: 0.35
