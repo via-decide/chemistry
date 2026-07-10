@@ -1,0 +1,32 @@
+nodes:
+  - id: mass-spectrometry
+    label: Mass Spectrometry
+    type: topic
+
+  - id: solubility
+    label: Solubility
+    type: topic
+
+  - id: toxicology
+    label: Toxicology
+    type: topic
+
+  - id: clinical-chemistry
+    label: Clinical Chemistry
+    type: topic
+
+  - id: food-chemistry
+    label: Food Chemistry
+    type: topic
+
+  - id: toxicokinetics
+    label: Toxicokinetics
+    type: concept
+
+  - id: diagnostics
+    label: Diagnostics
+    type: application
+
+  - id: food-safety
+    label: Food Safety
+    type: application

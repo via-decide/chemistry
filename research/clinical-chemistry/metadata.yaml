@@ -1,0 +1,44 @@
+id: clinical-chemistry
+canonical_name: Clinical Chemistry
+aliases:
+  - clinical laboratory chemistry
+  - laboratory medicine chemistry
+difficulty: intermediate_to_advanced
+prerequisites:
+  - analytical-chemistry
+  - biochemistry
+  - toxicology
+  - spectroscopy
+depends_on:
+  - quantities-and-units
+  - clinical-laboratory-measurement
+  - metrology
+  - reference-materials
+used_by:
+  - diagnostics
+  - toxicology
+  - biochemistry
+  - medicinal-chemistry
+industry_tags:
+  - diagnostics
+  - laboratory medicine
+  - clinical laboratories
+  - reference intervals
+  - metrology
+equations:
+  - concentration units
+  - amount-of-substance expressions
+  - measurement uncertainty
+datasets:
+  - IUPAC-IFCC clinical chemistry glossary
+  - NPU terminology
+related_topics:
+  - biochemistry
+  - analytical-chemistry
+  - toxicology
+  - medicinal-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_iupac_ifcc_fraction: 0.35
+  min_standards_fraction: 0.30
+  min_peer_reviewed_fraction: 0.20

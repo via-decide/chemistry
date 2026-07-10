@@ -1,0 +1,50 @@
+id: mass-spectrometry
+canonical_name: Mass Spectrometry
+aliases:
+  - MS
+  - mass spec
+  - mass spectral analysis
+difficulty: intermediate_to_advanced
+prerequisites:
+  - analytical-chemistry
+  - spectroscopy
+  - chromatography
+  - organic-chemistry
+depends_on:
+  - ionization
+  - mass-to-charge-ratio
+  - mass-analyzers
+  - detectors
+  - fragmentation
+used_by:
+  - analytical-chemistry
+  - organic-chemistry
+  - biochemistry
+  - medicinal-chemistry
+  - environmental-chemistry
+  - food-chemistry
+industry_tags:
+  - pharmaceutical analysis
+  - proteomics
+  - metabolomics
+  - environmental monitoring
+  - food safety
+  - forensic chemistry
+equations:
+  - mass-to-charge ratio
+  - resolving power
+  - mass accuracy
+datasets:
+  - IUPAC Gold Book
+  - IUPAC mass spectrometry recommendations
+  - NIST Chemistry WebBook
+related_topics:
+  - chromatography
+  - spectroscopy
+  - analytical-chemistry
+  - cheminformatics
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_iupac_fraction: 0.30
+  min_database_fraction: 0.25
+  min_peer_reviewed_review_fraction: 0.25

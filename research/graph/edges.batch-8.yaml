@@ -1,0 +1,50 @@
+edges:
+  - from: chromatography
+    to: mass-spectrometry
+    relation: commonly_coupled_with
+    confidence: medium
+
+  - from: mass-spectrometry
+    to: analytical-chemistry
+    relation: core_measurement_method
+    confidence: high
+
+  - from: chemical-equilibrium
+    to: solubility
+    relation: governs_solubility_equilibria
+    confidence: high
+
+  - from: solutions-and-colloids
+    to: solubility
+    relation: provides_solution_context
+    confidence: high
+
+  - from: toxicokinetics
+    to: toxicology
+    relation: core_concept
+    confidence: high
+
+  - from: toxicology
+    to: ecotoxicology
+    relation: supports_environmental_adverse_effects_context
+    confidence: high
+
+  - from: analytical-chemistry
+    to: clinical-chemistry
+    relation: supplies_measurement_methods
+    confidence: high
+
+  - from: biochemistry
+    to: clinical-chemistry
+    relation: supplies_biomolecular_context
+    confidence: high
+
+  - from: chromatography
+    to: food-chemistry
+    relation: supports_separation_and_analysis
+    confidence: high
+
+  - from: mass-spectrometry
+    to: food-chemistry
+    relation: supports_identification_and_quantification
+    confidence: high

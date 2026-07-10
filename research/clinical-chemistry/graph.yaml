@@ -1,0 +1,39 @@
+nodes:
+  - id: clinical-chemistry
+    type: topic
+  - id: analytical-chemistry
+    type: topic
+  - id: biochemistry
+    type: topic
+  - id: toxicology
+    type: topic
+  - id: diagnostics
+    type: application
+  - id: npu-terminology
+    type: standard
+
+edges:
+  - from: analytical-chemistry
+    to: clinical-chemistry
+    relation: supplies_measurement_methods
+    confidence: high
+
+  - from: biochemistry
+    to: clinical-chemistry
+    relation: supplies_biomolecular_context
+    confidence: high
+
+  - from: toxicology
+    to: clinical-chemistry
+    relation: supports_clinical_toxicology_context
+    confidence: medium
+
+  - from: clinical-chemistry
+    to: diagnostics
+    relation: application_domain
+    confidence: high
+
+  - from: npu-terminology
+    to: clinical-chemistry
+    relation: supports_properties_units_and_reporting
+    confidence: high

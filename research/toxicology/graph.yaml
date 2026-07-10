@@ -1,0 +1,39 @@
+nodes:
+  - id: toxicology
+    type: topic
+  - id: toxicokinetics
+    type: concept
+  - id: ecotoxicology
+    type: topic
+  - id: medicinal-chemistry
+    type: topic
+  - id: laboratory-safety
+    type: topic
+  - id: chemical-safety
+    type: application
+
+edges:
+  - from: toxicokinetics
+    to: toxicology
+    relation: core_concept
+    confidence: high
+
+  - from: toxicology
+    to: ecotoxicology
+    relation: supports_environmental_adverse_effects_context
+    confidence: high
+
+  - from: toxicology
+    to: medicinal-chemistry
+    relation: supports_safety_and_bioactivity_assessment
+    confidence: medium
+
+  - from: toxicology
+    to: laboratory-safety
+    relation: informs_hazard_and_risk_controls
+    confidence: medium
+
+  - from: toxicology
+    to: chemical-safety
+    relation: application_domain
+    confidence: high
