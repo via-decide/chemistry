@@ -1,0 +1,45 @@
+id: atmospheric-chemistry
+canonical_name: Atmospheric Chemistry
+aliases:
+  - air chemistry
+  - atmospheric chemical science
+difficulty: intermediate_to_advanced
+prerequisites:
+  - environmental-chemistry
+  - photochemistry
+  - chemical-kinetics
+  - analytical-chemistry
+depends_on:
+  - atmospheric-reactions
+  - aerosols
+  - trace-gases
+  - photolysis
+  - monitoring
+used_by:
+  - environmental-chemistry
+  - climate-chemistry
+  - air-quality-science
+  - photochemistry
+industry_tags:
+  - air quality
+  - climate
+  - emissions monitoring
+  - atmospheric modeling
+  - environmental regulation
+equations:
+  - photolysis rate expressions
+  - kinetic rate laws
+  - mass balance
+datasets:
+  - IUPAC Atmospheric Chemistry Glossary
+  - ACS environmental science journals
+related_topics:
+  - environmental-chemistry
+  - photochemistry
+  - analytical-chemistry
+  - gas-phase-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_iupac_fraction: 0.30
+  min_peer_reviewed_fraction: 0.30
+  min_government_or_standards_fraction: 0.20

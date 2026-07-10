@@ -1,0 +1,39 @@
+nodes:
+  - id: ecotoxicology
+    type: topic
+  - id: environmental-chemistry
+    type: topic
+  - id: toxicology
+    type: topic
+  - id: environmental-analysis
+    type: method
+  - id: risk-assessment
+    type: application
+  - id: ecological-biomarkers
+    type: concept
+
+edges:
+  - from: environmental-chemistry
+    to: ecotoxicology
+    relation: supplies_environmental_fate_and_analysis_context
+    confidence: high
+
+  - from: toxicology
+    to: ecotoxicology
+    relation: supplies_adverse_effects_context
+    confidence: high
+
+  - from: environmental-analysis
+    to: ecotoxicology
+    relation: supports_sampling_and_monitoring
+    confidence: high
+
+  - from: ecological-biomarkers
+    to: ecotoxicology
+    relation: core_concept
+    confidence: medium
+
+  - from: ecotoxicology
+    to: risk-assessment
+    relation: supports_environmental_risk_assessment
+    confidence: high

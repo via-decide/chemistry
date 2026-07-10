@@ -1,0 +1,36 @@
+nodes:
+  - id: cheminformatics
+    label: Cheminformatics
+    type: topic
+
+  - id: crystallography
+    label: Crystallography
+    type: topic
+
+  - id: atmospheric-chemistry
+    label: Atmospheric Chemistry
+    type: topic
+
+  - id: chromatography
+    label: Chromatography
+    type: topic
+
+  - id: ecotoxicology
+    label: Ecotoxicology
+    type: topic
+
+  - id: inchi
+    label: InChI
+    type: standard
+
+  - id: iucr
+    label: International Union of Crystallography
+    type: organization
+
+  - id: aerosols
+    label: Aerosols
+    type: concept
+
+  - id: ecological-biomarkers
+    label: Ecological Biomarkers
+    type: concept

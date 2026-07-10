@@ -1,0 +1,44 @@
+id: crystallography
+canonical_name: Crystallography
+aliases:
+  - crystal structure analysis
+  - crystallographic science
+difficulty: intermediate_to_advanced
+prerequisites:
+  - atomic-structure
+  - chemical-bonding
+  - materials-chemistry
+  - spectroscopy
+depends_on:
+  - crystals
+  - symmetry
+  - unit-cells
+  - diffraction
+  - structure-refinement
+used_by:
+  - materials-chemistry
+  - inorganic-chemistry
+  - organic-chemistry
+  - biochemistry
+industry_tags:
+  - materials characterization
+  - pharmaceuticals
+  - semiconductors
+  - solid-state chemistry
+  - structural biology
+equations:
+  - Bragg law
+  - unit-cell relationships
+  - diffraction equations
+datasets:
+  - IUCr nomenclature reports
+  - crystallographic information file standards
+related_topics:
+  - materials-chemistry
+  - inorganic-chemistry
+  - spectroscopy
+  - solid-state-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.05
+  min_iucr_fraction: 0.30
+  min_review_fraction: 0.25

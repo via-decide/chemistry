@@ -1,0 +1,39 @@
+nodes:
+  - id: crystallography
+    type: topic
+  - id: materials-chemistry
+    type: topic
+  - id: crystal-structure
+    type: concept
+  - id: symmetry
+    type: concept
+  - id: diffraction
+    type: method
+  - id: iucr
+    type: organization
+
+edges:
+  - from: crystal-structure
+    to: crystallography
+    relation: core_concept
+    confidence: high
+
+  - from: symmetry
+    to: crystallography
+    relation: core_concept
+    confidence: high
+
+  - from: diffraction
+    to: crystallography
+    relation: core_method
+    confidence: high
+
+  - from: crystallography
+    to: materials-chemistry
+    relation: supports_structure_determination
+    confidence: high
+
+  - from: iucr
+    to: crystallography
+    relation: nomenclature_authority
+    confidence: high
