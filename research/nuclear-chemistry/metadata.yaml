@@ -1,0 +1,49 @@
+id: nuclear-chemistry
+canonical_name: Nuclear Chemistry
+aliases:
+  - radiochemistry
+  - nuclear transformations
+  - radioactivity chemistry
+difficulty: intermediate_to_advanced
+prerequisites:
+  - atomic-structure
+  - isotopes
+  - periodic-table
+depends_on:
+  - radioactivity
+  - radioactive-decay
+  - nuclides
+  - nuclear-reactions
+used_by:
+  - radiochemistry
+  - nuclear-medicine
+  - isotope-tracing
+  - environmental-monitoring
+industry_tags:
+  - nuclear medicine
+  - radiotracers
+  - nuclear energy
+  - isotope production
+  - radiation monitoring
+history_people:
+  - Marie Curie
+  - Pierre Curie
+  - Ernest Rutherford
+  - Frederick Soddy
+equations:
+  - radioactive decay law
+  - half-life relationships
+  - activity equations
+datasets:
+  - IUPAC Gold Book
+  - NIST atomic and nuclear data sources
+related_topics:
+  - atomic-structure
+  - analytical-chemistry
+  - environmental-chemistry
+  - spectroscopy
+source_balance_target:
+  max_openstax_fraction: 0.05
+  min_iupac_fraction: 0.25
+  min_government_data_fraction: 0.30
+  min_primary_literature_fraction: 0.20

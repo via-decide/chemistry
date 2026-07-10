@@ -1,0 +1,39 @@
+nodes:
+  - id: quantum-chemistry
+    type: topic
+  - id: quantum-mechanics
+    type: topic
+  - id: chemical-bonding
+    type: topic
+  - id: spectroscopy
+    type: topic
+  - id: materials-chemistry
+    type: topic
+  - id: nist-cccbdb
+    type: dataset
+
+edges:
+  - from: quantum-mechanics
+    to: quantum-chemistry
+    relation: theoretical_basis_for
+    confidence: high
+
+  - from: quantum-chemistry
+    to: chemical-bonding
+    relation: explains_electronic_structure
+    confidence: high
+
+  - from: quantum-chemistry
+    to: spectroscopy
+    relation: predicts_transitions_and_properties
+    confidence: medium
+
+  - from: quantum-chemistry
+    to: materials-chemistry
+    relation: supports_computational_design
+    confidence: medium
+
+  - from: nist-cccbdb
+    to: quantum-chemistry
+    relation: supplies_benchmark_data
+    confidence: high

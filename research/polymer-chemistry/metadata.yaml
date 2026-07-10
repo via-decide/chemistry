@@ -1,0 +1,46 @@
+id: polymer-chemistry
+canonical_name: Polymer Chemistry
+aliases:
+  - macromolecular chemistry
+  - polymer science
+difficulty: intermediate_to_advanced
+prerequisites:
+  - organic-chemistry
+  - materials-chemistry
+  - chemical-kinetics
+depends_on:
+  - monomers
+  - polymerization
+  - macromolecules
+  - molar-mass-distribution
+used_by:
+  - materials-chemistry
+  - biomaterials
+  - coatings
+  - plastics
+  - adhesives
+industry_tags:
+  - plastics
+  - packaging
+  - coatings
+  - biomaterials
+  - recycling
+  - sustainable materials
+history_people:
+  - Hermann Staudinger
+equations:
+  - degree of polymerization
+  - dispersity
+  - polymerization kinetics
+datasets:
+  - IUPAC Purple Book
+  - RSC Polymer Chemistry
+related_topics:
+  - organic-chemistry
+  - materials-chemistry
+  - catalysis
+  - environmental-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.05
+  min_iupac_fraction: 0.25
+  min_review_fraction: 0.35

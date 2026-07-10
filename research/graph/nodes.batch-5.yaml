@@ -1,0 +1,28 @@
+nodes:
+  - id: quantum-chemistry
+    label: Quantum Chemistry
+    type: topic
+
+  - id: photochemistry
+    label: Photochemistry
+    type: topic
+
+  - id: polymer-chemistry
+    label: Polymer Chemistry
+    type: topic
+
+  - id: nuclear-chemistry
+    label: Nuclear Chemistry
+    type: topic
+
+  - id: catalysis
+    label: Catalysis
+    type: topic
+
+  - id: iupac-purple-book
+    label: IUPAC Purple Book
+    type: standard
+
+  - id: nist-cccbdb
+    label: NIST CCCBDB
+    type: dataset

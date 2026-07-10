@@ -1,0 +1,50 @@
+edges:
+  - from: quantum-mechanics
+    to: quantum-chemistry
+    relation: theoretical_basis_for
+    confidence: high
+
+  - from: quantum-chemistry
+    to: chemical-bonding
+    relation: explains_electronic_structure
+    confidence: high
+
+  - from: spectroscopy
+    to: photochemistry
+    relation: measures_light_matter_interactions
+    confidence: high
+
+  - from: photochemistry
+    to: catalysis
+    relation: supports_photocatalysis
+    confidence: high
+
+  - from: organic-chemistry
+    to: polymer-chemistry
+    relation: supplies_monomer_and_reactivity_basis
+    confidence: high
+
+  - from: polymer-chemistry
+    to: materials-chemistry
+    relation: supplies_polymeric_materials
+    confidence: high
+
+  - from: atomic-structure
+    to: nuclear-chemistry
+    relation: supplies_nucleus_and_isotope_basis
+    confidence: high
+
+  - from: chemical-kinetics
+    to: catalysis
+    relation: explains_rate_acceleration
+    confidence: high
+
+  - from: iupac-purple-book
+    to: polymer-chemistry
+    relation: provides_terminology_and_nomenclature
+    confidence: high
+
+  - from: nist-cccbdb
+    to: quantum-chemistry
+    relation: supplies_benchmark_data
+    confidence: high
