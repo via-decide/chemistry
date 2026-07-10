@@ -1,0 +1,45 @@
+edges:
+  - from: organic-chemistry
+    to: biochemistry
+    relation: supplies_molecular_structure_basis
+    confidence: high
+
+  - from: biochemistry
+    to: medicinal-chemistry
+    relation: supports_drug_target_and_biomolecule_context
+    confidence: high
+
+  - from: organic-chemistry
+    to: medicinal-chemistry
+    relation: supplies_synthesis_and_structure_basis
+    confidence: high
+
+  - from: twelve-principles-green-chemistry
+    to: green-chemistry
+    relation: core_framework
+    confidence: high
+
+  - from: green-chemistry
+    to: chemical-engineering
+    relation: informs_sustainable_process_design
+    confidence: high
+
+  - from: chemical-thermodynamics
+    to: chemical-engineering
+    relation: supports_phase_and_reaction_equilibrium_design
+    confidence: high
+
+  - from: chemical-kinetics
+    to: chemical-engineering
+    relation: supports_reactor_modeling
+    confidence: high
+
+  - from: adsorption
+    to: surface-chemistry
+    relation: core_concept
+    confidence: high
+
+  - from: surface-chemistry
+    to: catalysis
+    relation: supports_heterogeneous_catalysis
+    confidence: high

@@ -1,0 +1,39 @@
+nodes:
+  - id: medicinal-chemistry
+    type: topic
+  - id: organic-chemistry
+    type: topic
+  - id: biochemistry
+    type: topic
+  - id: pharmacology
+    type: topic
+  - id: drug-discovery
+    type: application
+  - id: iupac-medicinal-chemistry-glossary
+    type: standard
+
+edges:
+  - from: organic-chemistry
+    to: medicinal-chemistry
+    relation: supplies_synthesis_and_structure_basis
+    confidence: high
+
+  - from: biochemistry
+    to: medicinal-chemistry
+    relation: supplies_biomolecular_target_context
+    confidence: high
+
+  - from: medicinal-chemistry
+    to: drug-discovery
+    relation: application_domain
+    confidence: high
+
+  - from: medicinal-chemistry
+    to: pharmacology
+    relation: supports_bioactive_molecule_design
+    confidence: medium
+
+  - from: iupac-medicinal-chemistry-glossary
+    to: medicinal-chemistry
+    relation: provides_terminology
+    confidence: high

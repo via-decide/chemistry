@@ -1,0 +1,39 @@
+nodes:
+  - id: biochemistry
+    type: topic
+  - id: organic-chemistry
+    type: topic
+  - id: medicinal-chemistry
+    type: topic
+  - id: enzymes
+    type: concept
+  - id: proteins
+    type: concept
+  - id: iupac-white-book
+    type: standard
+
+edges:
+  - from: organic-chemistry
+    to: biochemistry
+    relation: supplies_molecular_structure_basis
+    confidence: high
+
+  - from: biochemistry
+    to: medicinal-chemistry
+    relation: supports_drug_target_and_biomolecule_context
+    confidence: high
+
+  - from: enzymes
+    to: biochemistry
+    relation: core_concept
+    confidence: high
+
+  - from: proteins
+    to: biochemistry
+    relation: core_biomolecule_class
+    confidence: high
+
+  - from: iupac-white-book
+    to: biochemistry
+    relation: provides_biochemical_nomenclature
+    confidence: high

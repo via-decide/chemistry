@@ -1,0 +1,39 @@
+nodes:
+  - id: green-chemistry
+    type: topic
+  - id: catalysis
+    type: topic
+  - id: environmental-chemistry
+    type: topic
+  - id: laboratory-safety
+    type: topic
+  - id: chemical-engineering
+    type: topic
+  - id: twelve-principles-green-chemistry
+    type: framework
+
+edges:
+  - from: twelve-principles-green-chemistry
+    to: green-chemistry
+    relation: core_framework
+    confidence: high
+
+  - from: catalysis
+    to: green-chemistry
+    relation: supports_selective_and_lower_waste_processes
+    confidence: high
+
+  - from: environmental-chemistry
+    to: green-chemistry
+    relation: motivates_pollution_prevention
+    confidence: high
+
+  - from: laboratory-safety
+    to: green-chemistry
+    relation: overlaps_in_safer_chemical_design
+    confidence: medium
+
+  - from: green-chemistry
+    to: chemical-engineering
+    relation: informs_sustainable_process_design
+    confidence: high

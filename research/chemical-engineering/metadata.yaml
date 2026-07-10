@@ -1,0 +1,50 @@
+id: chemical-engineering
+canonical_name: Chemical Engineering
+aliases:
+  - process engineering
+  - chemical process engineering
+difficulty: intermediate_to_advanced
+prerequisites:
+  - chemical-thermodynamics
+  - chemical-kinetics
+  - stoichiometry
+  - mathematics
+depends_on:
+  - transport-phenomena
+  - thermodynamics
+  - reaction-engineering
+  - separations
+  - process-safety
+used_by:
+  - industrial-chemistry
+  - green-chemistry
+  - environmental-chemistry
+  - catalysis
+industry_tags:
+  - process design
+  - reactors
+  - separations
+  - process safety
+  - waste management
+  - energy systems
+history_people:
+  - Robert H. Perry
+equations:
+  - mass balance
+  - energy balance
+  - reaction rate expressions
+  - transport equations
+datasets:
+  - Perry's Chemical Engineers' Handbook
+  - CRC Handbook
+  - NIST Chemistry WebBook
+related_topics:
+  - chemical-thermodynamics
+  - chemical-kinetics
+  - catalysis
+  - green-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_handbook_fraction: 0.35
+  min_industrial_fraction: 0.30
+  min_peer_reviewed_fraction: 0.20

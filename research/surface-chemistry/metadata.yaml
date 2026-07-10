@@ -1,0 +1,47 @@
+id: surface-chemistry
+canonical_name: Surface Chemistry
+aliases:
+  - interface chemistry
+  - interfacial chemistry
+difficulty: intermediate
+prerequisites:
+  - solutions-and-colloids
+  - materials-chemistry
+  - chemical-thermodynamics
+depends_on:
+  - adsorption
+  - interfaces
+  - surface-forces
+  - surface-area
+used_by:
+  - catalysis
+  - colloids
+  - materials-chemistry
+  - environmental-chemistry
+  - analytical-chemistry
+industry_tags:
+  - catalysis
+  - adsorption
+  - coatings
+  - sensors
+  - separations
+  - environmental remediation
+history_people: []
+equations:
+  - adsorption isotherms
+  - surface excess
+  - Langmuir isotherm
+  - BET surface area
+datasets:
+  - IUPAC Gold Book
+  - IUPAC Orange Book
+  - CRC Handbook
+related_topics:
+  - solutions-and-colloids
+  - catalysis
+  - materials-chemistry
+  - environmental-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.05
+  min_iupac_fraction: 0.30
+  min_review_fraction: 0.25

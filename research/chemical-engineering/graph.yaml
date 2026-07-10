@@ -1,0 +1,39 @@
+nodes:
+  - id: chemical-engineering
+    type: topic
+  - id: chemical-thermodynamics
+    type: topic
+  - id: chemical-kinetics
+    type: topic
+  - id: green-chemistry
+    type: topic
+  - id: process-safety
+    type: application
+  - id: perrys-handbook
+    type: handbook
+
+edges:
+  - from: chemical-thermodynamics
+    to: chemical-engineering
+    relation: supports_phase_and_reaction_equilibrium_design
+    confidence: high
+
+  - from: chemical-kinetics
+    to: chemical-engineering
+    relation: supports_reactor_modeling
+    confidence: high
+
+  - from: green-chemistry
+    to: chemical-engineering
+    relation: informs_sustainable_process_design
+    confidence: high
+
+  - from: chemical-engineering
+    to: process-safety
+    relation: includes
+    confidence: high
+
+  - from: perrys-handbook
+    to: chemical-engineering
+    relation: handbook_reference
+    confidence: high

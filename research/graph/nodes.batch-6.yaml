@@ -1,0 +1,36 @@
+nodes:
+  - id: biochemistry
+    label: Biochemistry
+    type: topic
+
+  - id: medicinal-chemistry
+    label: Medicinal Chemistry
+    type: topic
+
+  - id: green-chemistry
+    label: Green Chemistry
+    type: topic
+
+  - id: chemical-engineering
+    label: Chemical Engineering
+    type: topic
+
+  - id: surface-chemistry
+    label: Surface Chemistry
+    type: topic
+
+  - id: iupac-white-book
+    label: IUPAC-IUBMB White Book
+    type: standard
+
+  - id: twelve-principles-green-chemistry
+    label: 12 Principles of Green Chemistry
+    type: framework
+
+  - id: perrys-handbook
+    label: Perry's Chemical Engineers' Handbook
+    type: handbook
+
+  - id: adsorption
+    label: Adsorption
+    type: concept

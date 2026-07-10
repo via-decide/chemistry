@@ -1,0 +1,46 @@
+id: medicinal-chemistry
+canonical_name: Medicinal Chemistry
+aliases:
+  - drug discovery chemistry
+  - pharmaceutical chemistry
+difficulty: advanced
+prerequisites:
+  - organic-chemistry
+  - biochemistry
+  - analytical-chemistry
+  - spectroscopy
+depends_on:
+  - bioactive-molecules
+  - structure-activity-relationships
+  - pharmacophores
+  - drug-targets
+used_by:
+  - pharmacology
+  - drug-discovery
+  - pharmaceutical-analysis
+  - chemical-biology
+industry_tags:
+  - pharmaceuticals
+  - drug discovery
+  - therapeutics
+  - diagnostics
+  - biotechnology
+history_people: []
+equations:
+  - structure-activity relationship models
+  - binding equilibrium expressions
+  - dose-response models
+datasets:
+  - IUPAC Medicinal Chemistry Glossary
+  - PubChem
+  - patent databases
+related_topics:
+  - organic-chemistry
+  - biochemistry
+  - photochemistry
+  - analytical-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_iupac_fraction: 0.25
+  min_database_fraction: 0.20
+  min_peer_reviewed_review_fraction: 0.30
