@@ -1,0 +1,49 @@
+id: biochemistry
+canonical_name: Biochemistry
+aliases:
+  - biological chemistry
+  - biochemical chemistry
+difficulty: intermediate_to_advanced
+prerequisites:
+  - organic-chemistry
+  - acids-and-bases
+  - chemical-equilibrium
+  - spectroscopy
+depends_on:
+  - amino-acids
+  - proteins
+  - enzymes
+  - nucleic-acids
+  - carbohydrates
+  - lipids
+used_by:
+  - medicinal-chemistry
+  - molecular-biology
+  - biotechnology
+  - clinical-chemistry
+  - pharmacology
+industry_tags:
+  - biotechnology
+  - pharmaceuticals
+  - diagnostics
+  - enzymes
+  - biomaterials
+history_people: []
+equations:
+  - Michaelis-Menten equation
+  - biochemical thermodynamics expressions
+  - enzyme rate laws
+datasets:
+  - IUPAC-IUBMB White Book
+  - IUBMB enzyme nomenclature
+  - PubChem
+related_topics:
+  - organic-chemistry
+  - medicinal-chemistry
+  - polymer-chemistry
+  - analytical-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.05
+  min_iupac_iubmb_fraction: 0.30
+  min_database_fraction: 0.20
+  min_review_fraction: 0.25

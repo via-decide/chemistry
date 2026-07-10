@@ -1,0 +1,49 @@
+id: green-chemistry
+canonical_name: Green Chemistry
+aliases:
+  - sustainable chemistry
+  - environmentally benign chemistry
+difficulty: foundational_to_intermediate
+prerequisites:
+  - organic-chemistry
+  - catalysis
+  - environmental-chemistry
+  - laboratory-safety
+depends_on:
+  - waste-prevention
+  - atom-economy
+  - safer-solvents
+  - catalysis
+  - renewable-feedstocks
+used_by:
+  - chemical-engineering
+  - industrial-chemistry
+  - organic-chemistry
+  - polymer-chemistry
+  - environmental-chemistry
+industry_tags:
+  - sustainable manufacturing
+  - pharmaceuticals
+  - process chemistry
+  - polymers
+  - waste reduction
+history_people:
+  - Paul Anastas
+  - John Warner
+equations:
+  - atom economy
+  - process mass intensity
+  - E-factor
+datasets:
+  - ACS 12 Principles of Green Chemistry
+  - Yale Principles of Green Chemistry
+related_topics:
+  - catalysis
+  - environmental-chemistry
+  - laboratory-safety
+  - chemical-engineering
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_acs_fraction: 0.30
+  min_peer_reviewed_review_fraction: 0.25
+  min_industrial_fraction: 0.20
