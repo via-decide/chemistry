@@ -1,0 +1,24 @@
+# Ecotoxicology — Overview Research
+
+## Scope
+
+- Environmental chemical effects.
+- Chemical speciation in the environment.
+- Sampling.
+- Monitoring.
+- Environmental analysis.
+- Ecological biomarkers.
+- Environmental distribution of chemicals.
+- Environmental risk assessment.
+
+## Source anchors
+
+- Source: IUPAC / Pure and Applied Chemistry
+  Publication: Glossary of Terms Used in Ecotoxicology
+  Confidence: High
+  Evidence: The IUPAC document identifies itself as Glossary of Terms Used in Ecotoxicology, IUPAC Recommendations 2009. [13](https://books.rsc.org/books/edited-volume/286/Quantities-units-and-symbols-in-physical-chemistry)
+
+- Source: IUPAC / Pure and Applied Chemistry
+  Publication: Glossary of Terms Used in Ecotoxicology
+  Confidence: High
+  Evidence: The abstract states that the glossary includes terms related to chemical speciation in the environment, sampling, monitoring, environmental analysis, adverse ecological effects of chemicals, ecological biomarkers, and environmental distribution of chemicals. [13](https://books.rsc.org/books/edited-volume/286/Quantities-units-and-symbols-in-physical-chemistry)
