@@ -1,0 +1,44 @@
+id: cheminformatics
+canonical_name: Cheminformatics
+aliases:
+  - chemoinformatics
+  - chemical informatics
+difficulty: intermediate_to_advanced
+prerequisites:
+  - organic-chemistry
+  - analytical-chemistry
+  - spectroscopy
+  - data-science
+depends_on:
+  - chemical-structure-identifiers
+  - molecular-representation
+  - databases
+  - machine-learning
+used_by:
+  - medicinal-chemistry
+  - quantum-chemistry
+  - materials-chemistry
+  - analytical-chemistry
+  - drug-discovery
+industry_tags:
+  - drug discovery
+  - chemical databases
+  - materials informatics
+  - machine learning
+  - digital chemistry
+equations: []
+datasets:
+  - IUPAC Gold Book
+  - InChI
+  - NIST Chemistry WebBook
+  - PubChem
+related_topics:
+  - medicinal-chemistry
+  - organic-chemistry
+  - spectroscopy
+  - quantum-chemistry
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_iupac_fraction: 0.30
+  min_database_fraction: 0.30
+  min_peer_reviewed_review_fraction: 0.20

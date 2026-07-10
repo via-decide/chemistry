@@ -1,0 +1,39 @@
+nodes:
+  - id: cheminformatics
+    type: topic
+  - id: chemical-structure-identifiers
+    type: concept
+  - id: inchi
+    type: standard
+  - id: pubchem
+    type: dataset
+  - id: nist-chemistry-webbook
+    type: dataset
+  - id: medicinal-chemistry
+    type: topic
+
+edges:
+  - from: chemical-structure-identifiers
+    to: cheminformatics
+    relation: core_concept
+    confidence: high
+
+  - from: inchi
+    to: cheminformatics
+    relation: chemical_identifier_standard
+    confidence: high
+
+  - from: pubchem
+    to: cheminformatics
+    relation: supplies_compound_records
+    confidence: high
+
+  - from: nist-chemistry-webbook
+    to: cheminformatics
+    relation: supports_identifier_based_lookup
+    confidence: high
+
+  - from: cheminformatics
+    to: medicinal-chemistry
+    relation: supports_data_mining_and_drug_design
+    confidence: medium

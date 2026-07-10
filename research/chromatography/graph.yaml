@@ -1,0 +1,39 @@
+nodes:
+  - id: chromatography
+    type: topic
+  - id: analytical-chemistry
+    type: topic
+  - id: stationary-phase
+    type: concept
+  - id: mobile-phase
+    type: concept
+  - id: separation
+    type: concept
+  - id: adsorption
+    type: concept
+
+edges:
+  - from: chromatography
+    to: analytical-chemistry
+    relation: core_separation_method
+    confidence: high
+
+  - from: stationary-phase
+    to: chromatography
+    relation: core_component
+    confidence: high
+
+  - from: mobile-phase
+    to: chromatography
+    relation: core_component
+    confidence: high
+
+  - from: adsorption
+    to: chromatography
+    relation: supports_adsorption_chromatography
+    confidence: medium
+
+  - from: chromatography
+    to: medicinal-chemistry
+    relation: supports_purity_and_analysis
+    confidence: medium

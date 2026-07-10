@@ -1,0 +1,45 @@
+id: ecotoxicology
+canonical_name: Ecotoxicology
+aliases:
+  - ecological toxicology
+  - environmental toxicology
+difficulty: intermediate_to_advanced
+prerequisites:
+  - environmental-chemistry
+  - toxicology
+  - analytical-chemistry
+  - biochemistry
+depends_on:
+  - chemical-speciation
+  - sampling
+  - monitoring
+  - environmental-analysis
+  - ecological-biomarkers
+used_by:
+  - environmental-chemistry
+  - risk-assessment
+  - regulatory-chemistry
+  - water-quality-science
+industry_tags:
+  - environmental risk assessment
+  - chemical safety
+  - regulatory testing
+  - water quality
+  - environmental monitoring
+equations:
+  - dose-response models
+  - exposure models
+  - risk metrics
+datasets:
+  - IUPAC Ecotoxicology Glossary
+  - PubChem
+related_topics:
+  - environmental-chemistry
+  - medicinal-chemistry
+  - analytical-chemistry
+  - toxicology
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_iupac_fraction: 0.30
+  min_regulatory_or_government_fraction: 0.20
+  min_peer_reviewed_review_fraction: 0.25

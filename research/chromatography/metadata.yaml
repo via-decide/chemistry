@@ -1,0 +1,47 @@
+id: chromatography
+canonical_name: Chromatography
+aliases:
+  - chromatographic separation
+  - separation chromatography
+difficulty: foundational_to_advanced
+prerequisites:
+  - analytical-chemistry
+  - solutions-and-colloids
+  - surface-chemistry
+depends_on:
+  - stationary-phase
+  - mobile-phase
+  - partitioning
+  - adsorption
+  - separation
+used_by:
+  - analytical-chemistry
+  - medicinal-chemistry
+  - organic-chemistry
+  - environmental-chemistry
+  - biochemistry
+industry_tags:
+  - pharmaceutical analysis
+  - quality control
+  - environmental monitoring
+  - food testing
+  - bioanalysis
+equations:
+  - retention factor
+  - resolution
+  - plate number
+  - distribution coefficient
+datasets:
+  - IUPAC Gold Book
+  - IUPAC Orange Book
+  - NIST Chemistry WebBook
+related_topics:
+  - analytical-chemistry
+  - surface-chemistry
+  - medicinal-chemistry
+  - biochemistry
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_iupac_fraction: 0.30
+  min_peer_reviewed_fraction: 0.25
+  min_industrial_fraction: 0.20

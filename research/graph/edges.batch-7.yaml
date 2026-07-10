@@ -1,0 +1,40 @@
+edges:
+  - from: inchi
+    to: cheminformatics
+    relation: chemical_identifier_standard
+    confidence: high
+
+  - from: cheminformatics
+    to: medicinal-chemistry
+    relation: supports_data_mining_and_drug_design
+    confidence: medium
+
+  - from: crystallography
+    to: materials-chemistry
+    relation: supports_structure_determination
+    confidence: high
+
+  - from: photochemistry
+    to: atmospheric-chemistry
+    relation: supports_photolysis_and_light_driven_reactions
+    confidence: high
+
+  - from: chemical-kinetics
+    to: atmospheric-chemistry
+    relation: supports_reaction_rate_modeling
+    confidence: high
+
+  - from: chromatography
+    to: analytical-chemistry
+    relation: core_separation_method
+    confidence: high
+
+  - from: environmental-chemistry
+    to: ecotoxicology
+    relation: supplies_environmental_fate_and_analysis_context
+    confidence: high
+
+  - from: ecological-biomarkers
+    to: ecotoxicology
+    relation: core_concept
+    confidence: medium

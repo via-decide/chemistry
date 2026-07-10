@@ -1,0 +1,39 @@
+nodes:
+  - id: atmospheric-chemistry
+    type: topic
+  - id: environmental-chemistry
+    type: topic
+  - id: photochemistry
+    type: topic
+  - id: chemical-kinetics
+    type: topic
+  - id: analytical-chemistry
+    type: topic
+  - id: aerosols
+    type: concept
+
+edges:
+  - from: environmental-chemistry
+    to: atmospheric-chemistry
+    relation: includes_air_chemistry_context
+    confidence: high
+
+  - from: photochemistry
+    to: atmospheric-chemistry
+    relation: supports_photolysis_and_light_driven_reactions
+    confidence: high
+
+  - from: chemical-kinetics
+    to: atmospheric-chemistry
+    relation: supports_reaction_rate_modeling
+    confidence: high
+
+  - from: analytical-chemistry
+    to: atmospheric-chemistry
+    relation: supports_monitoring_and_measurement
+    confidence: high
+
+  - from: aerosols
+    to: atmospheric-chemistry
+    relation: core_subtopic
+    confidence: medium
