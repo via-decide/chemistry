@@ -1,0 +1,47 @@
+id: food-chemistry
+canonical_name: Food Chemistry
+aliases:
+  - agricultural and food chemistry
+  - food science chemistry
+difficulty: intermediate
+prerequisites:
+  - organic-chemistry
+  - analytical-chemistry
+  - biochemistry
+  - chromatography
+  - mass-spectrometry
+depends_on:
+  - food-composition
+  - food-analysis
+  - chemical-transformations
+  - food-safety
+  - nutrition-chemistry
+used_by:
+  - analytical-chemistry
+  - biochemistry
+  - toxicology
+  - ecotoxicology
+  - green-chemistry
+industry_tags:
+  - food safety
+  - agricultural chemistry
+  - nutrition
+  - quality control
+  - food technology
+equations:
+  - concentration expressions
+  - kinetic models for degradation
+  - analytical calibration
+datasets:
+  - ACS Agricultural and Food Chemistry journals
+  - PubChem
+related_topics:
+  - analytical-chemistry
+  - chromatography
+  - mass-spectrometry
+  - toxicology
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_peer_reviewed_fraction: 0.35
+  min_acs_fraction: 0.30
+  min_database_fraction: 0.20

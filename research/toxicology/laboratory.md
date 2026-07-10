@@ -1,0 +1,21 @@
+# Toxicology — Laboratory Research
+
+## Laboratory methods
+
+- Exposure measurement.
+- Dose-response testing.
+- Toxicokinetic sampling.
+- Bioanalytical measurement.
+- Chemical hazard assessment.
+- Safety and toxicity data lookup.
+- Risk assessment data preparation.
+
+## Source anchors
+
+- Source: IUPAC toxicokinetics glossary
+  Confidence: High
+  Evidence: The glossary states that it includes abbreviations and acronyms used in toxicokinetics and international bodies and legislation relevant to toxicology and chemical safety. [9](https://search.library.wisc.edu/database/UWI15504)
+
+- Source: PubChem
+  Confidence: High
+  Evidence: PubChem states that it provides safety and toxicity information, patents, literature citations, biological activities, and chemical and physical properties. [11](https://iupac.org/what-we-do/periodic-table-of-elements/)

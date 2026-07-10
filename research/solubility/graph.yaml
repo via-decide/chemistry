@@ -1,0 +1,39 @@
+nodes:
+  - id: solubility
+    type: topic
+  - id: solutions-and-colloids
+    type: topic
+  - id: chemical-equilibrium
+    type: topic
+  - id: chemical-thermodynamics
+    type: topic
+  - id: crystallography
+    type: topic
+  - id: solubility-equilibria
+    type: concept
+
+edges:
+  - from: chemical-equilibrium
+    to: solubility
+    relation: governs_solubility_equilibria
+    confidence: high
+
+  - from: solutions-and-colloids
+    to: solubility
+    relation: provides_solution_context
+    confidence: high
+
+  - from: chemical-thermodynamics
+    to: solubility
+    relation: supports_phase_equilibrium_description
+    confidence: high
+
+  - from: solubility
+    to: crystallography
+    relation: supports_crystallization_and_solid_form_context
+    confidence: medium
+
+  - from: solubility-equilibria
+    to: solubility
+    relation: core_concept
+    confidence: high

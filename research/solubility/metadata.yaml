@@ -1,0 +1,45 @@
+id: solubility
+canonical_name: Solubility
+aliases:
+  - solution equilibrium
+  - solubility equilibria
+difficulty: foundational_to_intermediate
+prerequisites:
+  - solutions-and-colloids
+  - chemical-equilibrium
+  - chemical-thermodynamics
+depends_on:
+  - solvent
+  - solute
+  - saturation
+  - phase-equilibria
+  - activity
+used_by:
+  - analytical-chemistry
+  - environmental-chemistry
+  - medicinal-chemistry
+  - chemical-engineering
+  - crystallography
+industry_tags:
+  - pharmaceuticals
+  - separations
+  - water treatment
+  - crystallization
+  - environmental fate
+equations:
+  - solubility product
+  - activity expressions
+  - phase equilibrium expressions
+datasets:
+  - IUPAC Solubility Glossary
+  - IUPAC Solubility Data Series
+related_topics:
+  - chemical-equilibrium
+  - solutions-and-colloids
+  - acids-and-bases
+  - crystallography
+source_balance_target:
+  max_openstax_fraction: 0.10
+  min_iupac_fraction: 0.35
+  min_data_fraction: 0.25
+  min_peer_reviewed_fraction: 0.20

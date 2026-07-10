@@ -1,0 +1,39 @@
+nodes:
+  - id: mass-spectrometry
+    type: topic
+  - id: analytical-chemistry
+    type: topic
+  - id: spectroscopy
+    type: topic
+  - id: chromatography
+    type: topic
+  - id: nist-chemistry-webbook
+    type: dataset
+  - id: ionization
+    type: concept
+
+edges:
+  - from: mass-spectrometry
+    to: analytical-chemistry
+    relation: core_measurement_method
+    confidence: high
+
+  - from: chromatography
+    to: mass-spectrometry
+    relation: commonly_coupled_with
+    confidence: medium
+
+  - from: spectroscopy
+    to: mass-spectrometry
+    relation: related_instrumental_analysis_area
+    confidence: medium
+
+  - from: nist-chemistry-webbook
+    to: mass-spectrometry
+    relation: supplies_mass_spectral_data
+    confidence: high
+
+  - from: ionization
+    to: mass-spectrometry
+    relation: core_process
+    confidence: high

@@ -1,0 +1,39 @@
+nodes:
+  - id: food-chemistry
+    type: topic
+  - id: analytical-chemistry
+    type: topic
+  - id: chromatography
+    type: topic
+  - id: mass-spectrometry
+    type: topic
+  - id: toxicology
+    type: topic
+  - id: food-safety
+    type: application
+
+edges:
+  - from: analytical-chemistry
+    to: food-chemistry
+    relation: supplies_measurement_methods
+    confidence: high
+
+  - from: chromatography
+    to: food-chemistry
+    relation: supports_separation_and_analysis
+    confidence: high
+
+  - from: mass-spectrometry
+    to: food-chemistry
+    relation: supports_identification_and_quantification
+    confidence: high
+
+  - from: toxicology
+    to: food-chemistry
+    relation: supports_safety_assessment
+    confidence: medium
+
+  - from: food-chemistry
+    to: food-safety
+    relation: application_domain
+    confidence: high

@@ -1,0 +1,47 @@
+id: toxicology
+canonical_name: Toxicology
+aliases:
+  - chemical toxicology
+  - toxicological chemistry
+difficulty: intermediate_to_advanced
+prerequisites:
+  - biochemistry
+  - medicinal-chemistry
+  - analytical-chemistry
+  - laboratory-safety
+depends_on:
+  - dose
+  - exposure
+  - hazard
+  - risk
+  - toxicokinetics
+  - toxicodynamics
+used_by:
+  - ecotoxicology
+  - medicinal-chemistry
+  - clinical-chemistry
+  - laboratory-safety
+  - regulatory-chemistry
+industry_tags:
+  - chemical safety
+  - pharmaceuticals
+  - regulatory testing
+  - occupational safety
+  - environmental risk
+equations:
+  - dose-response models
+  - exposure metrics
+  - toxicokinetic models
+datasets:
+  - IUPAC toxicokinetics glossary
+  - PubChem safety and toxicity data
+related_topics:
+  - ecotoxicology
+  - medicinal-chemistry
+  - biochemistry
+  - laboratory-safety
+source_balance_target:
+  max_openstax_fraction: 0.00
+  min_iupac_fraction: 0.30
+  min_regulatory_or_guideline_fraction: 0.25
+  min_peer_reviewed_fraction: 0.25
