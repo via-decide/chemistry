@@ -1,22 +1,33 @@
+---
+topic: nuclear-chemistry
+section: research-frontier
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 1
+secondary_sources: 1
+updated_by: codex
+---
+
 # Nuclear Chemistry — Research Frontier
 
-## Curated source anchors
+## Claims
 
-### IUPAC radioactivity terminology
+### Claim NUC-C020
 
-- Title: radioactivity
-- Publisher: IUPAC Gold Book
-- DOI: 10.1351/goldbook.R05092
-- Type: Terminology source
-- Reliability: High
-- Evidence: IUPAC defines radioactivity as the property of certain nuclides showing radioactive decay. [17](https://goldbook.iupac.org/terms/view/R05092)
-- Frontier theme: radioanalytical chemistry terminology, nuclear chemistry foundations.
+Claim: A multi-laboratory analysis of long-duration measurements found no evidence that Earth–Sun distance modulated the tested decay constants at the investigated precision, while instrument and measurement instabilities explained dataset-specific deviations from pure exponential decay.
 
-## Review-paper collection queue
+Evidence: NUC-012
 
-- Radiopharmaceutical chemistry.
-- Radioanalytical methods.
-- Environmental radionuclide monitoring.
-- Isotope production.
-- Nuclear waste chemistry.
-- Nuclear forensics.
+Verification: Verified
+
+### Claim NUC-C021
+
+Claim: Current radionuclide metrology depends on measured and evaluated half-lives, emission energies, emission probabilities, activity standards, and detector-efficiency models for decay correction, isotope production, identification, dosimetry, and uncertainty evaluation.
+
+Evidence: NUC-013
+
+Verification: Verified
+
+The primary study constrains one proposed variability hypothesis. It does not establish that every nuclide, decay mode, detector, or environmental condition has been tested to the same precision.

@@ -1,18 +1,17 @@
-# Nuclear Chemistry — History Research
+---
+topic: nuclear-chemistry
+section: history
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: medium
+primary_sources: 0
+secondary_sources: 0
+updated_by: codex
+---
 
-## Historical extraction queue
+# Nuclear Chemistry — History
 
-- Becquerel radioactivity papers.
-- Marie Curie and Pierre Curie radioactivity papers.
-- Rutherford nuclear transformation papers.
-- Soddy isotope papers.
-- Development of radiochemistry.
-- Development of radioanalytical chemistry.
-- Nuclear medicine tracer history.
+No discovery chronology has been promoted. The existing repository names Becquerel, Marie and Pierre Curie, Rutherford, and Soddy, but exact original papers, editions, translations, priority boundaries, and claim locators remain in `research-queue.md`.
 
-## Current terminology anchor
-
-- Source: IUPAC Gold Book
-  Publication: radioactivity
-  Confidence: High
-  Evidence: IUPAC lists Nomenclature for radioanalytical chemistry as one of the source documents for the radioactivity entry. [20](https://goldbook.iupac.org/terms/view/R05092)
+Current scientific records are organized by modern terminology and evaluated data rather than by an unverified discovery timeline.
