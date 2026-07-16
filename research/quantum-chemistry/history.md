@@ -1,23 +1,33 @@
-# Quantum Chemistry — History Research
+---
+topic: quantum-chemistry
+section: history
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: low
+primary_sources: 2
+secondary_sources: 4
+updated_by: codex
+---
 
-## Historical extraction queue
+# Quantum Chemistry — History
 
-- Schrödinger wave mechanics papers.
-- Born-Oppenheimer approximation paper.
-- Heitler-London chemical bonding paper.
-- Hartree self-consistent field method.
-- Fock method.
-- Hohenberg-Kohn density functional theory.
-- Kohn-Sham density functional theory.
-- Early computational chemistry benchmark datasets.
+## Claims
 
-## Current source anchors
+### Claim QC-C005
 
-- Source: MIT OpenCourseWare
-  Publication: Quantum Mechanics I
-  Confidence: High
-  Evidence: MIT OCW lists the Schrödinger equation among the fundamental topics covered by the course. [1](https://ocw.mit.edu/courses/5-73-quantum-mechanics-i-fall-2018/)
+Claim: The collected educational source treats the Schrödinger equation as a foundational quantum-mechanics topic.
 
-- Source: NIST CCCBDB
-  Confidence: High
-  Evidence: NIST states that CCCBDB is intended to provide a benchmark set for evaluating ab initio computational methods and comparing methods for gas-phase thermochemical-property prediction. [3](https://cccbdb.nist.gov/summaryx.asp)
+Evidence: QC-001
+
+Verification: Verified
+
+### Claim QC-C006
+
+Claim: The collected NIST database was established as a benchmark set for evaluating ab initio computational methods and comparing gas-phase thermochemical-property predictions.
+
+Evidence: QC-003
+
+Verification: Verified
+
+No discovery chronology has been promoted. Primary historical-source extraction remains in `research-queue.md`.
