@@ -14,7 +14,7 @@
 
 - Source: NIST CCCBDB
   Confidence: High
-  Evidence: NIST states that CCCBDB provides tools for comparing experimental and computational ideal-gas thermochemical properties. [2](https://search.library.wisc.edu/database/UWI15504)
+  Evidence: NIST states that CCCBDB provides tools for comparing experimental and computational ideal-gas thermochemical properties. [2](https://cccbdb.nist.gov/)
 
 - Source: Reviews of Modern Physics
   Publication: Quantum computational chemistry

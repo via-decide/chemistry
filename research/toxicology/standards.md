@@ -17,5 +17,5 @@
 - Publisher: Royal Society of Chemistry
 - Type: Introductory toxicology text
 - Reliability: High
-- Evidence: RSC describes the book as a core introductory text on toxicology and the use of toxicological information for risk assessment by chemists. [6](https://iupac.org/terminology-of-electroanalytical-methods-of-analysis/)
-- Evidence: RSC states that the book has been approved by IUPAC committees on toxicology and the teaching of chemistry. [6](https://iupac.org/terminology-of-electroanalytical-methods-of-analysis/)
+- Evidence: RSC describes the book as a core introductory text on toxicology and the use of toxicological information for risk assessment by chemists. [6](https://books.rsc.org/books/edited-volume/346/Fundamental-Toxicology-for-Chemists)
+- Evidence: RSC states that the book has been approved by IUPAC committees on toxicology and the teaching of chemistry. [6](https://books.rsc.org/books/edited-volume/346/Fundamental-Toxicology-for-Chemists)

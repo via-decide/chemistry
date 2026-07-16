@@ -5,7 +5,7 @@
 - Source: ACS Publications
   Publication: Agricultural and Food Chemistry Journals
   Confidence: High
-  Evidence: ACS states that ACS Food Science & Technology reports high-quality research across food science, technology, engineering, and nutrition. [16](https://handwiki.org/wiki/Chemistry:Quantities,_Units_and_Symbols_in_Physical_Chemistry)
+  Evidence: ACS states that ACS Food Science & Technology reports high-quality research across food science, technology, engineering, and nutrition. [16](https://connect.acspubs.org/agfood-portfolio)
 
 - Source: ACS Publications
   Publication: Agricultural and Food Chemistry portfolio

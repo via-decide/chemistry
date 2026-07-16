@@ -15,9 +15,9 @@
 - Source: IUPAC / Pure and Applied Chemistry
   Publication: Glossary of terms related to solubility
   Confidence: High
-  Evidence: The glossary connects solubility with solids, liquids, gases, and related phenomena across disciplines. [6](https://nptel.ac.in/courses/104106089)
+  Evidence: The glossary connects solubility with solids, liquids, gases, and related phenomena across disciplines. [6](https://media.iupac.org/publications/pac/2008/pdf/8002x0233.pdf)
 
 - Source: IUPAC / Pure and Applied Chemistry
   Publication: Glossary of terms related to solubility
   Confidence: High
-  Evidence: The IUPAC article page lists phase equilibria, solution equilibria, thermodynamics, solid-state equilibria, and solubility as keywords. [7](https://onlinecourses.nptel.ac.in/noc25_cy46/preview)
+  Evidence: The IUPAC article page lists phase equilibria, solution equilibria, thermodynamics, solid-state equilibria, and solubility as keywords. [7](https://publications.iupac.org/pac/80/2/0233/index.html)

@@ -7,7 +7,7 @@
   URL: [ACS Agricultural and Food Chemistry Journals](https://connect.acspubs.org/agfood-portfolio)
   Year: Page current at retrieval
   Type: Journal portfolio source
-  Reliability: High. [16](https://handwiki.org/wiki/Chemistry:Quantities,_Units_and_Symbols_in_Physical_Chemistry)
+  Reliability: High. [16](https://connect.acspubs.org/agfood-portfolio)
 
 - Title: Agricultural and Food Chemistry
   Authors: ACS Publications
@@ -25,7 +25,7 @@
   URL: [JAFC Author Guidelines](https://researcher-resources.acs.org/publish/author_guidelines?coden=jafcau)
   Year: Last updated July 03, 2026
   Type: Journal scope and author guidelines
-  Reliability: High. [17](https://diverdi.colostate.edu/all_courses/%20laboratory%20reports%20-%20communication%20and%20style/IUPAC%20green%20book%20v3%202012.pdf)
+  Reliability: High. [17](https://researcher-resources.acs.org/publish/author_guidelines?coden=jafcau)
 
 - Title: ACS Food Science & Technology Author Guidelines
   Authors: ACS Publications

@@ -16,4 +16,4 @@
 - Source: IUPAC Gold Book
   Publication: radioactivity
   Confidence: High
-  Evidence: IUPAC connects the radioactivity term to source documents in radioanalytical chemistry and clinical chemistry terminology. [20](https://chem.openlcc.net/chem151-farris-fall2025/unit-2-homework/thermochemistry/)
+  Evidence: IUPAC connects the radioactivity term to source documents in radioanalytical chemistry and clinical chemistry terminology. [20](https://goldbook.iupac.org/terms/view/R05092)

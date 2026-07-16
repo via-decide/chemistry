@@ -15,8 +15,8 @@
 
 - Source: IUPAC / IFCC glossary
   Confidence: High
-  Evidence: The IUPAC page states that the glossary was designed to help clinical chemistry and clinical laboratory science communities. [12](https://teracourses.com/en/course/thermodynamics-course8)
+  Evidence: The IUPAC page states that the glossary was designed to help clinical chemistry and clinical laboratory science communities. [12](https://media.iupac.org/publications/labinfo/English/Documents/glossary.htm)
 
 - Source: RSC clinical laboratory compendium
   Confidence: High
-  Evidence: RSC states that the compendium addresses clinical laboratory sciences, metrological concepts, definitions, terms, and standardized laboratory reports. [14](https://books.rsc.org/books/edited-volume/286/Quantities-units-and-symbols-in-physical-chemistry)
+  Evidence: RSC states that the compendium addresses clinical laboratory sciences, metrological concepts, definitions, terms, and standardized laboratory reports. [14](https://books.rsc.org/books/monograph/1831/Compendium-of-Terminology-and-Nomenclature-of)

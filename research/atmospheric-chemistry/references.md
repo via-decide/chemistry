@@ -7,7 +7,7 @@
   URL: [IUPAC Glossary of Atmospheric Chemistry Terms PDF](https://publications.iupac.org/pac/1990/pdf/6211x2167.pdf)
   Year: 1990
   Type: Terminology recommendation
-  Reliability: High. [7](https://www.ndl.gov.in/he_document/nptel/nptel/N_C_A_B_A_C_T_A_K_N_504464314)
+  Reliability: High. [7](https://publications.iupac.org/pac/1990/pdf/6211x2167.pdf)
 
 - Title: Glossary of Atmospheric Chemistry
   Authors: IUPAC
@@ -16,4 +16,4 @@
   URL: [IUPAC Atmospheric Chemistry Glossary revision page](https://old.iupac.org/reports/1990/6211calvert/glossary.html)
   Year: Revision discussion page created around 2000 according to source text
   Type: Terminology revision page
-  Reliability: High. [8](https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/safety-in-academic-chemistry-laboratories-students.pdf)
+  Reliability: High. [8](https://old.iupac.org/reports/1990/6211calvert/glossary.html)

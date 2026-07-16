@@ -15,7 +15,7 @@
 - Source: IUPAC / Chemistry International
   Publication: Glossary of Terms Used in Ecotoxicology
   Confidence: High
-  Evidence: The article states that groups expected to find the glossary useful include chemists, pharmacologists, toxicologists, ecotoxicologists, risk assessors, regulators, medical practitioners, and regulatory authorities. [14](https://handwiki.org/wiki/Chemistry:Quantities,_Units_and_Symbols_in_Physical_Chemistry)
+  Evidence: The article states that groups expected to find the glossary useful include chemists, pharmacologists, toxicologists, ecotoxicologists, risk assessors, regulators, medical practitioners, and regulatory authorities. [14](https://www.degruyterbrill.com/document/doi/10.1515/ci.2009.31.4.28b/html)
 
 - Source: EPA HERO
   Publication: Glossary of Terms Used in Ecotoxicology

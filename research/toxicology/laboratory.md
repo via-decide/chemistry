@@ -14,8 +14,8 @@
 
 - Source: IUPAC toxicokinetics glossary
   Confidence: High
-  Evidence: The glossary states that it includes abbreviations and acronyms used in toxicokinetics and international bodies and legislation relevant to toxicology and chemical safety. [9](https://search.library.wisc.edu/database/UWI15504)
+  Evidence: The glossary states that it includes abbreviations and acronyms used in toxicokinetics and international bodies and legislation relevant to toxicology and chemical safety. [9](https://old.iupac.org/publications/pac/2004/pdf/7605x1033.pdf)
 
 - Source: PubChem
   Confidence: High
-  Evidence: PubChem states that it provides safety and toxicity information, patents, literature citations, biological activities, and chemical and physical properties. [11](https://iupac.org/what-we-do/periodic-table-of-elements/)
+  Evidence: PubChem states that it provides safety and toxicity information, patents, literature citations, biological activities, and chemical and physical properties. [11](https://pubchem.ncbi.nlm.nih.gov/)

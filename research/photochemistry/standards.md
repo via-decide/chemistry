@@ -16,4 +16,4 @@
 - Year: 2006 recommendation document shown in collected source
 - Type: Terminology recommendation
 - Reliability: High
-- Evidence: The IUPAC glossary document states that the 3rd edition corrected and updated the 2nd edition and added terms related to molecular anisotropy, polarized radiation, non-linear optical phenomena, and computation of excited species. [8](https://kgroup.du.edu/resources/iupac.pdf)
+- Evidence: The IUPAC glossary document states that the 3rd edition corrected and updated the 2nd edition and added terms related to molecular anisotropy, polarized radiation, non-linear optical phenomena, and computation of excited species. [8](https://publications.iupac.org/pac/2007/pdf/7903x0293.pdf)

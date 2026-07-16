@@ -16,4 +16,4 @@
 - Source: IUCr
   Publication: Commission on Crystallographic Nomenclature
   Confidence: High
-  Evidence: IUCr lists reports on Seitz symbols for crystallographic symmetry operations and symbols for arithmetic crystal classes, Bravais classes, and space groups. [6](http://elearn.psgcas.ac.in/nptel/courses/video/104106094/104106094.html)
+  Evidence: IUCr lists reports on Seitz symbols for crystallographic symmetry operations and symbols for arithmetic crystal classes, Bravais classes, and space groups. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)

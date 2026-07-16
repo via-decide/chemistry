@@ -18,4 +18,4 @@
 - Source: IUPAC Gold Book
   Publication: catalyst
   Confidence: High
-  Evidence: IUPAC’s catalyst entry cites a glossary of chemical kinetics terms and includes related terms such as catalytic coefficient, Michaelis-Menten kinetics, and rate of reaction. [21](https://openstax.org/books/chemistry/pages/index)
+  Evidence: IUPAC’s catalyst entry cites a glossary of chemical kinetics terms and includes related terms such as catalytic coefficient, Michaelis-Menten kinetics, and rate of reaction. [21](https://goldbook.iupac.org/terms/view/C00876/pdf)

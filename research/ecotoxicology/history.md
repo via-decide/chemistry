@@ -5,7 +5,7 @@
 - Source: IUPAC / Pure and Applied Chemistry
   Publication: Glossary of Terms Used in Ecotoxicology
   Confidence: High
-  Evidence: The IUPAC document identifies Monica Nordberg, Douglas M. Templeton, Ole Andersen, and John H. Duffus as preparers of the 2009 recommendations. [13](https://books.rsc.org/books/edited-volume/286/Quantities-units-and-symbols-in-physical-chemistry)
+  Evidence: The IUPAC document identifies Monica Nordberg, Douglas M. Templeton, Ole Andersen, and John H. Duffus as preparers of the 2009 recommendations. [13](https://media.iupac.org/publications/pac/2009/pdf/8105x0829.pdf)
 
 ## Primary-literature extraction queue
 

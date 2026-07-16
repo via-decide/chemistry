@@ -16,4 +16,4 @@
 - Source: IUCr
   Publication: Commission on Crystallographic Nomenclature
   Confidence: High
-  Evidence: IUCr lists reports related to crystal phase identifiers, symmetry elements, symmetry operations, atomic displacement parameter nomenclature, and inorganic structure types. [6](http://elearn.psgcas.ac.in/nptel/courses/video/104106094/104106094.html)
+  Evidence: IUCr lists reports related to crystal phase identifiers, symmetry elements, symmetry operations, atomic displacement parameter nomenclature, and inorganic structure types. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)

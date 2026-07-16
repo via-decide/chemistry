@@ -15,4 +15,4 @@
 
 - Source: IUPAC photochemistry glossary
   Confidence: High
-  Evidence: The IUPAC glossary states that changes were introduced regarding radiation-energy terms to make the collection compatible with internationally agreed-upon terms. [9](https://en.wikipedia.org/wiki/LibreTexts)
+  Evidence: The IUPAC glossary states that changes were introduced regarding radiation-energy terms to make the collection compatible with internationally agreed-upon terms. [9](https://publications.iupac.org/pac/2007/pdf/7903x0293.pdf)

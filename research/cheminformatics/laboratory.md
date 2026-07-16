@@ -16,9 +16,9 @@
 - Source: NIST Chemistry WebBook
   Publication: IUPAC Identifier Search
   Confidence: High
-  Evidence: NIST states that its InChI/InChIKey search can return species data for compounds that have structures in the database. [4](https://onlinecourses.nptel.ac.in/noc25_cy46/preview)
+  Evidence: NIST states that its InChI/InChIKey search can return species data for compounds that have structures in the database. [4](https://webbook.nist.gov/chemistry/inchi-ser/)
 
 - Source: IUPAC FAIR Chemistry Cookbook
   Publication: Glossary
   Confidence: Medium
-  Evidence: The glossary describes a chemical structure identifier as an alphanumeric text string that can uniquely identify a chemical compound and facilitate handling in computer databases, with examples including InChI and SMILES. [5](https://www.nist.gov/pml/atomic-spectroscopy-databases)
+  Evidence: The glossary describes a chemical structure identifier as an alphanumeric text string that can uniquely identify a chemical compound and facilitate handling in computer databases, with examples including InChI and SMILES. [5](https://iupac.github.io/WFChemCookbook/glossary.html)

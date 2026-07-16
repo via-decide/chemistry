@@ -5,7 +5,7 @@
 - Source: IUPAC Gold Book
   Publication: chromatography
   Confidence: High
-  Evidence: IUPAC cites Nomenclature for Chromatography, IUPAC Recommendations 1993, as a source for the chromatography definition. [11](https://iupac.org/iupac-green-book-v5/)
+  Evidence: IUPAC cites Nomenclature for Chromatography, IUPAC Recommendations 1993, as a source for the chromatography definition. [11](https://goldbook.iupac.org/terms/view/C01075)
 
 ## Primary-literature extraction queue
 

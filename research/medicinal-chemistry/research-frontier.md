@@ -18,7 +18,7 @@
 - Publisher: NCBI / NIH
 - Type: Government chemical database
 - Reliability: High
-- Evidence: PubChem states that users can search chemicals by name, molecular formula, structure, and identifiers and find properties, biological activities, safety and toxicity information, patents, and literature citations. [6](https://ether.chem.iitb.ac.in/~bltembe/pdfs/ch_3.pdf)
+- Evidence: PubChem states that users can search chemicals by name, molecular formula, structure, and identifiers and find properties, biological activities, safety and toxicity information, patents, and literature citations. [6](https://pubchem.ncbi.nlm.nih.gov/)
 - Frontier theme: compound data, bioactivity, safety, patent and literature links.
 
 ## Review-paper collection queue

@@ -17,4 +17,4 @@
 - Source: IUPAC Gold Book
   Publication: chromatography
   Confidence: High
-  Evidence: IUPAC’s definition identifies chromatography as a separation method based on distribution between stationary and mobile phases. [11](https://iupac.org/iupac-green-book-v5/)
+  Evidence: IUPAC’s definition identifies chromatography as a separation method based on distribution between stationary and mobile phases. [11](https://goldbook.iupac.org/terms/view/C01075)

@@ -7,4 +7,4 @@
   URL: [IUCr Commission on Crystallographic Nomenclature](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)
   Year: Page current at retrieval
   Type: Nomenclature governance and report index
-  Reliability: High. [6](http://elearn.psgcas.ac.in/nptel/courses/video/104106094/104106094.html)
+  Reliability: High. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)

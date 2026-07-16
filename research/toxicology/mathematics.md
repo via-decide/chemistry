@@ -16,4 +16,4 @@
 - Source: IUPAC / Pure and Applied Chemistry
   Publication: Glossary of Terms Used in Toxicokinetics
   Confidence: High
-  Evidence: The glossary states that it includes terms used in toxicokinetics, especially in relation to hazard and risk assessment. [9](https://search.library.wisc.edu/database/UWI15504)
+  Evidence: The glossary states that it includes terms used in toxicokinetics, especially in relation to hazard and risk assessment. [9](https://old.iupac.org/publications/pac/2004/pdf/7605x1033.pdf)

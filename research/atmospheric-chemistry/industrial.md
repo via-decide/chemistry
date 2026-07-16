@@ -14,8 +14,8 @@
 
 - Source: ACS Environmental Science portfolio
   Confidence: High
-  Evidence: ACS states that its environmental science portfolio covers topics from climate change and extreme weather to clean technology and renewable energy. [9](https://books.google.com/books/about/Ullmann_s_Encyclopedia_of_Industrial_Che.html?id=8aWGZwEACAAJ)
+  Evidence: ACS states that its environmental science portfolio covers topics from climate change and extreme weather to clean technology and renewable energy. [9](https://connect.acspubs.org/environmental-science-authors)
 
 - Source: ACS Environmental Science journals page
   Confidence: High
-  Evidence: ACS lists ACS ES&T Air as publishing research on indoor and outdoor air quality sciences and engineering. [10](https://www.icheme.org/about-us/news-releases/free-access-to-perry-s-chemical-engineer-s-handbook-for-icheme-members/)
+  Evidence: ACS lists ACS ES&T Air as publishing research on indoor and outdoor air quality sciences and engineering. [10](https://connect.acspubs.org/environmental-science-journals?src=IC001_ST0002D_T001562_Brand_Submission_Ad_Program)

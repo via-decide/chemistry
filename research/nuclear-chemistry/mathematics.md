@@ -15,4 +15,4 @@
 - Source: IUPAC Gold Book
   Publication: radioactivity
   Confidence: High
-  Evidence: IUPAC identifies radioactivity as a property of nuclides undergoing radioactive decay, establishing the terminology basis for decay calculations. [20](https://chem.openlcc.net/chem151-farris-fall2025/unit-2-homework/thermochemistry/)
+  Evidence: IUPAC identifies radioactivity as a property of nuclides undergoing radioactive decay, establishing the terminology basis for decay calculations. [20](https://goldbook.iupac.org/terms/view/R05092)

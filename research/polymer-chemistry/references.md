@@ -7,7 +7,7 @@
   URL: [IUPAC Purple Book](https://iupac.org/what-we-do/books/purplebook/)
   Year: 2008 recommendations; RSC Publishing 2009
   Type: Nomenclature and terminology standard
-  Reliability: High. [15](https://sur.ly/i/chem.libretexts.org/)
+  Reliability: High. [15](https://iupac.org/what-we-do/books/purplebook/)
 
 - Title: Compendium of Polymer Terminology and Nomenclature: IUPAC Recommendations 2008
   Authors: Richard G. Jones et al.
@@ -16,7 +16,7 @@
   URL: [RSC Purple Book entry](https://books.rsc.org/books/edited-volume/314/Compendium-of-Polymer-Terminology-and-Nomenclature)
   Year: 2009
   Type: Nomenclature and terminology book
-  Reliability: High. [17](https://catalog.data.gov/dataset/nist-atomic-spectra-database-srd-78)
+  Reliability: High. [17](https://books.rsc.org/books/edited-volume/314/Compendium-of-Polymer-Terminology-and-Nomenclature)
 
 - Title: Polymer Chemistry
   Authors: Royal Society of Chemistry
@@ -25,7 +25,7 @@
   URL: [RSC Polymer Chemistry journal](https://www.rsc.org/publishing/journals/polymer-chemistry)
   Year: Page current at retrieval
   Type: Journal scope source
-  Reliability: High. [16](https://opencw.aprende.org/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/syllabus/)
+  Reliability: High. [16](https://www.rsc.org/publishing/journals/polymer-chemistry)
 
 - Title: Closed-loop recyclable polymers: from monomer and polymer design to the polymerization-depolymerization cycle
   Authors: Shuaiqi Yang; Shuai Du; Jin Zhu; Songqi Ma
@@ -34,4 +34,4 @@
   URL: [RSC review article](https://pubs.rsc.org/cs/article/53/19/9609/845071/Closed-loop-recyclable-polymers-from-monomer-and)
   Year: 2024
   Type: Review article
-  Reliability: High. [18](https://mitocw.ups.edu.ec/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/)
+  Reliability: High. [18](https://pubs.rsc.org/cs/article/53/19/9609/845071/Closed-loop-recyclable-polymers-from-monomer-and)

@@ -19,4 +19,4 @@
 
 - Source: ACS agricultural and food chemistry portfolio
   Confidence: High
-  Evidence: ACS lists Journal of Agricultural and Food Chemistry and ACS Food Science & Technology within its agricultural and food chemistry journals portfolio. [16](https://handwiki.org/wiki/Chemistry:Quantities,_Units_and_Symbols_in_Physical_Chemistry)
+  Evidence: ACS lists Journal of Agricultural and Food Chemistry and ACS Food Science & Technology within its agricultural and food chemistry journals portfolio. [16](https://connect.acspubs.org/agfood-portfolio)

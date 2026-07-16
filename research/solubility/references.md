@@ -7,7 +7,7 @@
   URL: [IUPAC Solubility Glossary PDF](https://media.iupac.org/publications/pac/2008/pdf/8002x0233.pdf)
   Year: 2008
   Type: Terminology recommendation
-  Reliability: High. [6](https://nptel.ac.in/courses/104106089)
+  Reliability: High. [6](https://media.iupac.org/publications/pac/2008/pdf/8002x0233.pdf)
 
 - Title: Glossary of terms related to solubility
   Authors: Heinz Gamsjäger; John W. Lorimer; Pirketta Scharlin; David G. Shaw
@@ -16,4 +16,4 @@
   URL: [IUPAC Pure and Applied Chemistry article page](https://publications.iupac.org/pac/80/2/0233/index.html)
   Year: 2008
   Type: Article record
-  Reliability: High. [7](https://onlinecourses.nptel.ac.in/noc25_cy46/preview)
+  Reliability: High. [7](https://publications.iupac.org/pac/80/2/0233/index.html)

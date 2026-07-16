@@ -15,4 +15,4 @@
 - Source: IUPAC Gold Book
   Publication: radioactivity
   Confidence: High
-  Evidence: IUPAC lists radioanalytical chemistry and clinical chemistry source documents for the radioactivity term. [20](https://chem.openlcc.net/chem151-farris-fall2025/unit-2-homework/thermochemistry/)
+  Evidence: IUPAC lists radioanalytical chemistry and clinical chemistry source documents for the radioactivity term. [20](https://goldbook.iupac.org/terms/view/R05092)

@@ -7,7 +7,7 @@
   URL: [MIT OCW Quantum Mechanics I](https://ocw.mit.edu/courses/5-73-quantum-mechanics-i-fall-2018/)
   Year: Fall 2018 course
   Type: University course materials
-  Reliability: High. [1](http://elearn.psgcas.ac.in/nptel/courses/video/104106094/L01.html)
+  Reliability: High. [1](https://ocw.mit.edu/courses/5-73-quantum-mechanics-i-fall-2018/)
 
 - Title: NIST Computational Chemistry Comparison and Benchmark Database
   Authors: Russell D. Johnson III, editor
@@ -16,7 +16,7 @@
   URL: [NIST CCCBDB](https://cccbdb.nist.gov/)
   Year: Release 22, May 2022
   Type: Benchmark database
-  Reliability: High. [2](https://search.library.wisc.edu/database/UWI15504)
+  Reliability: High. [2](https://cccbdb.nist.gov/)
 
 - Title: Quantum Chemistry in the Age of Quantum Computing
   Authors: Yudong Cao et al.

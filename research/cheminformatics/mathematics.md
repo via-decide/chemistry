@@ -16,4 +16,4 @@
 - Source: IUPAC Gold Book
   Publication: cheminformatics
   Confidence: High
-  Evidence: IUPAC explicitly includes machine learning, data mining, information retrieval, and information extraction in its definition of cheminformatics. [1](https://sciop.net/datasets/nist-asd)
+  Evidence: IUPAC explicitly includes machine learning, data mining, information retrieval, and information extraction in its definition of cheminformatics. [1](https://goldbook.iupac.org/terms/view/11421)

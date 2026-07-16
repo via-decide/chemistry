@@ -14,8 +14,8 @@
 
 - Source: RSC clinical laboratory compendium
   Confidence: High
-  Evidence: RSC states that standardization of laboratory reports supports reliable exchange of patient examination data without loss of meaning or accuracy. [14](https://books.rsc.org/books/edited-volume/286/Quantities-units-and-symbols-in-physical-chemistry)
+  Evidence: RSC states that standardization of laboratory reports supports reliable exchange of patient examination data without loss of meaning or accuracy. [14](https://books.rsc.org/books/monograph/1831/Compendium-of-Terminology-and-Nomenclature-of)
 
 - Source: IUPAC / IFCC glossary
   Confidence: High
-  Evidence: The IUPAC page states that the glossary supports clinical chemistry and clinical laboratory science communities through consistent terminology. [12](https://teracourses.com/en/course/thermodynamics-course8)
+  Evidence: The IUPAC page states that the glossary supports clinical chemistry and clinical laboratory science communities through consistent terminology. [12](https://media.iupac.org/publications/labinfo/English/Documents/glossary.htm)

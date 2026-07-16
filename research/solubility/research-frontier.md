@@ -11,8 +11,8 @@
 - DOI: 10.1351/pac200880020233
 - Type: Terminology recommendation
 - Reliability: High
-- Evidence: IUPAC lists the article in Pure and Applied Chemistry, volume 80, issue 2, pages 233–276, with DOI 10.1351/pac200880020233. [4](https://9lib.net/document/q05pjde3-glossary-of-terms-used-in-toxicokinetics.html)
-- Evidence: IUPAC states that the glossary defines 166 terms used to describe solubility and related phenomena. [4](https://9lib.net/document/q05pjde3-glossary-of-terms-used-in-toxicokinetics.html)
+- Evidence: IUPAC lists the article in Pure and Applied Chemistry, volume 80, issue 2, pages 233–276, with DOI 10.1351/pac200880020233. [4](https://publications.iupac.org/pac/80/2/0233/index.html)
+- Evidence: IUPAC states that the glossary defines 166 terms used to describe solubility and related phenomena. [4](https://publications.iupac.org/pac/80/2/0233/index.html)
 - Frontier theme: solubility terminology, phase equilibria, solution equilibria.
 
 ## Review-paper collection queue

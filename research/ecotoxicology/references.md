@@ -7,7 +7,7 @@
   URL: [IUPAC Ecotoxicology Glossary PDF](https://media.iupac.org/publications/pac/2009/pdf/8105x0829.pdf)
   Year: 2009
   Type: Terminology recommendation
-  Reliability: High. [13](https://books.rsc.org/books/edited-volume/286/Quantities-units-and-symbols-in-physical-chemistry)
+  Reliability: High. [13](https://media.iupac.org/publications/pac/2009/pdf/8105x0829.pdf)
 
 - Title: Glossary of Terms Used in Ecotoxicology (IUPAC Recommendations 2009)
   Authors: Monica Nordberg; Douglas M. Templeton; Ole Andersen; John Henderson Duffus
@@ -16,7 +16,7 @@
   URL: [Chemistry International ecotoxicology glossary page](https://www.degruyterbrill.com/document/doi/10.1515/ci.2009.31.4.28b/html)
   Year: 2009
   Type: Terminology announcement / summary
-  Reliability: High. [14](https://handwiki.org/wiki/Chemistry:Quantities,_Units_and_Symbols_in_Physical_Chemistry)
+  Reliability: High. [14](https://www.degruyterbrill.com/document/doi/10.1515/ci.2009.31.4.28b/html)
 
 - Title: Glossary of Terms Used in Ecotoxicology
   Authors: Monica Nordberg; Douglas M. Templeton; Ole Andersen; John Henderson Duffus

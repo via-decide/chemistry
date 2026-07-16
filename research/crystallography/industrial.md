@@ -15,4 +15,4 @@
 - Source: IUCr
   Publication: Commission on Crystallographic Nomenclature
   Confidence: High
-  Evidence: IUCr lists nomenclature work related to crystal phase identifiers and inorganic structure types. [6](http://elearn.psgcas.ac.in/nptel/courses/video/104106094/104106094.html)
+  Evidence: IUCr lists nomenclature work related to crystal phase identifiers and inorganic structure types. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)

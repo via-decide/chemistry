@@ -13,4 +13,4 @@
 
 - Source: IUPAC Gold Book
   Confidence: High
-  Evidence: IUPAC defines mass spectrometry and links it to IUPAC nomenclature and symbolism recommendations for mass spectroscopy. [1](https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/pages/lecture-notes/)
+  Evidence: IUPAC defines mass spectrometry and links it to IUPAC nomenclature and symbolism recommendations for mass spectroscopy. [1](https://goldbook.iupac.org/terms/view/M03746)

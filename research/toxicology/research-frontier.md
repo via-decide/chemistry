@@ -21,7 +21,7 @@
 - Year: 1996 print; online publication page shown by RSC
 - Type: Introductory toxicology text
 - Reliability: High
-- Evidence: RSC states that the book offers an assessment of toxicology specifically for chemists and covers areas including reproduction, behavioural, and ecological toxicology. [6](https://iupac.org/terminology-of-electroanalytical-methods-of-analysis/)
+- Evidence: RSC states that the book offers an assessment of toxicology specifically for chemists and covers areas including reproduction, behavioural, and ecological toxicology. [6](https://books.rsc.org/books/edited-volume/346/Fundamental-Toxicology-for-Chemists)
 - Frontier theme: toxicology education for chemists, risk assessment, chemical safety.
 
 ## Review-paper collection queue

@@ -15,4 +15,4 @@
 
 - Source: ACS Journal of Agricultural and Food Chemistry author guidelines
   Confidence: High
-  Evidence: ACS states that submissions must address relevance to agricultural and food chemistry, including the specific role of molecular research in the study. [17](https://diverdi.colostate.edu/all_courses/%20laboratory%20reports%20-%20communication%20and%20style/IUPAC%20green%20book%20v3%202012.pdf)
+  Evidence: ACS states that submissions must address relevance to agricultural and food chemistry, including the specific role of molecular research in the study. [17](https://researcher-resources.acs.org/publish/author_guidelines?coden=jafcau)

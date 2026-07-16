@@ -22,7 +22,7 @@
 - DOI: 10.1039/d3cs00316g
 - Type: Review article
 - Reliability: High
-- Evidence: RSC identifies this as Chemical Society Reviews 2024, volume 53, issue 18, pages 9029–9058, with DOI 10.1039/d3cs00316g. [20](https://openstax.org/books/chemistry-2e/pages/5-2-calorimetry)
+- Evidence: RSC identifies this as Chemical Society Reviews 2024, volume 53, issue 18, pages 9029–9058, with DOI 10.1039/d3cs00316g. [20](https://pubs.rsc.org/cs/article/53/18/9029/803828/The-promise-of-chiral-electrocatalysis-for)
 - Frontier theme: electrocatalysis, chiral materials, energy conversion.
 
 ### Catalysis in organic and polymer chemistry

@@ -16,9 +16,9 @@
 - Source: IUCr
   Publication: Commission on Crystallographic Nomenclature
   Confidence: High
-  Evidence: IUCr states that nomenclature problems recognized as important by the Commission are studied by ad hoc committees of experts appointed by the Commission. [6](http://elearn.psgcas.ac.in/nptel/courses/video/104106094/104106094.html)
+  Evidence: IUCr states that nomenclature problems recognized as important by the Commission are studied by ad hoc committees of experts appointed by the Commission. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)
 
 - Source: IUCr
   Publication: Commission on Crystallographic Nomenclature
   Confidence: High
-  Evidence: IUCr states that accepted working-group reports are published in Acta Crystallographica, Section A. [6](http://elearn.psgcas.ac.in/nptel/courses/video/104106094/104106094.html)
+  Evidence: IUCr states that accepted working-group reports are published in Acta Crystallographica, Section A. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)

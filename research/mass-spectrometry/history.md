@@ -5,7 +5,7 @@
 - Source: IUPAC Gold Book
   Publication: mass spectrometry
   Confidence: High
-  Evidence: IUPAC cites the 1991 recommendations for nomenclature and symbolism for mass spectroscopy as a source for the mass spectrometry term. [1](https://docs.pubchempy.org/)
+  Evidence: IUPAC cites the 1991 recommendations for nomenclature and symbolism for mass spectroscopy as a source for the mass spectrometry term. [1](https://goldbook.iupac.org/terms/view/M03746)
 
 ## Primary-literature extraction queue
 

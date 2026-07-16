@@ -5,12 +5,12 @@
 - Source: IUPAC / IFCC
   Publication: Glossary of Terms in Quantities and Units in Clinical Chemistry
   Confidence: High
-  Evidence: The IUPAC page states that documents prepared by the relevant Commission/Committee have been published since 1967. [12](https://teracourses.com/en/course/thermodynamics-course8)
+  Evidence: The IUPAC page states that documents prepared by the relevant Commission/Committee have been published since 1967. [12](https://media.iupac.org/publications/labinfo/English/Documents/glossary.htm)
 
 - Source: Pure and Applied Chemistry
   Publication: Glossary of Terms in Quantities and Units in Clinical Chemistry
   Confidence: High
-  Evidence: The PAC synopsis states that from 1967 onward, documents were prepared by IUPAC and IFCC bodies with input from many clinical laboratory scientists worldwide. [13](https://iupac.org/what-we-do/books/greenbook/)
+  Evidence: The PAC synopsis states that from 1967 onward, documents were prepared by IUPAC and IFCC bodies with input from many clinical laboratory scientists worldwide. [13](https://old.iupac.org/publications/pac/1996/pdf/6804x0957.pdf)
 
 ## Primary-literature extraction queue
 

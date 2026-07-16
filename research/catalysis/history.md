@@ -16,4 +16,4 @@
 - Source: IUPAC Gold Book
   Publication: catalyst
   Confidence: High
-  Evidence: IUPAC defines catalyst and distinguishes homogeneous and heterogeneous catalysis. [21](https://openstax.org/books/chemistry/pages/index)
+  Evidence: IUPAC defines catalyst and distinguishes homogeneous and heterogeneous catalysis. [21](https://goldbook.iupac.org/terms/view/C00876/pdf)

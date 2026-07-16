@@ -16,8 +16,8 @@
 - Source: IUPAC / IFCC
   Publication: Glossary of Terms in Quantities and Units in Clinical Chemistry
   Confidence: High
-  Evidence: The IUPAC page states that glossary entries are given in the form of term, symbol, and unit for quantities. [12](https://teracourses.com/en/course/thermodynamics-course8)
+  Evidence: The IUPAC page states that glossary entries are given in the form of term, symbol, and unit for quantities. [12](https://media.iupac.org/publications/labinfo/English/Documents/glossary.htm)
 
 - Source: RSC clinical laboratory compendium
   Confidence: High
-  Evidence: RSC lists sections on symbols, terms, SI units, kinds-of-quantity, and principles and practice of kinds-of-quantity and units. [14](https://books.rsc.org/books/edited-volume/286/Quantities-units-and-symbols-in-physical-chemistry)
+  Evidence: RSC lists sections on symbols, terms, SI units, kinds-of-quantity, and principles and practice of kinds-of-quantity and units. [14](https://books.rsc.org/books/monograph/1831/Compendium-of-Terminology-and-Nomenclature-of)

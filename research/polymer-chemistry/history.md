@@ -5,12 +5,12 @@
 - Source: IUPAC
   Publication: Purple Book
   Confidence: High
-  Evidence: IUPAC states that the 2nd edition of the Purple Book expands and revises the 1991 edition. [15](https://sur.ly/i/chem.libretexts.org/)
+  Evidence: IUPAC states that the 2nd edition of the Purple Book expands and revises the 1991 edition. [15](https://iupac.org/what-we-do/books/purplebook/)
 
 - Source: RSC
   Publication: Purple Book
   Confidence: High
-  Evidence: RSC states that the Purple Book is one of the IUPAC Color Books and collects important work on polymer terminology and nomenclature into a single volume. [17](https://catalog.data.gov/dataset/nist-atomic-spectra-database-srd-78)
+  Evidence: RSC states that the Purple Book is one of the IUPAC Color Books and collects important work on polymer terminology and nomenclature into a single volume. [17](https://books.rsc.org/books/edited-volume/314/Compendium-of-Polymer-Terminology-and-Nomenclature)
 
 ## Primary-literature extraction queue
 
