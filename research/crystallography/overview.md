@@ -1,24 +1,44 @@
-# Crystallography — Overview Research
+---
+topic: crystallography
+section: overview
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 1
+secondary_sources: 9
+updated_by: codex
+---
+
+# Crystallography — Overview
 
 ## Scope
 
-- Crystal structures.
-- Symmetry.
-- Unit cells.
-- Diffraction.
-- Structure refinement.
-- Crystallographic nomenclature.
-- Crystallographic information standards.
-- Solid-state structure determination.
+Canonical source records for crystal structures, direct and reciprocal lattices, unit cells, symmetry, diffraction, structure determination, refinement, validation, and crystallographic data preservation.
 
-## Source anchors
+## Related Topics
 
-- Source: IUCr
-  Publication: Commission on Crystallographic Nomenclature
-  Confidence: High
-  Evidence: IUCr states that nomenclature problems recognized as important by the Commission are studied by ad hoc committees of experts appointed by the Commission. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)
+- atomic-structure
+- chemical-bonding
+- inorganic-chemistry
+- materials-chemistry
+- spectroscopy
+- solid-state-chemistry
 
-- Source: IUCr
-  Publication: Commission on Crystallographic Nomenclature
-  Confidence: High
-  Evidence: IUCr states that accepted working-group reports are published in Acta Crystallographica, Section A. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)
+## Claims
+
+### Claim CRY-C001
+
+Claim: The IUCr Commission on Crystallographic Nomenclature studies recognized nomenclature problems through expert groups and publishes accepted reports through IUCr channels.
+
+Evidence: CRY-001
+
+Verification: Verified
+
+### Claim CRY-C002
+
+Claim: The authoritative source boundary for this package covers crystallographic periodicity, reciprocal-space geometry, diffraction, structure determination, model refinement, validation, and preservation.
+
+Evidence: CRY-002; CRY-003; CRY-005; CRY-006; CRY-007; CRY-009; CRY-010
+
+Verification: Verified

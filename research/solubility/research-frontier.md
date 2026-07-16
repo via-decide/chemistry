@@ -1,25 +1,33 @@
+---
+topic: solubility
+section: research-frontier
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 3
+updated_by: codex
+---
+
 # Solubility — Research Frontier
 
-## Curated source anchors
+### Claim SOL-C025
 
-### IUPAC solubility glossary
+Statement: The IUPAC–NIST Solubility Data Series distinguishes compiled measurements from critically evaluated and recommended values, making agreement, uncertainty, phase identity, and provenance part of the data product.
 
-- Title: Glossary of terms related to solubility
-- Authors: Heinz Gamsjäger; John W. Lorimer; Pirketta Scharlin; David G. Shaw
-- Journal: Pure and Applied Chemistry
-- Year: 2008
-- DOI: 10.1351/pac200880020233
-- Type: Terminology recommendation
-- Reliability: High
-- Evidence: IUPAC lists the article in Pure and Applied Chemistry, volume 80, issue 2, pages 233–276, with DOI 10.1351/pac200880020233. [4](https://publications.iupac.org/pac/80/2/0233/index.html)
-- Evidence: IUPAC states that the glossary defines 166 terms used to describe solubility and related phenomena. [4](https://publications.iupac.org/pac/80/2/0233/index.html)
-- Frontier theme: solubility terminology, phase equilibria, solution equilibria.
+Evidence: SOL-008; SOL-009
 
-## Review-paper collection queue
+Status: Verified
 
-- Solubility prediction.
-- Pharmaceutical solubility.
-- Aqueous environmental solubility.
-- Crystallization thermodynamics.
-- Electrolyte solubility.
-- Solubility databases and FAIR data.
+### Claim SOL-C026
+
+Statement: PHREEQC provides alternative aqueous activity models, including Pitzer and specific-ion-interaction formulations, because high-salinity systems can exceed the useful range of simpler dilute-solution treatments.
+
+Evidence: SOL-010
+
+Status: Verified
+
+## Atlas boundary
+
+The research corner should compare measured, compiled, evaluated, modelled, and predicted solubility as different evidence states. A model output must retain its database, activity model, version, inputs, temperature, pressure, and uncertainty boundary.

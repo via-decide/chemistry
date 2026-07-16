@@ -1,19 +1,31 @@
-# Crystallography — Applications Research
+---
+topic: crystallography
+section: applications
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: medium
+primary_sources: 1
+secondary_sources: 2
+updated_by: codex
+---
 
-## Applications
+# Crystallography — Applications
 
-- Materials chemistry.
-- Inorganic chemistry.
-- Organic solid-state chemistry.
-- Structural biology.
-- Pharmaceutical polymorph analysis.
-- Nanomaterials.
-- Semiconductor characterization.
-- Mineral and solid-phase identification.
+## Claims
 
-## Evidence cards
+### Claim CRY-C006
 
-- Source: IUCr
-  Publication: Commission on Crystallographic Nomenclature
-  Confidence: High
-  Evidence: IUCr lists reports on inorganic structure types, crystal phase identifiers, and crystallographic symmetry operations. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)
+Claim: IUCr nomenclature work covers structure types, crystal phase identifiers, crystallographic symmetry operations, phase transitions, and atomic displacement parameters.
+
+Evidence: CRY-001
+
+Verification: Verified
+
+### Claim CRY-C007
+
+Claim: Powder X-ray diffraction is used for structural characterization in laboratories and large-scale facilities, including time-resolved operando investigations of energy materials.
+
+Evidence: CRY-005
+
+Verification: Verified

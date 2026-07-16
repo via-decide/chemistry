@@ -1,19 +1,33 @@
-# Crystallography — Laboratory Research
+---
+topic: crystallography
+section: laboratory
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 1
+secondary_sources: 3
+updated_by: codex
+---
 
-## Laboratory methods
+# Crystallography — Laboratory
 
-- Single-crystal X-ray diffraction.
-- Powder X-ray diffraction.
-- Electron diffraction.
-- Structure refinement.
-- Crystal phase identification.
-- Symmetry assignment.
-- Unit-cell determination.
-- Crystallographic data deposition.
+## Claims
 
-## Source anchors
+### Claim CRY-C011
 
-- Source: IUCr
-  Publication: Commission on Crystallographic Nomenclature
-  Confidence: High
-  Evidence: IUCr lists reports related to crystal phase identifiers, symmetry elements, symmetry operations, atomic displacement parameter nomenclature, and inorganic structure types. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)
+Claim: The verified IUCr instrument record explicitly identifies a microfocus rotating-anode X-ray source, multilayer optics, optional monochromator, motorized slits, sample-positioning stage, six-circle goniometer, and area detector.
+
+Evidence: CRY-005
+
+Verification: Verified
+
+### Claim CRY-C012
+
+Claim: IUCr checkCIF evaluates CIF syntax and construction, cell and geometry details, space-group symmetry, displacement parameters, structure factors, and duplicate records when the corresponding options and data are supplied.
+
+Evidence: CRY-007
+
+Verification: Verified
+
+Radiation-safety controls, calibration standards, sample-preparation limits, and uncertainty budgets remain in `research-queue.md`.

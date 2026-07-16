@@ -1,21 +1,69 @@
+---
+topic: quantum-chemistry
+section: standards-and-datasets
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: medium
+primary_sources: 2
+secondary_sources: 0
+updated_by: codex
+---
+
 # Quantum Chemistry — Standards and Datasets
 
-## NIST Computational Chemistry Comparison and Benchmark Database
+## Dataset Record QC-DS001
 
-- Title: NIST Computational Chemistry Comparison and Benchmark Database
-- Abbreviation: CCCBDB
-- Publisher: National Institute of Standards and Technology
-- DOI: 10.18434/T47C7Z
-- Type: Benchmark database
-- Reliability: High
-- Evidence: NIST states that CCCBDB contains experimental and computed quantum-mechanical thermochemical data for a selected set of 2186 gas-phase atoms and small molecules. [1](https://cccbdb.nist.gov/)
-- Evidence: NIST states that CCCBDB provides tools for comparing experimental and computational ideal-gas thermochemical properties. [1](https://cccbdb.nist.gov/)
-- Evidence: NIST states that CCCBDB includes vibrational frequencies, rotational constants, electric dipoles, electric quadrupoles, and polarizabilities. [1](https://cccbdb.nist.gov/)
+Title: NIST Computational Chemistry Comparison and Benchmark Database
 
-## MIT OpenCourseWare Quantum Mechanics I
+Abbreviation: CCCBDB
 
-- Title: Quantum Mechanics I
-- Publisher: MIT OpenCourseWare
-- Type: Course source
-- Reliability: High for educational derivation source
-- Evidence: MIT OCW states that Quantum Mechanics I covers wave properties, uncertainty principles, the Schrödinger equation, and operator and matrix methods. [2](https://ocw.mit.edu/courses/5-73-quantum-mechanics-i-fall-2018/)
+Publisher: National Institute of Standards and Technology
+
+DOI: 10.18434/T47C7Z
+
+Evidence: QC-002; QC-003
+
+Verification: Verified
+
+### Claim QC-C015
+
+Claim: CCCBDB contains experimental and computed quantum-mechanical thermochemical data for selected gas-phase atoms and small molecules.
+
+Evidence: QC-002
+
+Verification: Verified
+
+### Claim QC-C016
+
+Claim: CCCBDB provides tools for comparing experimental and computational ideal-gas thermochemical properties.
+
+Evidence: QC-002; QC-003
+
+Verification: Verified
+
+### Claim QC-C017
+
+Claim: CCCBDB includes molecular-property records such as vibrational frequencies, rotational constants, electric dipoles, electric quadrupoles, and polarizabilities.
+
+Evidence: QC-002
+
+Verification: Verified
+
+## Educational Source Record QC-ED001
+
+Title: Quantum Mechanics I
+
+Publisher: MIT OpenCourseWare
+
+Evidence: QC-001
+
+Verification: Verified
+
+### Claim QC-C018
+
+Claim: The course covers wave properties, uncertainty principles, the Schrödinger equation, and operator and matrix methods.
+
+Evidence: QC-001
+
+Verification: Verified

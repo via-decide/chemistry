@@ -1,18 +1,41 @@
-# Nuclear Chemistry — Industrial Research
+---
+topic: nuclear-chemistry
+section: industrial
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 2
+updated_by: codex
+---
 
-## Industrial applications
+# Nuclear Chemistry — Industrial
 
-- Nuclear medicine.
-- Radiotracer production.
-- Isotope labeling.
-- Nuclear power chemistry.
-- Radiation monitoring.
-- Environmental radionuclide tracking.
-- Nuclear forensics.
+## Claims
 
-## Source anchor
+### Claim NUC-C010
 
-- Source: IUPAC Gold Book
-  Publication: radioactivity
-  Confidence: High
-  Evidence: IUPAC lists radioanalytical chemistry and clinical chemistry source documents for the radioactivity term. [20](https://goldbook.iupac.org/terms/view/R05092)
+Claim: Radiopharmaceutical preparation requires a quality-control system covering materials, personnel, documentation, review, and product-specific assays before medical use.
+
+Evidence: NUC-016
+
+Verification: Verified
+
+### Claim NUC-C018
+
+Claim: IAEA source-management guidance treats manufacture, distribution, installation, commissioning, use, storage, and disposal as controlled stages across a radioactive source lifecycle.
+
+Evidence: NUC-017
+
+Verification: Verified
+
+### Claim NUC-C022
+
+Claim: Risk-informed source management can require notification or authorization, registration, inspection, inventory, security, import or export control, and end-of-life decisions appropriate to the source category and jurisdiction.
+
+Evidence: NUC-017
+
+Verification: Verified
+
+The lifecycle sources cover both beneficial use and end-of-life control. They do not establish one process train for every unsealed product and sealed source.

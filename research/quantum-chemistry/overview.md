@@ -1,23 +1,44 @@
-# Quantum Chemistry — Overview Research
+---
+topic: quantum-chemistry
+section: overview
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: medium
+primary_sources: 2
+secondary_sources: 4
+updated_by: codex
+---
+
+# Quantum Chemistry — Overview
 
 ## Scope
 
-- Quantum mechanics applied to atoms, molecules, and materials.
-- Electronic structure.
-- Molecular orbitals.
-- Approximation methods.
-- Computational chemistry.
-- Quantum computing for chemistry.
-- Quantum machine learning for chemistry.
+Canonical source records for quantum mechanics applied to atoms, molecules, and materials, including electronic structure, approximation methods, computational chemistry, quantum computing, and quantum machine learning.
 
-## Source anchors
+## Related Topics
 
-- Source: MIT OpenCourseWare
-  Publication: Quantum Mechanics I
-  Confidence: High
-  Evidence: MIT OCW states that the course presents fundamental quantum mechanics concepts including wave properties, uncertainty principles, the Schrödinger equation, and operator and matrix methods. [1](https://ocw.mit.edu/courses/5-73-quantum-mechanics-i-fall-2018/)
+- atomic-structure
+- chemical-bonding
+- statistical-mechanics
+- spectroscopy
+- materials-chemistry
+- catalysis
 
-- Source: NIST
-  Publication: Computational Chemistry Comparison and Benchmark Database
-  Confidence: High
-  Evidence: NIST states that CCCBDB contains experimental and computed quantum-mechanical thermochemical data for selected gas-phase atoms and small molecules. [2](https://cccbdb.nist.gov/)
+## Claims
+
+### Claim QC-C001
+
+Claim: The topic boundary includes wave properties, uncertainty principles, the Schrödinger equation, and operator and matrix methods.
+
+Evidence: QC-001
+
+Verification: Verified
+
+### Claim QC-C002
+
+Claim: Evaluating computational quantum-chemistry methods requires comparison with experimental and computed benchmark data for defined molecular systems and properties.
+
+Evidence: QC-002; QC-003
+
+Verification: Verified

@@ -1,19 +1,49 @@
-# Crystallography — Mathematics Research
+---
+topic: crystallography
+section: mathematics
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 4
+updated_by: codex
+---
 
-## Quantitative extraction queue
+# Crystallography — Mathematics
 
-- Bragg law.
-- Unit-cell parameter relationships.
-- Space-group symmetry operations.
-- Diffraction geometry.
-- Structure-factor equations.
-- Fourier electron-density maps.
-- Refinement residuals.
-- Atomic displacement parameters.
+## Claims
 
-## Source anchors
+### Claim CRY-C013
 
-- Source: IUCr
-  Publication: Commission on Crystallographic Nomenclature
-  Confidence: High
-  Evidence: IUCr lists reports on Seitz symbols for crystallographic symmetry operations and symbols for arithmetic crystal classes, Bravais classes, and space groups. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)
+Claim: A reciprocal-lattice node can be represented by an integer linear combination of the reciprocal basis vectors.
+
+Evidence: CRY-003
+
+Verification: Verified
+
+### Claim CRY-C014
+
+Claim: In the reciprocal-space convention used by the IUCr dictionary source, the magnitude of the reciprocal-lattice vector associated with an indexed plane family is the inverse of its indexed spacing.
+
+Evidence: CRY-003
+
+Verification: Verified
+
+### Claim CRY-C015
+
+Claim: The diffraction condition can be expressed as the Bragg relation connecting wavelength, plane spacing, angle, and reflection order.
+
+Evidence: CRY-003; CRY-004
+
+Verification: Verified
+
+### Claim CRY-C016
+
+Claim: A common crystallographic refinement objective minimizes a weighted sum of squared differences between observed and calculated reflection measures.
+
+Evidence: CRY-006
+
+Verification: Verified
+
+Structured equations, conventions, and limitations are recorded in `equations.md`.

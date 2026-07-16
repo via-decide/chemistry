@@ -1,16 +1,17 @@
+---
+topic: quantum-chemistry
+section: primary-literature
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: low
+primary_sources: 0
+secondary_sources: 3
+updated_by: codex
+---
+
 # Quantum Chemistry — Primary Literature
 
-## Primary-source extraction targets
+No primary-literature record has been promoted. The current source packet contains benchmark, educational, repository, and review records; it does not yet contain the foundational papers required by the repository contract.
 
-- Schrödinger wave mechanics papers.
-- Born-Oppenheimer approximation paper.
-- Heitler-London chemical bond paper.
-- Hartree and Fock self-consistent field papers.
-- Hohenberg-Kohn density functional theory paper.
-- Kohn-Sham density functional theory paper.
-
-## Current benchmark anchor
-
-- Source: NIST CCCBDB
-  Confidence: High
-  Evidence: NIST describes CCCBDB as a benchmark set for evaluating ab initio computational methods and comparing computational methods for prediction of gas-phase thermochemical properties. [3](https://cccbdb.nist.gov/summaryx.asp)
+Primary-source extraction targets are maintained only in `research-queue.md`.

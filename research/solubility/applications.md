@@ -1,23 +1,47 @@
-# Solubility — Applications Research
+---
+topic: solubility
+section: applications
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 6
+updated_by: codex
+---
 
-## Applications
+# Solubility — Applications
 
-- Pharmaceutical solubility.
-- Environmental fate.
-- Water chemistry.
-- Crystallization and solid-form control.
-- Analytical separations.
-- Chemical engineering phase equilibrium.
-- Materials processing.
+### Claim SOL-C010
 
-## Evidence cards
+Statement: The IUPAC–NIST Solubility Data Series compiles and critically evaluates experimental solubility data for gases, liquids, and solids in binary and multicomponent systems rather than treating one class of aqueous salts as the whole field.
 
-- Source: IUPAC / Pure and Applied Chemistry
-  Publication: Glossary of terms related to solubility
-  Confidence: High
-  Evidence: The glossary connects solubility with solids, liquids, gases, and related phenomena across disciplines. [6](https://media.iupac.org/publications/pac/2008/pdf/8002x0233.pdf)
+Evidence: SOL-008; SOL-009
 
-- Source: IUPAC / Pure and Applied Chemistry
-  Publication: Glossary of terms related to solubility
-  Confidence: High
-  Evidence: The IUPAC article page lists phase equilibria, solution equilibria, thermodynamics, solid-state equilibria, and solubility as keywords. [7](https://publications.iupac.org/pac/80/2/0233/index.html)
+Status: Verified
+
+### Claim SOL-C011
+
+Statement: Aqueous speciation and mineral saturation calculations require a declared thermodynamic database and activity model; PHREEQC provides multiple model families and exposes temperature, pressure, salinity, and reaction boundaries.
+
+Evidence: SOL-010
+
+Status: Verified
+
+### Claim SOL-C012
+
+Statement: Pharmaceutical solid forms can differ in solubility, stability, and other properties, so solid-form characterization and control may be material to product performance and manufacturing.
+
+Evidence: SOL-012; SOL-013; SOL-014
+
+Status: Verified
+
+## Application domains
+
+- Pharmaceutical solid-form and crystallization development.
+- Inorganic precipitation and product purification.
+- Water-treatment and environmental saturation assessment.
+- Solvent selection and separation-process design.
+- Evaluated-property data for modelling and reference work.
+
+Each application requires system-specific data; the list is not evidence for a universal solvent, process, or specification.
