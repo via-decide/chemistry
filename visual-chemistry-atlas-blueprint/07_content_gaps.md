@@ -7,7 +7,7 @@ Audit boundary: `4fa3d18928395d0216c4940d32e5c366f3a4e13c`. This is a publicatio
 | Priority | Failure | Evidence | Repair condition |
 | --- | --- | --- | --- |
 | Closed | Semantic citation contamination | 0 source/link-domain mismatch mentions across 0 files after repair commit `4fa3d18` | Reopen immediately if a named source and linked destination diverge |
-| P0 | Later-batch schema failure | 220 topic Markdown files lack required front matter; 80 required topic files are absent | Add the four missing core records to each affected topic and migrate all topic Markdown to the repository contract |
+| P0 | Later-batch schema failure | Audit baseline: 220 topic Markdown files lacked required front matter and 80 required topic files were absent. After repair batch R01: 209 lack front matter and 76 required files are absent | Continue restoring the four missing core records and migrating all Markdown records for the remaining 19 affected topics |
 | P0 | No scientific visual evidence | Zero image assets, zero Mermaid diagrams, zero embedded images, and zero mechanism headings | Commission visuals only after figure-level source packets are verified |
 | P0 | Quantitative incompleteness | 15 explicit equation records versus 120 equation targets named in metadata | Extract, verify, define, unit-check, and scope every equation before typesetting |
 | P0 | Mechanism incompleteness | Five phrase mentions of reaction mechanisms but no explicit mechanism record | Add source-verified elementary steps, electron accounting, conditions, stereochemical outcome, and limitations before any arrow-pushing art |
@@ -15,6 +15,14 @@ Audit boundary: `4fa3d18928395d0216c4940d32e5c366f3a4e13c`. This is a publicatio
 | P1 | Duplicate evidence identifiers | Evidence IDs are redefined across files in 9 topics | Store each evidence record once and reference it by canonical ID |
 | P1 | Graph duplication and defect | 17 duplicate node mentions; 18 duplicate edge mentions; missing endpoint `quantum-mechanics` | Produce one canonical node/edge graph and validate all endpoints |
 | P1 | Dataset absence | `datasets.md` files contain source catalogs but no dataset payloads, schemas, checksums, or licenses | Add external dataset manifests or explicitly keep data external with stable identifiers and retrieval dates |
+
+## Repair execution log
+
+| Batch | Date | Topic | Contract repair | Evidence normalization | Quantitative repair | Gate outcome |
+| --- | --- | --- | --- | --- | --- | --- |
+| R01 | 2026-07-17 | `quantum-chemistry` | Created `equations.md`, `terminology.md`, `common-misconceptions.md`, and `research-queue.md`; added contract front matter to all 11 existing Markdown records | Added 18 unique claim IDs and six canonical evidence IDs; removed duplicated inline evidence destinations from topic records | Added two bounded Schrödinger-equation records with variables, units, assumptions, limitations, sources, and explicit verification status | Repository schema restored for this topic. Equation spread S024 remains `Missing` until Born–Oppenheimer separation and basis expansion are sourced; other quantum-chemistry spreads remain `Needs Research` |
+
+R01 deliberately does not promote page readiness. Creating a record is not equivalent to verifying its scientific content.
 
 ## Page readiness outcome
 
@@ -48,10 +56,10 @@ These are prerequisite or bridge domains referenced by the repository but not re
 
 | Section class | Finding | Production impact |
 | --- | --- | --- |
-| `common-misconceptions.md` | Present in only 20 topics; many existing files contain a blank template | The mandatory misconception block cannot be populated reliably |
-| `equations.md` | Present in only 20 topics and contains 15 explicit records total | Quantitative spreads are missing or under-specified |
-| `terminology.md` | Present in only 20 topics; later topics use informal queues | Glossary cannot be treated as controlled vocabulary |
-| `research-queue.md` | Present in only 20 topics; later topics embed queues inside content files | Work status and publishable evidence are mixed |
+| `common-misconceptions.md` | Present in 21 topics after R01; many earlier files still contain a blank template and the repaired quantum record has no promotable misconception evidence | The mandatory misconception block cannot be populated reliably |
+| `equations.md` | Present in 21 topics after R01 and contains 17 explicit records total | Quantitative spreads are missing or under-specified |
+| `terminology.md` | Present in 21 topics after R01; 19 later-batch topics still use informal queues | Glossary cannot be treated as controlled vocabulary |
+| `research-queue.md` | Present in 21 topics after R01; 19 later-batch topics still embed future work inside content files | Work status and publishable evidence are mixed |
 | `research-frontier.md` | Early packages contain generic claims; later packages contain more specific papers whose claim support and context still require page-level verification | Research corner cannot be promoted automatically |
 | `industrial.md` | All topics have a file, but many are bullet lists or generic source anchors | Plant and equipment visuals lack process conditions, boundaries, and authoritative industrial references |
 | `history.md` | Several normalized duplicates and weak primary-source extraction | Timelines risk repeating generic history or misdating discoveries |
@@ -65,7 +73,7 @@ These are prerequisite or bridge domains referenced by the repository but not re
 | `atomic-structure` | None | 0 | 14 | 1 | 2 | 0 | topic-specific science and art review |
 | `periodic-table` | None | 0 | 15 | 0 | 3 | 0 | extract equations |
 | `stoichiometry` | None | 0 | 15 | 1 | 3 | 0 | topic-specific science and art review |
-| `quantum-chemistry` | equations.md, terminology.md, common-misconceptions.md, research-queue.md | 11 | 0 | 0 | 3 | 0 | create missing contract files; add front matter and claim IDs; extract equations |
+| `quantum-chemistry` | None | 0 | 18 | 2 | 3 | 0 | R01 contract repair complete; verify equation locators, extract Born–Oppenheimer and basis-set records, promote terminology and misconception evidence, and independently verify review claims |
 | `chemical-bonding` | None | 0 | 18 | 0 | 3 | 0 | extract equations |
 | `inorganic-chemistry` | None | 0 | 8 | 1 | 2 | 0 | topic-specific science and art review |
 | `coordination-chemistry` | None | 0 | 10 | 1 | 1 | 0 | topic-specific science and art review |

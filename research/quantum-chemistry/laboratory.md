@@ -1,21 +1,33 @@
-# Quantum Chemistry — Laboratory Research
+---
+topic: quantum-chemistry
+section: laboratory
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: medium
+primary_sources: 2
+secondary_sources: 4
+updated_by: codex
+---
 
-## Computational laboratory methods
+# Quantum Chemistry — Laboratory
 
-- Geometry optimization.
-- Frequency calculation.
-- Thermochemical-property prediction.
-- Benchmarking against experimental data.
-- Electronic-structure calculation.
-- Molecular orbital analysis.
-- Property prediction.
+## Claims
 
-## Dataset anchors
+### Claim QC-C013
 
-- Source: NIST CCCBDB
-  Confidence: High
-  Evidence: NIST states that CCCBDB contains experimental and computed thermochemical data and tools for comparing experimental and computational thermochemical properties. [2](https://cccbdb.nist.gov/)
+Claim: A computational workflow can compare predicted thermochemical properties with experimental values in the NIST benchmark database.
 
-- Source: NIST CCCBDB Summary
-  Confidence: High
-  Evidence: NIST states that CCCBDB includes data needed to compute thermochemical properties, such as geometries, rotational constants, vibrational frequencies, barriers to internal rotation, and electronic energy levels. [3](https://cccbdb.nist.gov/summaryx.asp)
+Evidence: QC-002; QC-003
+
+Verification: Verified
+
+### Claim QC-C014
+
+Claim: The benchmark inputs include geometries, rotational constants, vibrational frequencies, barriers to internal rotation, and electronic energy levels.
+
+Evidence: QC-003
+
+Verification: Verified
+
+No software-specific protocol, convergence criterion, uncertainty budget, or reproducibility checklist has been promoted.

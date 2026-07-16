@@ -1,24 +1,31 @@
-# Quantum Chemistry — Applications Research
+---
+topic: quantum-chemistry
+section: applications
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: medium
+primary_sources: 2
+secondary_sources: 4
+updated_by: codex
+---
 
-## Applications
+# Quantum Chemistry — Applications
 
-- Chemical bonding.
-- Spectroscopy.
-- Reaction mechanisms.
-- Catalysis.
-- Materials discovery.
-- Molecular design.
-- Quantum computing.
-- Machine learning for molecular properties.
+## Claims
 
-## Evidence cards
+### Claim QC-C009
 
-- Source: Chemical Society Reviews
-  Publication: Quantum machine learning for chemistry and physics
-  Confidence: High
-  Evidence: RSC lists applications including many-body structure and property prediction for molecules, materials, lattice models, spin systems, force-field estimation, molecular dynamics, drug discovery, and pharmaceutical applications.
+Claim: The collected quantum-machine-learning review covers molecular and materials property prediction, force-field estimation, molecular dynamics, drug discovery, and pharmaceutical applications.
 
-- Source: Reviews of Modern Physics
-  Publication: Quantum computational chemistry
-  Confidence: High
-  Evidence: The review abstract states that quantum computational chemistry bridges computational chemistry and quantum computing and reviews major developments with focus on near-term quantum computation.
+Evidence: QC-006
+
+Verification: Needs verification
+
+### Claim QC-C010
+
+Claim: The collected quantum-computational-chemistry review connects computational chemistry with quantum computing and focuses on near-term quantum computation.
+
+Evidence: QC-005
+
+Verification: Needs verification

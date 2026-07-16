@@ -1,31 +1,31 @@
-# Quantum Chemistry — Fundamentals Research
+---
+topic: quantum-chemistry
+section: fundamentals
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: medium
+primary_sources: 2
+secondary_sources: 4
+updated_by: codex
+---
 
-## Core concepts
+# Quantum Chemistry — Fundamentals
 
-- Source: MIT OpenCourseWare
-  Publication: Quantum Mechanics I
-  Confidence: High
-  Evidence: MIT OCW states that the course covers wave properties, uncertainty principles, the Schrödinger equation, and operator and matrix methods. [1](https://ocw.mit.edu/courses/5-73-quantum-mechanics-i-fall-2018/)
+## Claims
 
-- Source: MIT OpenCourseWare
-  Publication: Introductory Quantum Mechanics I
-  Confidence: High
-  Evidence: MIT OCW states that the course discusses one-dimensional potentials, the harmonic oscillator, hydrogen atom, angular momentum, spin, the variational principle, and perturbation theory. [4](https://ocw.mit.edu/courses/5-73-quantum-mechanics-i-fall-2018/)
+### Claim QC-C003
 
-- Source: NIST CCCBDB
-  Confidence: High
-  Evidence: NIST states that CCCBDB includes vibrational frequencies, rotational constants, electric dipoles, electric quadrupoles, and polarizabilities. [2](https://cccbdb.nist.gov/)
+Claim: A quantum-mechanics foundation for chemistry includes one-dimensional potentials, the harmonic oscillator, the hydrogen atom, angular momentum, spin, the variational principle, and perturbation theory.
 
-## Terminology queue
+Evidence: QC-001
 
-- wavefunction
-- operator
-- Hamiltonian
-- eigenvalue
-- eigenfunction
-- Schrödinger equation
-- Born-Oppenheimer approximation
-- electronic structure
-- Hartree-Fock
-- density functional theory
-- basis set
+Verification: Verified
+
+### Claim QC-C004
+
+Claim: Quantum-chemical calculations can be compared with evaluated molecular properties including vibrational frequencies, rotational constants, electric dipoles, electric quadrupoles, and polarizabilities.
+
+Evidence: QC-002
+
+Verification: Verified
