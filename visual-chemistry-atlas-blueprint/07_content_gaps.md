@@ -7,9 +7,9 @@ Audit boundary: `4fa3d18928395d0216c4940d32e5c366f3a4e13c`. This is a publicatio
 | Priority | Failure | Evidence | Repair condition |
 | --- | --- | --- | --- |
 | Closed | Semantic citation contamination | 0 source/link-domain mismatch mentions across 0 files after repair commit `4fa3d18` | Reopen immediately if a named source and linked destination diverge |
-| P0 | Later-batch schema failure | Audit baseline: 220 topic Markdown files lacked required front matter and 80 required topic files were absent. After repair batch R03: 187 lack front matter and 68 required files are absent | Continue restoring the four missing core records and migrating all Markdown records for the remaining 17 affected topics |
+| P0 | Later-batch schema failure | Audit baseline: 220 topic Markdown files lacked required front matter and 80 required topic files were absent. After repair batch R04: 176 lack front matter and 64 required files are absent | Continue restoring the four missing core records and migrating all Markdown records for the remaining 16 affected topics |
 | P0 | No scientific visual evidence | Zero image assets, zero Mermaid diagrams, zero embedded images, and zero mechanism headings | Commission visuals only after figure-level source packets are verified |
-| P0 | Quantitative incompleteness | 27 explicit equation records versus 120 equation targets named in metadata | Extract, verify, define, unit-check, and scope every equation before typesetting |
+| P0 | Quantitative incompleteness | 33 explicit equation records versus 120 equation targets named in metadata | Extract, verify, define, unit-check, and scope every equation before typesetting |
 | P0 | Mechanism incompleteness | Five phrase mentions of reaction mechanisms but no explicit mechanism record | Add source-verified elementary steps, electron accounting, conditions, stereochemical outcome, and limitations before any arrow-pushing art |
 | P1 | Template duplication | 3 exact and 24 normalized duplicate groups | Replace generic claims, quality scores, histories, and misconception templates with topic-specific records |
 | P1 | Duplicate evidence identifiers | Evidence IDs are redefined across files in 9 topics | Store each evidence record once and reference it by canonical ID |
@@ -23,8 +23,9 @@ Audit boundary: `4fa3d18928395d0216c4940d32e5c366f3a4e13c`. This is a publicatio
 | R01 | 2026-07-17 | `quantum-chemistry` | Created `equations.md`, `terminology.md`, `common-misconceptions.md`, and `research-queue.md`; added contract front matter to all 11 existing Markdown records | Added 18 unique claim IDs and six canonical evidence IDs; removed duplicated inline evidence destinations from topic records | Added two bounded Schrödinger-equation records with variables, units, assumptions, limitations, sources, and explicit verification status | Repository schema restored for this topic. Equation spread S024 remains `Missing` until Born–Oppenheimer separation and basis expansion are sourced; other quantum-chemistry spreads remain `Needs Research` |
 | R02 | 2026-07-17 | `crystallography` | Created the four missing contract records, migrated all 11 existing Markdown records, and added `source-packets.md` | Added 19 unique claim IDs and ten canonical evidence IDs from IUCr, an open-access IUCr primary paper, and CCDC; established one verified authoritative packet for each of S039–S042 | Added four equation records covering reciprocal vectors, indexed spacing, the Bragg relation, and the weighted refinement objective | Repository schema and source-packet gates restored. All four spreads are eligible for `Needs Research` after deterministic blueprint re-audit; no final-art promotion is authorized |
 | R03 | 2026-07-17 | `nuclear-chemistry` | Created the four missing contract records, migrated all 11 existing Markdown records, and added `source-packets.md` | Added 23 unique claim IDs and 18 canonical evidence IDs from IUPAC, NNDC, NIST, the European Commission JRC, and IAEA; established one verified authoritative packet for each of S043–S046 | Added six equation records covering differential and integrated decay, activity, half-life, nuclear mass–energy balance, and calibrated HPGe activity measurement | Repository schema and source-packet gates restored. All four spreads are eligible for `Needs Research` after deterministic blueprint re-audit; no final-art promotion is authorized |
+| R04 | 2026-07-17 | `solubility` | Created the four missing contract records, migrated all 11 existing Markdown records, and added `source-packets.md` | Added 26 unique claim IDs and 16 canonical evidence IDs from IUPAC, USGS, OECD, ICH, FDA, and contextualized peer-reviewed crystallization literature; established one verified authoritative packet for each of S073–S076 | Added six equation records covering standard equilibrium constants, activity correction, thermodynamic solubility product, ion-activity product, saturation index, and a bounded idealized molar-solubility relation | Repository schema and source-packet gates restored. All four spreads are eligible for `Needs Research` after deterministic blueprint re-audit; no final-art promotion is authorized |
 
-R01–R03 deliberately do not promote page readiness in the frozen audit tables. Creating a record or verifying a source packet is not equivalent to approving final scientific copy or art.
+R01–R04 deliberately do not promote page readiness in the frozen audit tables. Creating a record or verifying a source packet is not equivalent to approving final scientific copy or art.
 
 ## Page readiness outcome
 
@@ -58,10 +59,10 @@ These are prerequisite or bridge domains referenced by the repository but not re
 
 | Section class | Finding | Production impact |
 | --- | --- | --- |
-| `common-misconceptions.md` | Present in 23 topics after R03; many earlier files still contain a blank template and the repaired quantum record has no promotable misconception evidence | The mandatory misconception block cannot be populated reliably |
-| `equations.md` | Present in 23 topics after R03 and contains 27 explicit records total | Quantitative spreads are missing or under-specified |
-| `terminology.md` | Present in 23 topics after R03; 17 later-batch topics still use informal queues | Glossary cannot be treated as controlled vocabulary |
-| `research-queue.md` | Present in 23 topics after R03; 17 later-batch topics still embed future work inside content files | Work status and publishable evidence are mixed |
+| `common-misconceptions.md` | Present in 24 topics after R04; many earlier files still contain a blank template and the repaired quantum record has no promotable misconception evidence | The mandatory misconception block cannot be populated reliably |
+| `equations.md` | Present in 24 topics after R04 and contains 33 explicit records total | Quantitative spreads are missing or under-specified |
+| `terminology.md` | Present in 24 topics after R04; 16 later-batch topics still use informal queues | Glossary cannot be treated as controlled vocabulary |
+| `research-queue.md` | Present in 24 topics after R04; 16 later-batch topics still embed future work inside content files | Work status and publishable evidence are mixed |
 | `research-frontier.md` | Early packages contain generic claims; later packages contain more specific papers whose claim support and context still require page-level verification | Research corner cannot be promoted automatically |
 | `industrial.md` | All topics have a file, but many are bullet lists or generic source anchors | Plant and equipment visuals lack process conditions, boundaries, and authoritative industrial references |
 | `history.md` | Several normalized duplicates and weak primary-source extraction | Timelines risk repeating generic history or misdating discoveries |
@@ -87,7 +88,7 @@ These are prerequisite or bridge domains referenced by the repository but not re
 | `solutions-and-colloids` | None | 0 | 11 | 1 | 1 | 0 | topic-specific science and art review |
 | `chemical-equilibrium` | None | 0 | 30 | 0 | 0 | 0 | extract equations; verify at least one authoritative source per spread |
 | `acids-and-bases` | None | 0 | 30 | 0 | 2 | 0 | extract equations |
-| `solubility` | equations.md, terminology.md, common-misconceptions.md, research-queue.md | 11 | 0 | 0 | 0 | 0 | create missing contract files; add front matter and claim IDs; extract equations; verify at least one authoritative source per spread |
+| `solubility` | None | 0 | 26 | 6 | 16 | 0 | R04 contract and four spread packets complete; freeze the S073 evaluated system, build and independently recompute the S074 coupled-equilibrium example, choose one S075 method inside its scope, and add solvent-safety and scale-up evidence for S076 before final-art promotion |
 | `electrochemistry` | None | 0 | 9 | 2 | 0 | 0 | verify at least one authoritative source per spread |
 | `chemical-kinetics` | None | 0 | 30 | 0 | 0 | 0 | extract equations; verify at least one authoritative source per spread |
 | `photochemistry` | equations.md, terminology.md, common-misconceptions.md, research-queue.md | 11 | 0 | 0 | 1 | 0 | create missing contract files; add front matter and claim IDs; extract equations |

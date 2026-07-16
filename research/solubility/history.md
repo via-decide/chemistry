@@ -1,17 +1,23 @@
-# Solubility — History Research
+---
+topic: solubility
+section: history
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 2
+updated_by: codex
+---
 
-## Historical source anchors
+# Solubility — History
 
-- Source: IUPAC / Pure and Applied Chemistry
-  Publication: Glossary of terms related to solubility
-  Confidence: High
-  Evidence: The IUPAC document identifies itself as Glossary of terms related to solubility, IUPAC Recommendations 2008. [6](https://media.iupac.org/publications/pac/2008/pdf/8002x0233.pdf)
+### Claim SOL-C024
 
-## Primary-literature extraction queue
+Statement: The IUPAC Solubility Data Series began with a project formed in the mid-1970s and its first volume, on helium and neon, was published in 1979; later volumes became the IUPAC–NIST Solubility Data Series.
 
-- IUPAC Solubility Data Series records.
-- Solubility product papers.
-- Phase-equilibrium studies.
-- Crystallization studies.
-- Electrolyte solubility papers.
-- Environmental solubility and partitioning papers.
+Evidence: SOL-008; SOL-009
+
+Status: Verified
+
+Boundary: This provenance supports a future atlas timeline only after dated milestones, responsible bodies, and representative volumes are selected from the series record. It does not establish a complete history of solubility science.

@@ -1,19 +1,47 @@
-# Solubility — Mathematics Research
+---
+topic: solubility
+section: mathematics
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 5
+updated_by: codex
+---
 
-## Quantitative extraction queue
+# Solubility — Mathematics
 
-- Solubility product.
-- Activity expressions.
-- Concentration units.
-- Phase-equilibrium relationships.
-- Temperature dependence of solubility.
-- Speciation calculations.
-- Precipitation thresholds.
-- Saturation index.
+### Claim SOL-C016
 
-## Source anchor
+Statement: For a declared reaction, the standard equilibrium constant is the product of reactant and product activities raised to signed stoichiometric numbers.
 
-- Source: IUPAC / Pure and Applied Chemistry
-  Publication: Glossary of terms related to solubility
-  Confidence: High
-  Evidence: IUPAC lists solubility, solution equilibria, phase equilibria, thermodynamics, molten salt equilibria, and solid-state equilibria as keywords or related areas for the glossary. [7](https://publications.iupac.org/pac/80/2/0233/index.html)
+Evidence: SOL-005; SOL-006
+
+Status: Verified
+
+### Claim SOL-C017
+
+Statement: For dissolution of a pure ionic solid, the solubility product contains the dissolved-ion activities and omits the pure solid only under its unit-activity standard-state convention.
+
+Evidence: SOL-004; SOL-005
+
+Status: Verified
+
+### Claim SOL-C018
+
+Statement: A saturation index compares an ion-activity product with the applicable thermodynamic solubility product; its sign identifies under-, exact-, or supersaturation, not the instantaneous reaction rate.
+
+Evidence: SOL-010
+
+Status: Verified
+
+### Claim SOL-C019
+
+Statement: Common-ion, acid–base, complexation, and ionic-strength effects enter through mass balance, charge balance, speciation, and activity coefficients, so stoichiometric concentration alone is not generally sufficient.
+
+Evidence: SOL-004; SOL-007; SOL-010
+
+Status: Verified
+
+The bounded equation records, assumptions, and unit conventions are in `equations.md`.

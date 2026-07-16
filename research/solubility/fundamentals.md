@@ -1,26 +1,69 @@
-# Solubility — Fundamentals Research
+---
+topic: solubility
+section: fundamentals
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 12
+updated_by: codex
+---
 
-## Core concepts
+# Solubility — Fundamentals
 
-- Source: IUPAC / Pure and Applied Chemistry
-  Publication: Glossary of terms related to solubility
-  Confidence: High
-  Evidence: The glossary abstract states that the diversity of backgrounds of individuals concerned with solubility creates potential for confusion and miscommunication, motivating an authoritative glossary. [6](https://media.iupac.org/publications/pac/2008/pdf/8002x0233.pdf)
+### Claim SOL-C003
 
-- Source: IUPAC / Pure and Applied Chemistry
-  Publication: Glossary of terms related to solubility
-  Confidence: High
-  Evidence: IUPAC states that glossary definitions are consistent with IUPAC recommendations for terminology and nomenclature. [6](https://media.iupac.org/publications/pac/2008/pdf/8002x0233.pdf)
+Statement: Dissolution is the mixing of two phases with formation of one new homogeneous phase, the solution.
 
-## Terminology queue
+Evidence: SOL-003
 
-- solubility
-- saturation
-- solute
-- solvent
-- activity
-- phase equilibrium
-- solubility product
-- crystallization
-- precipitation
-- solution equilibrium
+Status: Verified
+
+### Claim SOL-C004
+
+Statement: Equilibrium solubility describes the composition of a saturated solution under specified conditions rather than the speed at which that state is approached.
+
+Evidence: SOL-001; SOL-002; SOL-011
+
+Status: Verified
+
+### Claim SOL-C005
+
+Statement: Saturation is a phase-equilibrium boundary; stirring and mixing history may alter equilibration time or metastable behaviour without redefining the equilibrium value when temperature, pressure, composition, phase identity, and particle-curvature regime remain unchanged.
+
+Evidence: SOL-001; SOL-009; SOL-011
+
+Status: Verified
+
+### Claim SOL-C006
+
+Statement: A thermodynamic solubility product is expressed using ion activities raised to stoichiometric powers in a saturated solution, with the solid-phase convention stated.
+
+Evidence: SOL-004; SOL-005
+
+Status: Verified
+
+### Claim SOL-C007
+
+Statement: A standard equilibrium constant is dimensionless and is constructed from activities consistent with the declared reaction and standard states.
+
+Evidence: SOL-005; SOL-006
+
+Status: Verified
+
+### Claim SOL-C008
+
+Statement: Activity coefficients represent non-ideality and cannot be silently replaced by unity outside a justified approximation regime.
+
+Evidence: SOL-006; SOL-007; SOL-010
+
+Status: Verified
+
+### Claim SOL-C009
+
+Statement: Solubility can differ with solid form, solvate or hydrate state, solution speciation, pH, complexation, ionic strength, temperature, and solvent composition; chemical formula alone does not define the equilibrium system.
+
+Evidence: SOL-001; SOL-010; SOL-012; SOL-014
+
+Status: Verified

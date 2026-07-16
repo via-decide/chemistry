@@ -1,24 +1,42 @@
-# Solubility — Overview Research
+---
+topic: solubility
+section: overview
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 4
+updated_by: codex
+---
 
-## Scope
+# Solubility — Overview
 
-- Solubility of solids, liquids, and gases.
-- Solution equilibria.
-- Phase equilibria.
-- Saturation.
-- Activity and concentration.
-- Solubility product.
-- Crystallization and precipitation.
-- Solubility terminology.
+## Publication boundary
 
-## Source anchors
+This topic covers equilibrium solubility, dissolution and phase return, activity-based saturation calculations, measurement boundaries, and crystallization-route selection. Dissolution rate, formulation performance, and nucleation kinetics are included only where needed to prevent them from being mistaken for equilibrium solubility.
 
-- Source: IUPAC / Pure and Applied Chemistry
-  Publication: Glossary of terms related to solubility
-  Confidence: High
-  Evidence: The IUPAC glossary abstract states that phenomena related to solubility of solids, liquids, and gases with one another are relevant to scientists and technologists in many disciplines. [6](https://media.iupac.org/publications/pac/2008/pdf/8002x0233.pdf)
+### Claim SOL-C001
 
-- Source: IUPAC / Pure and Applied Chemistry
-  Publication: Glossary of terms related to solubility
-  Confidence: High
-  Evidence: The glossary defines 166 terms used to describe solubility and related phenomena. [6](https://media.iupac.org/publications/pac/2008/pdf/8002x0233.pdf)
+Statement: Solubility is the analytical composition of a saturated solution expressed on a declared concentration, molality, mole-fraction, mole-ratio, or other valid composition basis.
+
+Evidence: SOL-001; SOL-002
+
+Status: Verified
+
+### Claim SOL-C002
+
+Statement: A publishable solubility value must identify the chemical species or component, solvent or mixture, temperature, pressure when material, solid or fluid phase, composition basis, and experimental or evaluated-data source.
+
+Evidence: SOL-001; SOL-008; SOL-009
+
+Status: Verified
+
+## Atlas use
+
+- S073: dissolution, saturation, and precipitation cycle.
+- S074: activity-based solubility-product and coupled-equilibrium calculation.
+- S075: equilibrium-solubility measurement and sampling boundary.
+- S076: crystallization-route and solid-form decision boundary.
+
+The source packets for these spreads are stored in `source-packets.md`.
