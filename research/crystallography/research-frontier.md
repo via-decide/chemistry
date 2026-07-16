@@ -1,22 +1,33 @@
+---
+topic: crystallography
+section: research-frontier
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: medium
+primary_sources: 1
+secondary_sources: 0
+updated_by: codex
+---
+
 # Crystallography — Research Frontier
 
-## Curated source anchors
+## Record CRY-RF001
 
-### IUCr nomenclature reports
+Title: A multipurpose laboratory diffractometer for operando powder X-ray diffraction investigations of energy materials
 
-- Title: IUCr Commission on Crystallographic Nomenclature reports
-- Publisher: IUCr
-- Type: Standards and nomenclature reports
-- Reliability: High
-- Evidence: IUCr lists reports covering Seitz symbols for crystallographic symmetry operations, crystal phase identifiers, synchrotron radiation nomenclature, n-dimensional crystallography, phase transitions, symmetry elements, and inorganic structure types. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)
-- Frontier theme: crystallographic nomenclature, structure representation, symmetry standards.
+Authors: Holger Geßwein; Pirmin Stüble; Daniel Weber; Joachim R. Binder; Reiner Mönig
 
-## Review-paper collection queue
+Journal: Journal of Applied Crystallography
 
-- Crystallographic Information File standards.
-- Structure refinement.
-- Electron diffraction.
-- Serial crystallography.
-- In situ crystallography.
-- Crystallography in pharmaceuticals.
-- Crystallography in materials discovery.
+Year: 2022
+
+DOI: 10.1107/S1600576722003089
+
+Evidence: CRY-005
+
+Verification: Verified
+
+Frontier theme: time-resolved laboratory powder diffraction, operando energy-material measurements, and flexible instrument geometry.
+
+The source describes one instrument and cannot establish a universal configuration or performance envelope.

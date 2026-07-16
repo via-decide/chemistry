@@ -1,17 +1,25 @@
-# Crystallography — History Research
+---
+topic: crystallography
+section: history
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: medium
+primary_sources: 0
+secondary_sources: 2
+updated_by: codex
+---
 
-## Historical source anchors
+# Crystallography — History
 
-- Source: IUCr
-  Publication: Commission on Crystallographic Nomenclature
-  Confidence: High
-  Evidence: IUCr lists past reports from working groups on crystallographic nomenclature, including reports on inorganic structure types, symmetry elements, phase transitions, atomic displacement parameters, and crystal phase identifiers. [6](https://www.iucr.org/resources/commissions/crystallographic-nomenclature)
+## Claims
 
-## Primary-literature extraction queue
+### Claim CRY-C008
 
-- Laue diffraction papers.
-- Bragg diffraction papers.
-- Early X-ray crystal structure papers.
-- International Tables for Crystallography.
-- Crystallographic Information File standard papers.
-- IUCr nomenclature reports.
+Claim: The current IUCr nomenclature index preserves a record of reports on symmetry elements and operations, phase transitions, atomic displacement parameters, crystal phase identifiers, and inorganic structure types.
+
+Evidence: CRY-001
+
+Verification: Verified
+
+No discovery chronology has been promoted. Foundational-paper and International Tables extraction remains in `research-queue.md`.
