@@ -1,29 +1,47 @@
-# Photochemistry — Applications Research
+---
+topic: photochemistry
+section: applications
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 6
+updated_by: codex
+---
 
-## Applications
+# Photochemistry — Applications
 
-- Visible-light organic synthesis.
-- Photoredox catalysis.
-- Photodynamic therapy.
-- Photoresponsive drug delivery.
-- Solar photochemistry.
-- Photocatalytic environmental remediation.
-- Sensors and imaging.
-- Materials science.
+### Claim PHO-C011
 
-## Evidence cards
+Statement: Visible-light photoredox catalysis uses a photoactive catalyst or sensitizer to access an excited state capable of electron transfer, energy transfer, or coupled pathways that differ from the ground-state reaction network.
 
-- Source: Chemical Reviews
-  Publication: Introduction: Photochemical Catalytic Processes
-  Confidence: High
-  Evidence: ACS states that photoredox catalysis uses light-absorbing metal or organic catalysts to harness visible-light energy to accelerate chemical processes. [10](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.1c00993?download=true)
+Evidence: PHO-015; PHO-016; PHO-020
 
-- Source: Chemical Society Reviews
-  Publication: Synergistic SET-EnT pathways
-  Confidence: High
-  Evidence: RSC states that combining single-electron transfer and energy-transfer catalysis can unlock reactivity and selectivity beyond either mode alone. [14](https://pubs.rsc.org/cs/article/55/7/4224/1235794/Beyond-single-pathways-synergistic-SET-EnT)
+Status: Verified
 
-- Source: Chemical Society Reviews
-  Publication: Photopharmacology and photoresponsive drug delivery
-  Confidence: High
-  Evidence: RSC states that light has high spatial and temporal resolution and can regulate biological processes through photopharmacology and photoresponsive drug delivery. [12](https://pubs.rsc.org/cs/article/54/12/5792/888123/Photopharmacology-and-photoresponsive-drug)
+### Claim PHO-C012
+
+Statement: Photocatalytic applications must distinguish homogeneous, heterogeneous, and photoelectrochemical boundaries and must identify which substance absorbs light and how catalytic turnover is established.
+
+Evidence: PHO-017; PHO-018
+
+Status: Verified
+
+### Claim PHO-C013
+
+Statement: Photopharmacology and photoresponsive drug delivery use light to control bioactive molecules or delivery systems with spatial and temporal selectivity, but wavelength, penetration, dose, photoproducts, and biological validation remain system-specific.
+
+Evidence: PHO-021
+
+Status: Verified
+
+## Application domains
+
+- Visible-light synthesis and photocatalysis.
+- Photoresponsive materials and polymer curing.
+- Solar-fuel and energy-conversion research.
+- Environmental photolysis and photocatalytic treatment.
+- Imaging, sensing, photopharmacology, and photodynamic applications.
+
+These domains are contexts for spread selection, not evidence for one transferable mechanism, reactor, wavelength, or industrial performance claim.

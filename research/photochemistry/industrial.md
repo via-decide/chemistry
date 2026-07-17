@@ -1,23 +1,35 @@
-# Photochemistry — Industrial Research
+---
+topic: photochemistry
+section: industrial
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 2
+updated_by: codex
+---
 
-## Industrial applications
+# Photochemistry — Industrial and Scale-up Context
 
-- Sustainable synthesis.
-- Photoredox catalysis.
-- Photomedicine.
-- Sensors.
-- Solar energy conversion.
-- Materials processing.
-- Photodynamic therapy.
-- Photoresponsive drug delivery.
+### Claim PHO-C014
 
-## Evidence cards
+Statement: Photochemical scale-up is constrained by spectral matching, optical attenuation, irradiated surface-to-volume ratio, photon transport, heat transfer, mass transfer, and residence-time or mixing distribution; increasing vessel diameter alone does not preserve reactor performance.
 
-- Source: PhotoIUPAC 2026
-  Confidence: Medium
-  Evidence: The symposium page states that topics include novel synthetic methods based on photocatalysis relevant to sustainable energy, photochemical reaction mechanisms, reactive intermediates, spectroscopy and microscopy methods, light energy conversion, sensors, materials, biomedical sciences, photobiology, and photomedicine. [11](https://iupac.org/event/30th-iupac-symposium-on-photochemistry/)
+Evidence: PHO-017; PHO-018
 
-- Source: Chemical Society Reviews
-  Publication: Photopharmacology and photoresponsive drug delivery
-  Confidence: High
-  Evidence: RSC states that the review covers optochemical technologies for controlling bioactive molecules and drug delivery systems with biomedical applications. [12](https://pubs.rsc.org/cs/article/54/12/5792/888123/Photopharmacology-and-photoresponsive-drug)
+Status: Verified
+
+### Claim PHO-C015
+
+Statement: Numbering-up, channel length, shallow optical paths, and intensified reactor geometries are possible scale-up strategies, but selection and setpoints are reaction-, source-, and process-specific rather than universal rankings.
+
+Evidence: PHO-018
+
+Status: Verified
+
+## Publication boundary
+
+- S087 may show laboratory or process-reactor callouts only after one geometry and operating mode are selected.
+- S088 may mention synthesis, energy, environmental, materials, or medical applications as context, but no yield, productivity, selectivity, energy-efficiency, cost, or sustainability claim is approved without a system-specific source and process boundary.
+- PHO-017 defines terminology and scale-up quantities; PHO-018 is a review and does not replace primary process data for the chosen example.

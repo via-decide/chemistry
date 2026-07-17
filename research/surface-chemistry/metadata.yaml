@@ -6,42 +6,55 @@ aliases:
 difficulty: intermediate
 prerequisites:
   - solutions-and-colloids
-  - materials-chemistry
+  - chemical-bonding
   - chemical-thermodynamics
 depends_on:
-  - adsorption
   - interfaces
-  - surface-forces
-  - surface-area
+  - adsorption
+  - interfacial-thermodynamics
+  - mass-transport
 used_by:
   - catalysis
-  - colloids
+  - chromatography
   - materials-chemistry
   - environmental-chemistry
   - analytical-chemistry
 industry_tags:
-  - catalysis
-  - adsorption
+  - adsorption-separations
+  - heterogeneous-catalysis
+  - surface-analysis
   - coatings
+  - corrosion-protection
   - sensors
-  - separations
-  - environmental remediation
-history_people: []
+history_people:
+  - Irving Langmuir
+  - Stephen Brunauer
+  - Paul Hugh Emmett
+  - Edward Teller
 equations:
-  - adsorption isotherms
   - surface excess
-  - Langmuir isotherm
-  - BET surface area
+  - surface excess concentration
+  - surface coverage
+  - Langmuir adsorption isotherm
+  - reversible surface work
+  - Gibbs adsorption relation
+  - BET gas-physisorption relation
 datasets:
-  - IUPAC Gold Book
-  - IUPAC Orange Book
-  - CRC Handbook
+  - IUPAC Gold Book version 5.0.0
+  - IUPAC surface and colloid terminology recommendations
+  - NIST X-ray Photoelectron Spectroscopy Database SRD 20 version 5.0
 related_topics:
   - solutions-and-colloids
+  - chemical-thermodynamics
+  - chemical-kinetics
   - catalysis
+  - chromatography
+  - analytical-chemistry
   - materials-chemistry
-  - environmental-chemistry
+  - corrosion
 source_balance_target:
   max_openstax_fraction: 0.05
   min_iupac_fraction: 0.30
-  min_review_fraction: 0.25
+  min_official_standards_and_data_fraction: 0.30
+  min_peer_reviewed_review_fraction: 0.10
+  min_primary_literature_fraction: 0.10

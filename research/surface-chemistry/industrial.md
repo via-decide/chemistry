@@ -1,23 +1,63 @@
-# Surface Chemistry — Industrial Research
+---
+topic: surface-chemistry
+section: industrial
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 6
+updated_by: codex
+---
 
-## Industrial applications
+# Surface Chemistry — Industrial
 
-- Heterogeneous catalysis.
-- Adsorption separations.
-- Gas purification.
-- Water treatment.
-- Coatings.
-- Sensors.
-- Environmental remediation.
-- Surface modification.
+### Claim SUR-C017
 
-## Evidence cards
+Statement: ISO 12944-1 defines the overall scope and project-use framework for corrosion protection of steel structures by protective paint systems.
 
-- Source: IUPAC Gold Book
-  Publication: adsorption
-  Confidence: High
-  Evidence: IUPAC states that adsorption can occur at condensed-liquid and condensed-gas interfaces. [13](https://goldbook.iupac.org/terms/view/A00155)
+Evidence: SUR-018
 
-- Source: Perry's Chemical Engineers' Handbook
-  Confidence: High
-  Evidence: Google Books listing for Perry’s 9th edition includes adsorption and ion exchange among covered chemical engineering topics. [12](https://books.google.com/books/about/Perry_s_Chemical_Engineers_Handbook_9th.html?id=WZJnDwAAQBAJ)
+Status: Verified
+
+### Claim SUR-C018
+
+Statement: ISO 12944-2 classifies principal exposure environments and their corrosivity, making the environmental boundary an input to protective-paint-system selection rather than an afterthought.
+
+Evidence: SUR-019
+
+Status: Verified
+
+### Claim SUR-C019
+
+Statement: ISO 12944-4 covers specified steel-surface types and preparation grades but excludes highly polished and work-hardened surfaces and does not itself set every pre-preparation substrate condition.
+
+Evidence: SUR-020
+
+Status: Verified
+
+### Claim SUR-C020
+
+Statement: ISO 12944-7 covers execution and supervision of paint work while explicitly leaving surface preparation to the relevant separate part and excluding several other coating and pretreatment routes.
+
+Evidence: SUR-021
+
+Status: Verified
+
+### Claim SUR-C021
+
+Statement: ISO 12944-8 links specifications for new work and maintenance with exposure, durability ranges, reference areas, project planning, and lifecycle decisions.
+
+Evidence: SUR-022
+
+Status: Verified
+
+### Claim SUR-C022
+
+Statement: ISO 4628-1 supplies a designation system for the quantity and size of coating defects and the intensity of uniform appearance changes caused by ageing or weathering.
+
+Evidence: SUR-023
+
+Status: Verified
+
+No universal paint formulation, preparation grade, application setpoint, inspection interval, service lifetime, or economics claim has been promoted.

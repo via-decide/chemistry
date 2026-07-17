@@ -5,9 +5,9 @@ nodes:
     type: topic
   - id: quantum-chemistry
     type: topic
-  - id: organic-chemistry
+  - id: chemical-kinetics
     type: topic
-  - id: catalysis
+  - id: atmospheric-chemistry
     type: topic
   - id: photoredox-catalysis
     type: concept
@@ -15,25 +15,25 @@ nodes:
 edges:
   - from: spectroscopy
     to: photochemistry
-    relation: measures_light_matter_interactions
+    relation: measures_absorption_emission_and_excited_state_dynamics
     confidence: high
 
   - from: quantum-chemistry
     to: photochemistry
-    relation: explains_excited_states
+    relation: supplies_electronic_state_and_transition_basis
+    confidence: high
+
+  - from: chemical-kinetics
+    to: photochemistry
+    relation: supplies_rate_and_competing_pathway_basis
     confidence: high
 
   - from: photochemistry
-    to: organic-chemistry
-    relation: enables_light_driven_synthesis
-    confidence: high
-
-  - from: photochemistry
-    to: catalysis
-    relation: supports_photocatalysis
+    to: atmospheric-chemistry
+    relation: supplies_spectral_photolysis_processes
     confidence: high
 
   - from: photoredox-catalysis
     to: photochemistry
-    relation: subfield
+    relation: application_subfield
     confidence: high

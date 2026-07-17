@@ -1,39 +1,39 @@
 nodes:
   - id: surface-chemistry
     type: topic
-  - id: adsorption
-    type: concept
   - id: solutions-and-colloids
+    type: topic
+  - id: chemical-thermodynamics
+    type: topic
+  - id: chemical-kinetics
     type: topic
   - id: catalysis
     type: topic
-  - id: materials-chemistry
-    type: topic
-  - id: environmental-chemistry
+  - id: chromatography
     type: topic
 
 edges:
-  - from: adsorption
-    to: surface-chemistry
-    relation: core_concept
-    confidence: high
-
   - from: solutions-and-colloids
     to: surface-chemistry
-    relation: overlaps_in_interfaces_and_colloids
+    relation: supplies_phase_interface_and_dispersion_basis
+    confidence: high
+
+  - from: chemical-thermodynamics
+    to: surface-chemistry
+    relation: supplies_chemical_potential_and_interfacial_work_basis
+    confidence: high
+
+  - from: chemical-kinetics
+    to: surface-chemistry
+    relation: supplies_transport_and_surface_rate_basis
     confidence: high
 
   - from: surface-chemistry
     to: catalysis
-    relation: supports_heterogeneous_catalysis
+    relation: supplies_adsorption_site_and_interface_basis
     confidence: high
 
   - from: surface-chemistry
-    to: materials-chemistry
-    relation: supports_surface_characterization_and_function
-    confidence: medium
-
-  - from: surface-chemistry
-    to: environmental-chemistry
-    relation: supports_sorption_and_transport
-    confidence: medium
+    to: chromatography
+    relation: supplies_stationary_phase_adsorption_basis
+    confidence: high
