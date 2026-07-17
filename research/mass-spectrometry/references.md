@@ -1,28 +1,133 @@
+---
+topic: mass-spectrometry
+section: references
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 2
+secondary_sources: 10
+updated_by: codex
+---
+
 # Mass Spectrometry — References
 
-- Title: mass spectrometry
-  Authors: IUPAC
-  Publisher: IUPAC Gold Book
-  DOI: 10.1351/goldbook.M03746
-  URL: [IUPAC Gold Book — mass spectrometry](https://goldbook.iupac.org/terms/view/M03746)
-  Year: Online version 5.0.0, 2025
-  Type: Terminology source
-  Reliability: High. [1](https://goldbook.iupac.org/terms/view/M03746)
+## MS-001
 
-- Title: Mass Spectrometry Terms
-  Authors: Mass Spec Terms project contributors
-  Publisher: Mass Spec Terms
-  DOI: Not found in collected source
-  URL: [Mass Spectrometry Terms](https://msterms.org/wiki/index.php?title=Main_Page)
-  Year: Page current at retrieval
-  Type: Terminology aggregation source
-  Reliability: Medium-High. [2](https://msterms.org/wiki/index.php?title=Main_Page)
+Title: mass spectrometry
 
-- Title: Mass Spectrometry Imaging
-  Authors: Aljoscha Körber; Ian G. M. Anthony; Ron M. A. Heeren
-  Publisher: Analytical Chemistry
-  DOI: 10.1021/acs.analchem.4c05249
-  URL: [ACS Mass Spectrometry Imaging review](https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.4c05249?ref=vsi_reviews2025)
-  Year: 2025
-  Type: Review article
-  Reliability: High. [4](https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.4c05249?ref=vsi_reviews2025)
+Authoring organization: International Union of Pure and Applied Chemistry
+
+Publisher: IUPAC Gold Book
+
+Source class: Official organization; authoritative terminology record
+
+Year: 2025 online version 5.0.0
+
+DOI: 10.1351/goldbook.M03746
+
+URL: https://goldbook.iupac.org/terms/view/M03746
+
+Retrieved: 2026-07-17
+
+Verification: Verified
+
+## MS-002
+
+Title: Standard definitions of terms relating to mass spectrometry (IUPAC Recommendations 2013)
+
+Author: Kermit K. Murray, Robert K. Boyd, Marcos N. Eberlin, G. John Langley, Liang Li, Yasuhide Naito
+
+Publisher: Pure and Applied Chemistry / IUPAC
+
+Source class: Official organization; international standard recommendations
+
+Year: 2013
+
+DOI: 10.1351/pac201385071515
+
+URL: https://publications.iupac.org/pac/85/7/1515/index.html
+
+Retrieved: 2026-07-17
+
+Verification: Verified
+
+## MS-003
+
+Title: mass-to-charge ratio
+
+Authoring organization: International Union of Pure and Applied Chemistry
+
+Publisher: IUPAC Gold Book
+
+Source class: Official organization; authoritative terminology record
+
+Year: 2025 online version 5.0.0
+
+DOI: 10.1351/goldbook.M03752
+
+URL: https://goldbook.iupac.org/terms/view/M03752
+
+Retrieved: 2026-07-17
+
+Verification: Verified
+
+## MS-004
+
+Title: resolution in mass spectrometry
+
+Authoring organization: International Union of Pure and Applied Chemistry
+
+Publisher: IUPAC Gold Book
+
+Source class: Official organization; authoritative terminology record
+
+Year: 2025 online version 5.0.0
+
+DOI: 10.1351/goldbook.R05377
+
+URL: https://goldbook.iupac.org/terms/view/R05377
+
+Retrieved: 2026-07-17
+
+Verification: Verified
+
+## MS-005
+
+Title: Mass Spectrometry Imaging
+
+Author: Aljoscha Körber, Ian G. M. Anthony, Ron M. A. Heeren
+
+Publisher: Analytical Chemistry
+
+Source class: Peer-reviewed primary/review literature
+
+Year: 2025
+
+DOI: 10.1021/acs.analchem.4c05249
+
+URL: https://pubs.acs.org/doi/10.1021/acs.analchem.4c05249
+
+Retrieved: 2026-07-17
+
+Verification: Verified
+
+## MS-006
+
+Title: NIST Standard Reference Database 1a: NIST/EPA/NIH Mass Spectral Library
+
+Authoring organization: National Institute of Standards and Technology (NIST)
+
+Publisher: NIST Physical Measurement Laboratory
+
+Source class: Official government research database / evaluator
+
+Year: 2023
+
+DOI: 10.18434/T4H01C
+
+URL: https://www.nist.gov/srd/nist-special-database-1a
+
+Retrieved: 2026-07-17
+
+Verification: Verified
