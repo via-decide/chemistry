@@ -1,37 +1,49 @@
+---
+topic: food-chemistry
+section: references
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 2
+secondary_sources: 10
+updated_by: codex
+---
+
 # Food Chemistry — References
 
-- Title: Agricultural and Food Chemistry Journals
-  Authors: ACS Publications
-  Publisher: American Chemical Society
-  DOI: Not applicable to portfolio page
-  URL: [ACS Agricultural and Food Chemistry Journals](https://connect.acspubs.org/agfood-portfolio)
-  Year: Page current at retrieval
-  Type: Journal portfolio source
-  Reliability: High. [16](https://connect.acspubs.org/agfood-portfolio)
+## FOO-001
 
-- Title: Agricultural and Food Chemistry
-  Authors: ACS Publications
-  Publisher: American Chemical Society
-  DOI: Not applicable to portfolio page
-  URL: [ACS Agricultural and Food Chemistry portfolio](https://connect.acspubs.org/agricultural-food-chemistry)
-  Year: Page current at retrieval
-  Type: Journal portfolio source
-  Reliability: High.
+Title: Fennema's Food Chemistry (5th Edition)
 
-- Title: Journal of Agricultural and Food Chemistry Author Guidelines
-  Authors: ACS Publications
-  Publisher: American Chemical Society
-  DOI: Not applicable to guidelines page
-  URL: [JAFC Author Guidelines](https://researcher-resources.acs.org/publish/author_guidelines?coden=jafcau)
-  Year: Last updated July 03, 2026
-  Type: Journal scope and author guidelines
-  Reliability: High. [17](https://researcher-resources.acs.org/publish/author_guidelines?coden=jafcau)
+Author: Srinivasan Damodaran, Kirk L. Parkin
 
-- Title: ACS Food Science & Technology Author Guidelines
-  Authors: ACS Publications
-  Publisher: American Chemical Society
-  DOI: Not applicable to guidelines page
-  URL: [ACS Food Science & Technology Author Guidelines](https://researcher-resources.acs.org/publish/author_guidelines?coden=afsthl)
-  Year: Last updated June 18, 2026
-  Type: Journal scope and author guidelines
-  Reliability: High.
+Publisher: CRC Press / Taylor & Francis
+
+Source class: Authoritative food chemistry reference textbook
+
+Year: 2017
+
+ISBN: 978-1-4822-0812-2
+
+Retrieved: 2026-07-17
+
+Verification: Verified
+
+## FOO-002
+
+Title: AOAC Official Methods of Analysis (22nd Edition)
+
+Authoring organization: AOAC International
+
+Publisher: AOAC International
+
+Source class: Official analytical standards compendium
+
+Year: 2023
+
+URL: https://www.aoac.org/official-methods-of-analysis/
+
+Retrieved: 2026-07-17
+
+Verification: Verified

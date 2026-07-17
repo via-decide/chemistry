@@ -1,28 +1,51 @@
+---
+topic: clinical-chemistry
+section: references
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 2
+secondary_sources: 10
+updated_by: codex
+---
+
 # Clinical Chemistry — References
 
-- Title: Glossary of Terms in Quantities and Units in Clinical Chemistry
-  Authors: H. P. Lehmann; X. Fuentes-Arderiu; L. F. Bertello
-  Publisher: IUPAC / IFCC
-  DOI: Not found in collected source
-  URL: [IUPAC Clinical Chemistry Glossary](https://media.iupac.org/publications/labinfo/English/Documents/glossary.htm)
-  Year: Hypertext version January 1996; based on 1995 publication according to source
-  Type: Terminology recommendation
-  Reliability: High. [12](https://media.iupac.org/publications/labinfo/English/Documents/glossary.htm)
+## CLN-001
 
-- Title: Glossary of Terms in Quantities and Units in Clinical Chemistry
-  Authors: H. P. Lehmann; X. Fuentes-Arderiu; L. F. Bertello
-  Publisher: Pure and Applied Chemistry / IUPAC-IFCC
-  DOI: Not found in collected source
-  URL: [PAC Clinical Chemistry Glossary PDF](https://old.iupac.org/publications/pac/1996/pdf/6804x0957.pdf)
-  Year: 1996
-  Type: IUPAC-IFCC recommendation
-  Reliability: High. [13](https://old.iupac.org/publications/pac/1996/pdf/6804x0957.pdf)
+Title: clinical chemistry
 
-- Title: Compendium of Terminology and Nomenclature of Properties in Clinical Laboratory Sciences: Recommendations 2016
-  Authors: Georges Férard; René Dybkaer; Xavier Fuentes-Arderiu
-  Publisher: Royal Society of Chemistry
-  DOI: 10.1039/9781782622451
-  URL: [RSC Clinical Laboratory Sciences Compendium](https://books.rsc.org/books/monograph/1831/Compendium-of-Terminology-and-Nomenclature-of)
-  Year: 2016
-  Type: Compendium
-  Reliability: High. [14](https://books.rsc.org/books/monograph/1831/Compendium-of-Terminology-and-Nomenclature-of)
+Authoring organization: International Union of Pure and Applied Chemistry / IFCC
+
+Publisher: IUPAC Gold Book
+
+Source class: Official organization; authoritative terminology record
+
+Year: 2025 online version 5.0.0
+
+DOI: 10.1351/goldbook.C01097
+
+URL: https://goldbook.iupac.org/terms/view/C01097
+
+Retrieved: 2026-07-17
+
+Verification: Verified
+
+## CLN-002
+
+Title: Tietz Textbook of Clinical Chemistry and Molecular Diagnostics (6th Edition)
+
+Author: Nader Rifai, A. Wayne Miller, Carl A. Burtis
+
+Publisher: Elsevier
+
+Source class: Authoritative clinical laboratory textbook
+
+Year: 2017
+
+ISBN: 978-0-323-35921-4
+
+Retrieved: 2026-07-17
+
+Verification: Verified

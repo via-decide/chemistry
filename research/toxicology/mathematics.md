@@ -1,3 +1,15 @@
+---
+topic: toxicology
+section: mathematics
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 2
+secondary_sources: 8
+updated_by: codex
+---
+
 # Toxicology — Mathematics Research
 
 ## Quantitative extraction queue

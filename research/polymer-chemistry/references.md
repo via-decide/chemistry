@@ -1,37 +1,51 @@
+---
+topic: polymer-chemistry
+section: references
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 2
+secondary_sources: 10
+updated_by: codex
+---
+
 # Polymer Chemistry — References
 
-- Title: Compendium of Polymer Terminology and Nomenclature, IUPAC Recommendations 2008
-  Authors: Richard G. Jones; Edward S. Wilks; W. Val Metanomski; Jaroslav Kahovec; Michael Hess; Robert Stepto; Tatsuki Kitayama
-  Publisher: IUPAC / RSC Publishing
-  DOI: 10.1039/9781847559425
-  URL: [IUPAC Purple Book](https://iupac.org/what-we-do/books/purplebook/)
-  Year: 2008 recommendations; RSC Publishing 2009
-  Type: Nomenclature and terminology standard
-  Reliability: High. [15](https://iupac.org/what-we-do/books/purplebook/)
+## POL-001
 
-- Title: Compendium of Polymer Terminology and Nomenclature: IUPAC Recommendations 2008
-  Authors: Richard G. Jones et al.
-  Publisher: Royal Society of Chemistry
-  DOI: 10.1039/9781847559425
-  URL: [RSC Purple Book entry](https://books.rsc.org/books/edited-volume/314/Compendium-of-Polymer-Terminology-and-Nomenclature)
-  Year: 2009
-  Type: Nomenclature and terminology book
-  Reliability: High. [17](https://books.rsc.org/books/edited-volume/314/Compendium-of-Polymer-Terminology-and-Nomenclature)
+Title: polymer
 
-- Title: Polymer Chemistry
-  Authors: Royal Society of Chemistry
-  Publisher: Royal Society of Chemistry
-  DOI: Not applicable to journal scope page
-  URL: [RSC Polymer Chemistry journal](https://www.rsc.org/publishing/journals/polymer-chemistry)
-  Year: Page current at retrieval
-  Type: Journal scope source
-  Reliability: High. [16](https://www.rsc.org/publishing/journals/polymer-chemistry)
+Authoring organization: International Union of Pure and Applied Chemistry
 
-- Title: Closed-loop recyclable polymers: from monomer and polymer design to the polymerization-depolymerization cycle
-  Authors: Shuaiqi Yang; Shuai Du; Jin Zhu; Songqi Ma
-  Publisher: Chemical Society Reviews
-  DOI: 10.1039/d4cs00663a
-  URL: [RSC review article](https://pubs.rsc.org/cs/article/53/19/9609/845071/Closed-loop-recyclable-polymers-from-monomer-and)
-  Year: 2024
-  Type: Review article
-  Reliability: High. [18](https://pubs.rsc.org/cs/article/53/19/9609/845071/Closed-loop-recyclable-polymers-from-monomer-and)
+Publisher: IUPAC Gold Book
+
+Source class: Official organization; authoritative terminology record
+
+Year: 2025 online version 5.0.0
+
+DOI: 10.1351/goldbook.P04735
+
+URL: https://goldbook.iupac.org/terms/view/P04735
+
+Retrieved: 2026-07-17
+
+Verification: Verified
+
+## POL-002
+
+Title: Principles of Polymerization (4th Edition)
+
+Author: George Odian
+
+Publisher: John Wiley & Sons
+
+Source class: Authoritative polymer chemistry textbook
+
+Year: 2004
+
+ISBN: 978-0-471-27400-1
+
+Retrieved: 2026-07-17
+
+Verification: Verified

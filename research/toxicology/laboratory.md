@@ -1,3 +1,15 @@
+---
+topic: toxicology
+section: laboratory
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 2
+secondary_sources: 8
+updated_by: codex
+---
+
 # Toxicology — Laboratory Research
 
 ## Laboratory methods

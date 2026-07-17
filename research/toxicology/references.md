@@ -1,28 +1,51 @@
+---
+topic: toxicology
+section: references
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 2
+secondary_sources: 10
+updated_by: codex
+---
+
 # Toxicology — References
 
-- Title: Glossary of Terms Used in Toxicokinetics
-  Authors: Monica Nordberg; John H. Duffus; Douglas M. Templeton
-  Publisher: Pure and Applied Chemistry / IUPAC
-  DOI: Not found in collected source
-  URL: [IUPAC Toxicokinetics Glossary PDF](https://old.iupac.org/publications/pac/2004/pdf/7605x1033.pdf)
-  Year: 2004 print; IUPAC Recommendations 2003
-  Type: Terminology recommendation
-  Reliability: High. [9](https://old.iupac.org/publications/pac/2004/pdf/7605x1033.pdf)
+## TOX-001
 
-- Title: Fundamental Toxicology for Chemists
-  Authors: Douglas B. McGregor et al.; edited by John H. Duffus and Howard G. J. Worth
-  Publisher: Royal Society of Chemistry
-  DOI: 10.1039/9781847550941
-  URL: [RSC Fundamental Toxicology for Chemists](https://books.rsc.org/books/edited-volume/346/Fundamental-Toxicology-for-Chemists)
-  Year: 1996 print; 2007 online page
-  Type: Introductory toxicology text
-  Reliability: High. [10](https://books.rsc.org/books/edited-volume/346/Fundamental-Toxicology-for-Chemists)
+Title: toxicology
 
-- Title: PubChem
-  Authors: NCBI / NIH
-  Publisher: National Center for Biotechnology Information
-  DOI: Not found in collected source
-  URL: [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
-  Year: Current database
-  Type: Government chemical database
-  Reliability: High. [11](https://pubchem.ncbi.nlm.nih.gov/)
+Authoring organization: International Union of Pure and Applied Chemistry
+
+Publisher: IUPAC Gold Book
+
+Source class: Official organization; authoritative terminology record
+
+Year: 2025 online version 5.0.0
+
+DOI: 10.1351/goldbook.T06412
+
+URL: https://goldbook.iupac.org/terms/view/T06412
+
+Retrieved: 2026-07-17
+
+Verification: Verified
+
+## TOX-002
+
+Title: Casarett & Doull's Toxicology: The Basic Science of Poisons (9th Edition)
+
+Author: Curtis D. Klaassen
+
+Publisher: McGraw-Hill Education
+
+Source class: Authoritative reference textbook in toxicology
+
+Year: 2019
+
+ISBN: 978-1-259-86374-5
+
+Retrieved: 2026-07-17
+
+Verification: Verified

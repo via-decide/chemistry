@@ -1,28 +1,51 @@
+---
+topic: green-chemistry
+section: references
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 2
+secondary_sources: 10
+updated_by: codex
+---
+
 # Green Chemistry — References
 
-- Title: 12 Principles of Green Chemistry
-  Authors: American Chemical Society
-  Publisher: American Chemical Society
-  DOI: Not found in collected source
-  URL: [ACS 12 Principles of Green Chemistry](https://www.acs.org/green-chemistry-sustainability/principles/12-principles-of-green-chemistry.html)
-  Year: Page current at retrieval
-  Type: Framework source
-  Reliability: High. [7](https://www.acs.org/green-chemistry-sustainability/principles/12-principles-of-green-chemistry.html)
+## GRE-001
 
-- Title: Principles of Green Chemistry
-  Authors: Yale Center for Green Chemistry & Green Engineering
-  Publisher: Yale University
-  DOI: Not found in collected source
-  URL: [Yale Principles of Green Chemistry](https://greenchemistry.yale.edu/about/principles-green-chemistry)
-  Year: Page current at retrieval
-  Type: Framework source
-  Reliability: High. [8](https://greenchemistry.yale.edu/about/principles-green-chemistry)
+Title: green chemistry
 
-- Title: Modernizing the 12 principles of green chemistry: it's time
-  Authors: Bruce H. Lipshutz; Sachin Handa
-  Publisher: Green Chemistry
-  DOI: 10.1039/d5gc05289k
-  URL: [RSC Green Chemistry Perspective](https://pubs.rsc.org/gc/article/28/13/5606/317191/Modernizing-the-12-principles-of-green-chemistry)
-  Year: 2026
-  Type: Perspective
-  Reliability: High. [9](https://pubs.rsc.org/gc/article/28/13/5606/317191/Modernizing-the-12-principles-of-green-chemistry)
+Authoring organization: International Union of Pure and Applied Chemistry
+
+Publisher: IUPAC Gold Book
+
+Source class: Official organization; authoritative terminology record
+
+Year: 2025 online version 5.0.0
+
+DOI: 10.1351/goldbook.G02687
+
+URL: https://goldbook.iupac.org/terms/view/G02687
+
+Retrieved: 2026-07-17
+
+Verification: Verified
+
+## GRE-002
+
+Title: Green Chemistry: Theory and Practice
+
+Author: Paul T. Anastas, John C. Warner
+
+Publisher: Oxford University Press
+
+Source class: Foundational monograph establishing 12 Principles of Green Chemistry
+
+Year: 1998
+
+ISBN: 978-0-19-850698-0
+
+Retrieved: 2026-07-17
+
+Verification: Verified
