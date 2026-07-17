@@ -8,7 +8,6 @@ difficulty: intermediate_to_advanced
 prerequisites:
   - spectroscopy
   - quantum-chemistry
-  - organic-chemistry
   - chemical-kinetics
 depends_on:
   - excited-states
@@ -17,30 +16,36 @@ depends_on:
   - electron-transfer
 used_by:
   - organic-chemistry
+  - atmospheric-chemistry
   - environmental-chemistry
   - materials-chemistry
   - photomedicine
-  - solar-energy
 industry_tags:
   - photocatalysis
+  - polymer curing
   - photomedicine
   - solar fuels
-  - sensors
   - sustainable synthesis
-history_people: []
 equations:
-  - E = h nu
+  - photon energy
+  - Beer-Lambert relation
+  - absorbed photon fraction
   - quantum yield
-  - photochemical rate expressions
+  - actinometric photon flux
+  - spectral photolysis frequency
 datasets:
-  - IUPAC Gold Book
-  - IUPAC photochemistry glossary
+  - IUPAC Gold Book version 5.0.0
+  - IUPAC chemical actinometry technical report
+  - NASA JPL Evaluation 19 photochemical data
 related_topics:
   - spectroscopy
   - quantum-chemistry
-  - organic-chemistry
+  - chemical-kinetics
   - catalysis
+  - atmospheric-chemistry
 source_balance_target:
   max_openstax_fraction: 0.05
-  min_iupac_fraction: 0.25
-  min_peer_reviewed_review_fraction: 0.35
+  min_iupac_fraction: 0.35
+  min_official_data_fraction: 0.15
+  min_peer_reviewed_review_fraction: 0.25
+  min_primary_literature_fraction: 0.10

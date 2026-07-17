@@ -1,21 +1,29 @@
-# Photochemistry — History Research
+---
+topic: photochemistry
+section: history
+status: draft
+version: 1.0
+last_reviewed: 2026-07-17
+confidence: high
+primary_sources: 0
+secondary_sources: 3
+updated_by: codex
+---
 
-## Historical source anchors
+# Photochemistry — History
 
-- Source: IUPAC photochemistry glossary
-  Confidence: High
-  Evidence: The IUPAC glossary document states that the 3rd edition corrected and updated the 2nd edition of the Glossary of Terms Used in Photochemistry. [9](https://publications.iupac.org/pac/2007/pdf/7903x0293.pdf)
+### Claim PHO-C027
 
-- Source: Chemical Reviews
-  Publication: Introduction: Photochemical Catalytic Processes
-  Confidence: High
-  Evidence: ACS states that chemists have been fascinated by visible light since the early days of organic synthesis and that photochemistry can unlock reaction pathways unavailable to conventional ground-state reactivity. [10](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.1c00993?download=true)
+Statement: The current topic contract uses the IUPAC Recommendations 2006 third-edition photochemistry glossary, published in 2007 as a corrected and updated successor to the 1996 second edition.
 
-## Primary-literature extraction queue
+Evidence: PHO-001
 
-- Early photochemical reaction studies.
-- Quantum yield papers.
-- Photoredox catalysis founding papers.
-- Photodynamic therapy history.
-- Solar photochemistry papers.
-- IUPAC photochemistry glossary source papers.
+Status: Verified
+
+## Historical publication boundary
+
+- PHO-016 provides modern thematic context, not primary evidence for early discoveries.
+- PHO-019 reviews recent theoretical developments, not the discovery priority of specific photochemical laws or named reactions.
+- No origin story, named-law priority claim, or classic experimental result is approved for S085–S088 until a primary historical source is selected and verified.
+
+Historical research tasks are maintained in `research-queue.md` rather than presented as finished narrative.
